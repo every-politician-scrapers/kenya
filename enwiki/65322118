@@ -1,0 +1,65 @@
+{
+  "title": "Simon Chelugui",
+  "pageID": 65322118,
+  "categories": [
+    "Kenyan politicians",
+    "Year of birth missing (living people)",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Simon Chelugui is a Kenyan politician who is currently Cabinet Secretary for Labour and Social Services",
+              "links": [
+                {
+                  "text": "Kenyan",
+                  "type": "internal",
+                  "page": "Kenya"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Simon Chelugui"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was previously Cabinet Secretary for Water."
+            },
+            {
+              "text": "During his time as water secretary he was questioned by police over the Itare Dam project."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://cabinetoffice.go.ke/current-cabinet/",
+          "title": "Current Cabinet",
+          "publisher": "Cabinet Office",
+          "access-date": "2020-09-15",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.standardmedia.co.ke/nairobi/article/2001351966/water-cs-chelugui-questioned-over-sh19b-itare-dam",
+          "title": "Water CS Simon Chelugui questioned over stalled Sh19b Itare Dam",
+          "date": "2019-12-04",
+          "access-date": "2020-09-15",
+          "publisher": "The Standard",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

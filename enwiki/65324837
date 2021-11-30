@@ -1,0 +1,88 @@
+{
+  "title": "Betty Maina",
+  "pageID": 65324837,
+  "categories": [
+    "Kenyan politicians",
+    "Year of birth missing (living people)",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Betty Maina is a Kenyan politician who is currently Cabinet Secretary for Industrialization, Trade and Enterprise Development in the cabinet of Kenya.",
+              "links": [
+                {
+                  "text": "Kenyan",
+                  "type": "internal",
+                  "page": "Kenya"
+                },
+                {
+                  "text": "cabinet of Kenya",
+                  "type": "internal",
+                  "page": "cabinet of Kenya"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Betty Maina"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to taking up her position in the cabinet in 2020 she held roles at the Kenya Association of Manufacturers and the United Nations and as the Principle Secretary of the department for Industrialization, Trade and Enterprise Development.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://cabinetoffice.go.ke/current-cabinet/",
+          "title": "Current Cabinet",
+          "publisher": "Cabinet Office",
+          "access-date": "2020-09-15",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.capitalfm.co.ke/business/2020/03/betty-maina-takes-over-industrialization-ministry-pledges-to-support-smes/",
+          "publisher": "Capital FM",
+          "title": "Betty Maina Takes Over Industrialization Ministry, Pledges To Support SMEs",
+          "access-date": "2020-09-15",
+          "date": "2020-03-02",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://nation.africa/kenya/news/politics/the-rise-and-rise-of-betty-maina-241072",
+          "publisher": "Daily Nation",
+          "date": "2020-01-15",
+          "access-date": "2020-09-15",
+          "title": "The rise and rise of Betty Maina",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

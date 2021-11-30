@@ -1,0 +1,234 @@
+{
+  "title": "Eugene Wamalwa",
+  "pageID": 18024104,
+  "categories": [
+    "Members of the National Assembly (Kenya)",
+    "Living people",
+    "Kenyan Luhya people",
+    "Members of the 11th Parliament of Kenya",
+    "Government ministers of Kenya",
+    "1969 births",
+    "People from Bungoma County"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": " Eugene Ludovic Wamalwa is a Kenyan politician who is the Cabinet Secretary of the Ministry of Defence.",
+              "formatting": {
+                "bold": [
+                  " Eugene Ludovic Wamalwa"
+                ]
+              }
+            },
+            {
+              "text": "Until 29 September 2021, he was Cabinet Secretary of Devolution."
+            },
+            {
+              "text": "He is also a former minister for Justice."
+            },
+            {
+              "text": "He also served as Minister for Water and Irrigation."
+            },
+            {
+              "text": "He belongs to the Jubilee Party and was elected to represent the Saboti Constituency in the National Assembly of Kenya since the 2007 Kenyan parliamentary election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jubilee Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Saboti Constituency"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Kenya"
+                },
+                {
+                  "text": "2007 Kenyan parliamentary election",
+                  "type": "internal",
+                  "page": "2007 Kenyan parliamentary election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2019",
+          "template": "engvarb"
+        },
+        {
+          "date": "January 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1969",
+          "month": "04",
+          "day": "01",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Eugene Wamalwa"
+          },
+          "image": {
+            "text": "Eugene_Wamalwa.jpg"
+          },
+          "office": {
+            "text": "Cabinet Secretary for Defense"
+          },
+          "term_start": {
+            "text": "29 Sept 2021"
+          },
+          "office1": {
+            "text": "Cabinet Secretary for Water and Irrigation"
+          },
+          "term_start1": {
+            "text": "9 July 2015"
+          },
+          "term_end1": {
+            "text": "26 January 2018"
+          },
+          "president1": {
+            "text": "Uhuru Kenyatta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uhuru Kenyatta"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Mwangi Festus Kiunjuri"
+          },
+          "office2": {
+            "text": "Minister of Justice, National Cohesion and Constitutional Affairs",
+            "links": [
+              {
+                "text": "Minister of Justice, National Cohesion and Constitutional Affairs",
+                "type": "internal",
+                "page": "Minister of Justice (Kenya)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "May 2011"
+          },
+          "term_end2": {
+            "text": "April 2013"
+          },
+          "predecessor2": {
+            "text": "Mutula Kilonzo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mutula Kilonzo"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of Parliament\nfor Saboti",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Member of Parliament (Kenya)"
+              },
+              {
+                "text": "Saboti",
+                "type": "internal",
+                "page": "Saboti Constituency"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "January 2007"
+          },
+          "term_end3": {
+            "text": "January 2013"
+          },
+          "predecessor3": {
+            "text": "Davis Wafula Nakitare"
+          },
+          "successor3": {
+            "text": "David Wafula Wekesa"
+          },
+          "birth_date": {
+            "text": "April 1, 1969"
+          },
+          "birth_place": {
+            "text": "Saboti, Trans Nzoia"
+          },
+          "nationality": {
+            "text": "Kenyan"
+          },
+          "party": {
+            "text": "New Ford–Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Ford–Kenya"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Lucy Musundi"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "relations": {
+            "text": "Michael Wamalwa (brother)",
+            "links": [
+              {
+                "text": "Michael Wamalwa",
+                "type": "internal",
+                "page": "Michael Kijana Wamalwa"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Nairobi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Nairobi"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://starfmke.com/2015/07/09/eugene-wamalwa-finally-sworn-in-as-cs-for-water-and-irrigation/",
+          "title": "Eugene Wamalwa finally sworn in as CS for Water and Irrigation",
+          "website": "starfmke.com/",
+          "access-date": "27 July 2015 }}{{Dead link|date=August 2019 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "title": "Raychelle Omamo",
+  "pageID": 39216677,
+  "categories": [
+    "Alumni of the University of Kent",
+    "Kenyan lawyers",
+    "Kenyan women lawyers",
+    "Ambassadors of Kenya to France",
+    "Ambassadors of Kenya to Portugal",
+    "Ambassadors of Kenya to the Holy See",
+    "Ambassadors of Kenya to Serbia",
+    "Government ministers of Kenya",
+    "Living people",
+    "Women government ministers of Kenya",
+    "Female defence ministers",
+    "21st-century women politicians",
+    "1952 births",
+    "Female foreign ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Raychelle Awour Omamo (born July 1962) is a Kenyan lawyer and politician and an advocate of the High Court of Kenya.",
+              "links": [
+                {
+                  "text": "Kenyan",
+                  "type": "internal",
+                  "page": "Kenya"
+                },
+                {
+                  "text": "lawyer",
+                  "type": "internal",
+                  "page": "lawyer"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "advocate",
+                  "type": "internal",
+                  "page": "advocate"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Raychelle Awour Omamo"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan lawyer and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1962",
+          "month": "07",
+          "day": "06",
+          "template": "birth date and age"
+        },
+        {
+          "date": "January 2020",
+          "template": "fact"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Raychelle Omamo"
+          },
+          "image": {
+            "text": "Visit of Raychelle Omamo, Kenyan Minister for Foreign Affairs, to the European Commission (cropped).jpg"
+          },
+          "office": {
+            "text": "Cabinet Secretary for Foreign Affairs",
+            "links": [
+              {
+                "text": "Cabinet Secretary for Foreign Affairs",
+                "type": "internal",
+                "page": "Minister for Foreign Affairs (Kenya)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "14 January 2020"
+          },
+          "president": {
+            "text": "Uhuru Kenyatta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uhuru Kenyatta"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Monica Juma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Monica Juma"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Cabinet Secretary for Defence"
+          },
+          "term_start1": {
+            "text": "15 May 2013"
+          },
+          "term_end1": {
+            "text": "14 January 2020"
+          },
+          "president1": {
+            "text": "Uhuru Kenyatta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uhuru Kenyatta"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Mohamed Yusuf Haji",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohamed Yusuf Haji"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Monica Juma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Monica Juma"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 6, 1962"
+          },
+          "nationality": {
+            "text": "Kenyan"
+          },
+          "alma_mater": {
+            "text": "University of Kent",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Kent"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Advocate",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Advocate"
+              }
+            ]
+          },
+          "blank1": {
+            "text": "Religion"
+          },
+          "data1": {
+            "text": "Christian"
+          }
+        }
+      ]
+    }
+  ]
+}

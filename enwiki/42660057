@@ -1,0 +1,125 @@
+{
+  "title": "Kenneth Lusaka",
+  "pageID": 42660057,
+  "categories": [
+    "Living people",
+    "Speakers of the Senate of Kenya",
+    "County Governors of Kenya",
+    "1963 births",
+    "Alumni of Friends School Kamusinga",
+    "People from Bungoma County"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kenneth Makelo Lusaka (born 18 September 1963) is the 2nd and current speaker of the Kenyan Senate.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kenyan Senate"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kenneth Makelo Lusaka"
+                ]
+              }
+            },
+            {
+              "text": "Previously, he served as the 1st Governor of Bungoma County in Kenya.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bungoma County"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kenya"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "July 2015",
+          "template": "engvarb"
+        },
+        {
+          "date": "July 2015",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kenneth Makelo Lusaka"
+          },
+          "order1": {
+            "text": "2nd"
+          },
+          "office1": {
+            "text": "Speaker of the Kenyan Senate"
+          },
+          "term_start1": {
+            "text": "31 August 2017"
+          },
+          "predecessor1": {
+            "text": "Ekwee Ethuro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ekwee Ethuro"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Governor of Bungoma County",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bungoma County"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "4 March 2013"
+          },
+          "term_end2": {
+            "text": "8 August 2017"
+          },
+          "successor2": {
+            "text": "Wycliffe Wangamati",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wycliffe Wangamati"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "18 September 1963"
+          },
+          "birth_place": {
+            "text": "Bungoma County",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bungoma County"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Kenyan"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "title": "Patrick Ngugi Njoroge",
+  "pageID": 47020047,
+  "categories": [
+    "Governors of the Central Bank of Kenya",
+    "1961 births",
+    "Living people",
+    "Kikuyu people",
+    "Kenyan economists",
+    "Kenyan Roman Catholics",
+    "Opus Dei members",
+    "Yale University alumni",
+    "University of Nairobi alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Patrick Ngugi Njoroge is a Kenyan economist, banker and the 9th governor of the Central Bank of Kenya.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Central Bank of Kenya"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Patrick Ngugi Njoroge"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "June 2015",
+          "template": "use dmy dates"
+        },
+        {
+          "birth_year": "1961",
+          "template": "birth year and age"
+        },
+        {
+          "list": [
+            "University of Nairobi",
+            "Yale University"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Patrick Ngugi Njoroge"
+          },
+          "image": {
+            "text": "Patrick Njoroge.png"
+          },
+          "birth_date": {
+            "text": "1961 (age 60)"
+          },
+          "birth_place": {
+            "text": "Kakuma, Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kakuma"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Nairobi\n\nYale University"
+          },
+          "occupation": {
+            "text": "Economist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economist"
+              }
+            ]
+          },
+          "years_active": {
+            "text": "1985 — present"
+          },
+          "nationality": {
+            "text": "Kenyan"
+          },
+          "citizenship": {
+            "text": "Kenya"
+          },
+          "known_for": {
+            "text": "Economics, Fiscal Discipline",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economics"
+              },
+              {
+                "text": "Fiscal Discipline",
+                "type": "internal",
+                "page": "Fiscal policy"
+              }
+            ]
+          },
+          "title": {
+            "text": "Governor Central Bank of Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor"
+              },
+              {
+                "type": "internal",
+                "page": "Central Bank of Kenya"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Governor Central Bank of Kenya"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

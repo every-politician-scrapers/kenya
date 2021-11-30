@@ -1,0 +1,148 @@
+{
+  "title": "Paul Kihara Kariuki",
+  "pageID": 56578276,
+  "categories": [
+    "1954 births",
+    "Living people",
+    "Kenyan judges"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Paul Kihara Kariuki is a Kenyan lawyer and a former court of appeal president and judge.",
+              "formatting": {
+                "bold": [
+                  "Paul Kihara Kariuki"
+                ]
+              }
+            },
+            {
+              "text": "He was nominated for the post of Office of Attorney General of Kenya by President Uhuru Kenyatta on 13 February 2018 following the resignation of Githu Muigai."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan lawyer",
+          "template": "short description"
+        },
+        {
+          "spouse": "Sarah Njoki Kariuki",
+          "from": "1976",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Paul Kihara Kariuki"
+          },
+          "office": {
+            "text": "Attorney General of Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Attorney General of Kenya"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 February 2018"
+          },
+          "appointer": {
+            "text": "Uhuru Kenyatta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uhuru Kenyatta"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Githu Muigai",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Githu Muigai"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Court of Appeal President",
+            "links": [
+              {
+                "text": "Court of Appeal",
+                "type": "internal",
+                "page": "Court of Appeal of Kenya"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2012",
+            "number": 2012
+          },
+          "term_end2": {
+            "text": "2018",
+            "number": 2018
+          },
+          "successor2": {
+            "text": "William Ouko"
+          },
+          "nationality": {
+            "text": "Kenyan"
+          },
+          "spouse": {
+            "text": "Sarah Njoki Kariuki (m. 1976)"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "University of Nairobi (Bachelors of Law)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Nairobi"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Lawyer"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://citizentv.co.ke/news/justice-william-ouko-elected-court-of-appeal-president-193185",
+          "title": "Justice William Ouko elected Court of Appeal President",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.capitalfm.co.ke/news/2018/02/githu-out-as-uhuru-taps-appellate-court-president-kihara-kariuki-for-ag/",
+          "title": "Githu out as Uhuru taps Appellate Court President Kihara Kariuki for AG » Capital News",
+          "date": "13 February 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://citizentv.co.ke/news/attorney-general-prof-githu-muigai-resigns-190834/",
+          "title": "Attorney General Prof. Githu Muigai resigns",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "February 2018",
+          "template": "citation needed"
+        }
+      ]
+    }
+  ]
+}

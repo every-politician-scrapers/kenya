@@ -1,0 +1,241 @@
+{
+  "title": "Ukur Yatani Kanacho",
+  "pageID": 56514589,
+  "categories": [
+    "Kenyan politicians",
+    "People from Marsabit County",
+    "1967 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ukur Yatani Kanacho is a Kenyan politician and ambassador, and was appointed as Treasury Secretary on 14 January 2020.",
+              "formatting": {
+                "bold": [
+                  "Ukur Yatani Kanacho"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Yatani served as the First Governor of Marsabit County from 2013 to 2017, was the Permanent Representative to the United Nations in Vienna from 2009 to 2012, and served as the Member of Parliament for North Horr Constituency in 2006.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Marsabit County"
+                }
+              ]
+            },
+            {
+              "text": "In 2019 he served as the Cabinent Secretary for Labour and Social Protection."
+            },
+            {
+              "text": "In 2020 he was named Cabinent Secretary or the National Treasury."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan politician and ambassador",
+          "template": "short description"
+        },
+        {
+          "date": "September 2019",
+          "template": "engvarb"
+        },
+        {
+          "date": "April 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1967",
+          "month": "03",
+          "day": "12",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Ambassador"
+          },
+          "name": {
+            "text": "Ukur Yatani Kanacho"
+          },
+          "image": {
+            "text": "Ukur Yatani.jpg"
+          },
+          "office": {
+            "text": "Finance Cabinet Secretary"
+          },
+          "term_start": {
+            "text": "2020",
+            "number": 2020
+          },
+          "predecessor": {
+            "text": "Hon Henry Rotich"
+          },
+          "office2": {
+            "text": "Labour and Social Protection Cabinent Secretary"
+          },
+          "term_start2": {
+            "text": "2019",
+            "number": 2019
+          },
+          "term_end2": {
+            "text": "2020",
+            "number": 2020
+          },
+          "predecessor2": {
+            "text": "Phyllis Kandie"
+          },
+          "office3": {
+            "text": "Governor of Marsabit County"
+          },
+          "term_start3": {
+            "text": "2013",
+            "number": 2013
+          },
+          "term_end3": {
+            "text": "2017",
+            "number": 2017
+          },
+          "predecessor3": {
+            "text": "Inaugural officeholder"
+          },
+          "office4": {
+            "text": "Permanent Representative to the United Nations, Vienna"
+          },
+          "term_start4": {
+            "text": "2009",
+            "number": 2009
+          },
+          "term_end4": {
+            "text": "2012",
+            "number": 2012
+          },
+          "office5": {
+            "text": "Member of the Kenyan Parliament, North Horr Constituency"
+          },
+          "term_start5": {
+            "text": "2006",
+            "number": 2006
+          },
+          "term_end5": {
+            "text": "2007",
+            "number": 2007
+          },
+          "constituency5": {
+            "text": "North"
+          },
+          "birthname": {
+            "text": "Ukur Yatani Kanacho"
+          },
+          "birth_date": {
+            "text": "March 12, 1967"
+          },
+          "birth_place": {
+            "text": "Marsabit",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marsabit"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Kenyan",
+            "links": [
+              {
+                "text": "Kenyan",
+                "type": "internal",
+                "page": "Kenya"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Dr. Gumato Yatani"
+          },
+          "alma_mater": {
+            "text": "Egerton University University of York",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Egerton University"
+              },
+              {
+                "type": "internal",
+                "page": "University of York"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Public Servant"
+          },
+          "website": {
+            "text": "www.ukurkanacho.com"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.unis.unvienna.org/unis/en/pressrels/2009/unisbio893.html",
+          "title": "New Permanent Representative of the Republic of Kenya Presents Credentials",
+          "last": "angelika.engl",
+          "website": "www.unis.unvienna.org",
+          "language": "en",
+          "access-date": "6 February 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nation.co.ke/news/politics/High-stakes-in-contest-for-governor-seat-/1064-1458624-i8ysshz/index.html",
+          "title": "High stakes in contest for governor seat",
+          "work": "Daily Nation",
+          "access-date": "6 February 2018",
+          "language": "en-UK",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.capitalfm.co.ke/news/2020/01/yatani-confirmed-national-treasury-cs-as-president-kenyatta-realigns-cabinet/",
+          "title": "Yatani confirmed National Treasury CS as President Kenyatta realigns cabinet » Capital News",
+          "date": "14 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Kenya's New Treasury Chief Pledges to Tighten Purse Strings",
+          "date": "15 January 2020",
+          "first": "David",
+          "last": "Herbling",
+          "publisher": "Bloomberg News",
+          "url": "https://www.bloomberg.com/news/articles/2020-01-15/kenya-s-new-treasury-chief-pledges-to-tighten-purse-strings",
+          "archive-url": "https://archive.today/20200116215745/https://www.bloomberg.com/news/articles/2020-01-15/kenya-s-new-treasury-chief-pledges-to-tighten-purse-strings?utm_source=dailybrief&utm_medium=email&utm_campaign=DailyBrief2020jan16&utm_term=DailyNewsBrief",
+          "archive-date": "16 January 2020",
+          "access-date": "16 January 2020",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

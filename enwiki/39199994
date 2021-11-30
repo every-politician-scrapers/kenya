@@ -1,0 +1,140 @@
+{
+  "title": "James Wainaina Macharia",
+  "pageID": 39199994,
+  "categories": [
+    "1959 births",
+    "Kenyan accountants",
+    "University of Nairobi alumni",
+    "Alumni of the University of Reading",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "James Wainaina Macharia (born 1959) is a Kenyan accountant who was nominated by President Uhuru Kenyatta as Cabinet Secretary for transport in November 2015.He replaced in acting capacity Michael kamau who was suspended in March  2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kenyan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Uhuru Kenyatta"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "James Wainaina Macharia"
+                ]
+              }
+            },
+            {
+              "text": "Before that he was the cabinet secretary for health."
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan accountant",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1959",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "James Macharia"
+          },
+          "image": {
+            "text": "James Wainaina Macharia.jpg"
+          },
+          "office": {
+            "text": "Cabinet Secretary for transport"
+          },
+          "term_start": {
+            "text": "November 2015"
+          },
+          "president": {
+            "text": "Uhuru Kenyatta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uhuru Kenyatta"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Michael kamau"
+          },
+          "birth_date": {
+            "text": "1959 (age 62)"
+          },
+          "birth_place": {
+            "text": "Gachocho, British Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "British Kenya"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Kenyan"
+          },
+          "spouse": {
+            "text": "Pamela Chanda"
+          },
+          "children": {
+            "text": "Martin Sandra"
+          },
+          "alma_mater": {
+            "text": "University of Nairobi (BCom) Henley Mngt. Coll. (MBA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Nairobi"
+              },
+              {
+                "text": "Henley Mngt. Coll.",
+                "type": "internal",
+                "page": "Henley Management College"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Accountant: (CA, CPA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Accountant"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.scribd.com/doc/137564995/Cabinet-Secretaries-Nominees-CVs",
+          "title": "James Macharia CV",
+          "publisher": "State House",
+          "location": "Nairobi",
+          "accessdate": "23 April 2013",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

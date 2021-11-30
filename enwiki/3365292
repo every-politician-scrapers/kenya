@@ -1,0 +1,68 @@
+{
+  "title": "Raphael Tuju",
+  "pageID": 3365292,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "Alumni of Starehe Boys Centre and School",
+    "Alumni of the University of Leicester",
+    "Government ministers of Kenya",
+    "Jubilee Party politicians",
+    "Members of the National Assembly (Kenya)",
+    "National Rainbow Coalition politicians",
+    "Party of National Unity (Kenya) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Raphael Tuju, EGH (born 30 March 1959) is a Kenyan politician.",
+              "links": [
+                {
+                  "text": "EGH",
+                  "type": "internal",
+                  "page": "Order of the Golden Heart of Kenya"
+                },
+                {
+                  "text": "Kenyan",
+                  "type": "internal",
+                  "page": "Kenya"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Raphael Tuju"
+                ]
+              }
+            },
+            {
+              "text": "In 2002—after a career as a journalist, TV producer, and real estate investor—Tuju was elected to parliament and has served the Government of Kenya in various capacities since that time."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2011",
+          "template": "original research"
+        },
+        {
+          "date": "May 2013",
+          "template": "engvarb"
+        },
+        {
+          "date": "May 2013",
+          "template": "use dmy dates"
+        }
+      ]
+    }
+  ]
+}
