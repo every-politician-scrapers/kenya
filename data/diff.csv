@@ -1,24 +1,5 @@
 @@,name,position
-+++,Ukur Yattani,"CS, National Treasury and Planning"
-+++,Simon Chelugui,"CS, Labour and Social Services"
-+++,Sicily Kanini Kariuki,CS-Water and Sanitation and Irrigation
-+++,Raphael Tuju,Cabinet Secretary
-+++,Prof. Margaret Kobia,"CS, Public Service and Gender Affairs"
-+++,"Prof. George A. O. Magoha, CBS","CS, Education"
-+++,Peter Munya,"CS, Agriculture, Livestock, Fisheries and Coop"
-+++,Paul Kihara Kariuki,Attorney General of Kenya
-+++,Najib Balala,"CS, Tourism and Wildlife"
-+++,"Mutahi Kagwe, EGH","CS, Health"
-+++,Keriako Tobiko,"CS, Environment and Forestry"
-+++,John Munyes,"CS, Petroleum and Mining"
-+++,Joe Mucheru,"CS-ICT, Innovation and Youth Affairs"
-+++,James Macharia,"CS, Transport and Infrastructure Development"
-+++,Farida Karoney,"CS, Lands"
-+++,Eugene Wamalwa,"CS, Devolution and ASAL Areas"
-+++,Dr. Fred Matiang'i,"CS, Interior and Coordination of National Government"
-+++,Charles Keter,"CS, Energy"
-+++,Betty Maina,"CS-Industrialization, Trade and Enterprise Development"
-+++,Amb. Raychelle Omamo,"CS, Foreign Affairs"
+->,Eugene Wamalwa,"Minister of Defence of Kenya->CS, Devolution and ASAL Areas"
+->,Charles Keter,"Secretary for Devolution and ASAL Areas->CS, Energy"
+---,Monica Juma,Secretary for Energy and Petroleum
 +++,Amb. Monica Juma,CS-Defence
-+++,Amb. Amina Mohamed,"CS, Sports and Heritage"
-+++,Adan Mohammed,"CS, East African Community and Northern Corridor Development"
