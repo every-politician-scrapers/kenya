@@ -92,7 +92,16 @@
             "text": "Cabinet Secretary for Defense"
           },
           "term_start": {
-            "text": "29 Sept 2021"
+            "text": "29 September 2021"
+          },
+          "predecessor": {
+            "text": "Monica Juma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Monica Juma"
+              }
+            ]
           },
           "office1": {
             "text": "Cabinet Secretary for Water and Irrigation"
