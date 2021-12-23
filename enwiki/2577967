@@ -287,13 +287,18 @@
             ]
           },
           "party": {
-            "text": "UDA (2021–Present) \nJubilee (2016–2020)\nURP (2012–2016)\nODM\nKANU",
+            "text": "UDA (2021–present)",
             "links": [
               {
                 "text": "UDA",
                 "type": "internal",
                 "page": "United Democratic Alliance (Kenya)"
-              },
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Jubilee (2016–2021)\nURP (2012–2016)\nODM (2005–2011)\nKANU (until 2005)",
+            "links": [
               {
                 "text": "Jubilee",
                 "type": "internal",
