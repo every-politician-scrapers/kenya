@@ -30,7 +30,7 @@
         {
           "sentences": [
             {
-              "text": "Uhuru Muigai Kenyatta (born 26 October 1961) is a Kenyan politician who has served as the fourth President of Kenya since 2013.",
+              "text": "Uhuru Muigai Kenyatta (born 26 October 1961) is a Kenyan politician who is the fourth and current President of Kenya serving since 2013.",
               "links": [
                 {
                   "text": "Kenyan",
@@ -178,7 +178,7 @@
       ],
       "templates": [
         {
-          "description": "President of Kenya since 2013",
+          "description": "Current President of Kenya",
           "template": "short description"
         },
         {
@@ -210,15 +210,15 @@
             ]
           },
           "name": {
-            "text": "Uhuru Muigai Kenyatta"
+            "text": "Uhuru Kenyatta"
           },
           "honorific-suffix": {
-            "text": "CGH",
+            "text": "C.G.H.",
             "links": [
               {
-                "text": "CGH",
+                "text": "C.G.H.",
                 "type": "internal",
-                "page": "Chief of the Order of the Golden Heart of Kenya"
+                "page": "State Commendations of Kenya"
               }
             ]
           },
@@ -342,13 +342,7 @@
             ]
           },
           "successor3": {
-            "text": "Robinson Michael Githae",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Robinson Michael Githae"
-              }
-            ]
+            "text": "Robinson Michael Githae"
           },
           "office4": {
             "text": "Leader of the Opposition"
@@ -483,7 +477,7 @@
             ]
           },
           "nickname": {
-            "text": "Jayden, wanjohi wamashati Kali kali, Uhunye, Kamwana"
+            "text": "Jayden, Wanjohi wa masharti kali kali, Uhunye, Kamwana"
           },
           "signature": {
             "text": "Uhuru Kenyatta signature.png"

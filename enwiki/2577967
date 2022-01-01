@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "William Samoei Runye Arap Ruto (born 21 December 1966) is a Kenyan politician.",
+              "text": "William Samoei Runye Arap Ruto (born 21 December 1966) better known as William Ruto, is a Kenyan politician.",
               "links": [
                 {
                   "text": "politician",
@@ -35,7 +35,8 @@
               ],
               "formatting": {
                 "bold": [
-                  "William Samoei Runye Arap Ruto"
+                  "William Samoei Runye Arap Ruto",
+                  "William Ruto"
                 ]
               }
             },
@@ -43,7 +44,7 @@
               "text": "Currently, he is the Deputy President of Kenya, a position he has held since 2013."
             },
             {
-              "text": "He served as the Acting President of Kenya between 6 and 8 October 2014 when President Uhuru Kenyatta was at the International Criminal Court (ICC), in the Hague, Netherlands.",
+              "text": "He served as the Acting President of Kenya between 6 and 8 October 2014 when President Uhuru Kenyatta was at the International Criminal Court (ICC), in The Hague, Netherlands.",
               "links": [
                 {
                   "type": "internal",
@@ -54,7 +55,6 @@
                   "page": "International Criminal Court"
                 },
                 {
-                  "text": "Hague",
                   "type": "internal",
                   "page": "The Hague"
                 },
@@ -249,7 +249,7 @@
             ]
           },
           "name": {
-            "text": "William Kipchirchir Runye Ruto"
+            "text": "William Ruto"
           },
           "office": {
             "text": "11th Deputy President of Kenya",
@@ -440,13 +440,7 @@
             ]
           },
           "successor5": {
-            "text": "Margret Nyambura",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Margret Nyambura"
-              }
-            ]
+            "text": "Margret Nyambura"
           },
           "office6": {
             "text": "Minister of Home Affairs"
