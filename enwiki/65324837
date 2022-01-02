@@ -54,34 +54,6 @@
           "description": "Kenyan politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "url": "https://cabinetoffice.go.ke/current-cabinet/",
-          "title": "Current Cabinet",
-          "publisher": "Cabinet Office",
-          "access-date": "2020-09-15",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.capitalfm.co.ke/business/2020/03/betty-maina-takes-over-industrialization-ministry-pledges-to-support-smes/",
-          "publisher": "Capital FM",
-          "title": "Betty Maina Takes Over Industrialization Ministry, Pledges To Support SMEs",
-          "access-date": "2020-09-15",
-          "date": "2020-03-02",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://nation.africa/kenya/news/politics/the-rise-and-rise-of-betty-maina-241072",
-          "publisher": "Daily Nation",
-          "date": "2020-01-15",
-          "access-date": "2020-09-15",
-          "title": "The rise and rise of Betty Maina",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

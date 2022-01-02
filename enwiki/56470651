@@ -259,16 +259,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "UoN Digital Repository Home",
-          "url": "http://erepository.uonbi.ac.ke/",
-          "website": "erepository.uonbi.ac.ke",
-          "access-date": "2020-05-28",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

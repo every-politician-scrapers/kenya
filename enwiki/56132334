@@ -232,53 +232,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://nairobinews.nation.co.ke/videos/george-magoha-sworn-in-as-education-cs",
-          "title": "George Magoha sworn in as Education CS",
-          "publisher": "Nairobi News",
-          "format": "Video",
-          "date": "26 March 2019",
-          "access-date": "26 March 2019",
-          "author": "Nairobi News",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "publisher": "98.4 Capital FM",
-          "url": "https://www.capitalfm.co.ke/news/2019/03/magoha-to-take-over-as-education-cs-after-taking-oath-of-office/",
-          "title": "Magoha to take over as Education CS after taking oath of office",
-          "date": "26 March 2019",
-          "access-date": "26 March 2019",
-          "author": "Davis Ayega",
-          "location": "Nairobi",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.kenya-today.com/news/how-91-page-cv-landed-professor-cs-george-magoha-in-education-ministry",
-          "title": "How 91-page CV landed professor CS George Magoha in Education ministry",
-          "publisher": "Kenya-Today.com",
-          "date": "1 March 2019",
-          "access-date": "1 March 2019",
-          "author": "Kenya Today",
-          "location": "Nairobi",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.nation.co.ke/lifestyle/weekend/Prof-Magoha-The-buffalo-who-tamed-university-students/1220-3943516-qeyfh5z/index.html",
-          "title": "Prof Magoha: The 'buffalo' who tamed university students",
-          "newspaper": "Daily Nation",
-          "date": "26 May 2017",
-          "access-date": "26 March 2019",
-          "first": "David",
-          "last": "Aduda",
-          "location": "Nairobi",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

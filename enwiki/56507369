@@ -124,31 +124,6 @@
             }
           }
         }
-      ],
-      "references": [
-        {
-          "date": "26 January 2018",
-          "url": "https://www.nation.co.ke/news/Uhuru-Kenyatta-New-Cabinet/1056-4280236-rnik0d/index.html",
-          "title": "New Cabinet: President Kenyatta's statement in full",
-          "location": "Nairobi",
-          "access-date": "5 February 2018",
-          "newspaper": "Daily Nation",
-          "author": "Presidential Strategic Communications (PSCU)",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "access-date": "5 February 2018",
-          "url": "http://www.pulselive.co.ke/entertainment/farida-karoney-nominated-for-cabinet-position-id7897695.html",
-          "title": "Uhuru picks Citizen TV’s boss for cabinet position",
-          "first": "Sue",
-          "last": "Watiri",
-          "publisher": "Pulselive.co.ke",
-          "date": "26 January 2018",
-          "location": "Nairobi",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
