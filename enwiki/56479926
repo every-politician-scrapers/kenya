@@ -131,30 +131,6 @@
             }
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.nation.co.ke/news/Uhuru-Kenyatta-New-Cabinet/1056-4280236-rnik0d/index.html",
-          "title": "New Cabinet: President Kenyatta's statement in full",
-          "location": "Nairobi",
-          "date": "26 January 2018",
-          "access-date": "2 February 2018",
-          "newspaper": "Daily Nation",
-          "author": "Presidential Strategic Communications (PSCU)",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "format": "PDF",
-          "url": "https://www.effectiveinstitutions.org/media/Chairs__and_Keynote_Speaker_Profiles.pdf",
-          "title": "Professor Margaret Kobia, PhD, CBS, Chairperson Public Service Commission, Kenya",
-          "date": "2016",
-          "publisher": "Effectiveinstitutions.org",
-          "access-date": "2 February 2018",
-          "author": "Effectiveinstitutions.org",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

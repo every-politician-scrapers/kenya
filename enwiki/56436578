@@ -111,37 +111,6 @@
             }
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.the-star.co.ke/news/2020-01-14-kiunjuri-fired-as-uhuru-reshuffles-cabinet/",
-          "title": "Kiunjuri fired as Uhuru reshuffles cabinet",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.nation.co.ke/news/Six-Women-in-the-Cabinet/1056-4280616-cad254/index.html",
-          "title": "Six women make it to Cabinet list",
-          "access-date": "28 January 2018",
-          "date": "27 January 2018",
-          "newspaper": "Daily Nation",
-          "first": "Faith",
-          "last": "Nyamai",
-          "location": "Kampala",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "access-date": "28 January 2018",
-          "url": "http://www.psyg.go.ke/management/cabinet-secretary",
-          "date": "December 2015",
-          "publisher": "Psyg.go.ke",
-          "title": "Cabinet Secretary for Public Service, Youth and Gender Affairs",
-          "author": "Kenya Ministry of Public Service, Youth and Gender Affairs",
-          "location": "Nairobi",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

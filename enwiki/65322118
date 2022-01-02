@@ -40,25 +40,6 @@
             }
           ]
         }
-      ],
-      "references": [
-        {
-          "url": "https://cabinetoffice.go.ke/current-cabinet/",
-          "title": "Current Cabinet",
-          "publisher": "Cabinet Office",
-          "access-date": "2020-09-15",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.standardmedia.co.ke/nairobi/article/2001351966/water-cs-chelugui-questioned-over-sh19b-itare-dam",
-          "title": "Water CS Simon Chelugui questioned over stalled Sh19b Itare Dam",
-          "date": "2019-12-04",
-          "access-date": "2020-09-15",
-          "publisher": "The Standard",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -187,54 +187,6 @@
             "text": "www.ukurkanacho.com"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.unis.unvienna.org/unis/en/pressrels/2009/unisbio893.html",
-          "title": "New Permanent Representative of the Republic of Kenya Presents Credentials",
-          "last": "angelika.engl",
-          "website": "www.unis.unvienna.org",
-          "language": "en",
-          "access-date": "6 February 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.nation.co.ke/news/politics/High-stakes-in-contest-for-governor-seat-/1064-1458624-i8ysshz/index.html",
-          "title": "High stakes in contest for governor seat",
-          "work": "Daily Nation",
-          "access-date": "6 February 2018",
-          "language": "en-UK",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.capitalfm.co.ke/news/2020/01/yatani-confirmed-national-treasury-cs-as-president-kenyatta-realigns-cabinet/",
-          "title": "Yatani confirmed National Treasury CS as President Kenyatta realigns cabinet » Capital News",
-          "date": "14 January 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Kenya's New Treasury Chief Pledges to Tighten Purse Strings",
-          "date": "15 January 2020",
-          "first": "David",
-          "last": "Herbling",
-          "publisher": "Bloomberg News",
-          "url": "https://www.bloomberg.com/news/articles/2020-01-15/kenya-s-new-treasury-chief-pledges-to-tighten-purse-strings",
-          "archive-url": "https://archive.today/20200116215745/https://www.bloomberg.com/news/articles/2020-01-15/kenya-s-new-treasury-chief-pledges-to-tighten-purse-strings?utm_source=dailybrief&utm_medium=email&utm_campaign=DailyBrief2020jan16&utm_term=DailyNewsBrief",
-          "archive-date": "16 January 2020",
-          "access-date": "16 January 2020",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
