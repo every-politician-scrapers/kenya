@@ -240,16 +240,16 @@
       "infoboxes": [
         {
           "honorific_prefix": {
-            "text": "The Honourable",
+            "text": "His Excellency",
             "links": [
               {
                 "type": "internal",
-                "page": "The Honourable"
+                "page": "His Excellency"
               }
             ]
           },
           "name": {
-            "text": "William Ruto"
+            "text": "William Kipchirchir Samoei Arap Ruto"
           },
           "office": {
             "text": "11th Deputy President of Kenya",
@@ -287,12 +287,11 @@
             ]
           },
           "party": {
-            "text": "UDA (2021–present)",
+            "text": "JUBILEE PARTY (2017–present)",
             "links": [
               {
-                "text": "UDA",
                 "type": "internal",
-                "page": "United Democratic Alliance (Kenya)"
+                "page": "JUBILEE PARTY"
               }
             ]
           },
@@ -502,6 +501,58 @@
                 "text": "Eldoret North",
                 "type": "internal",
                 "page": "Eldoret North Constituency"
+              }
+            ]
+          },
+          "office2": {
+            "text": "President of Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Kenya"
+              }
+            ]
+          },
+          "term_end2": {
+            "text": "8 October 2014"
+          },
+          "term_start2": {
+            "text": "6 October 2014"
+          },
+          "caption": {
+            "text": "William Ruto at World Trade Organization Public Forum, 2014",
+            "links": [
+              {
+                "type": "internal",
+                "page": "World Trade Organization"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Uhuru Kenyatta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uhuru Kenyatta"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Uhuru Kenyatta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uhuru Kenyatta"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "PhD",
+            "links": [
+              {
+                "text": "PhD",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
               }
             ]
           }
