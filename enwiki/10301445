@@ -81,9 +81,6 @@
           "term_start": {
             "text": "28 February 2020"
           },
-          "term_end": {
-            "text": "7 August 2017"
-          },
           "predecessor": {
             "text": "Sicily Kariuki",
             "links": [
@@ -109,6 +106,9 @@
           },
           "term_start1": {
             "text": "28 March 2013"
+          },
+          "term_end": {
+            "text": "7 August 2017"
           },
           "president1": {
             "text": "Uhuru Kenyatta"
