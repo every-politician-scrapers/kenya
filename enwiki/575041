@@ -30,7 +30,15 @@
         {
           "sentences": [
             {
-              "text": "Uhuru Muigai Kenyatta (born 26 October 1961) is a Kenyan politician who is the fourth and current President of Kenya serving since 2013.",
+              "text": "Uhuru Muigai Kenyatta (",
+              "formatting": {
+                "bold": [
+                  "Uhuru Muigai Kenyatta"
+                ]
+              }
+            },
+            {
+              "text": "born 26 October 1961) is a Kenyan politician who is the fourth and current President of Kenya serving since 2013.",
               "links": [
                 {
                   "text": "Kenyan",
@@ -41,12 +49,7 @@
                   "type": "internal",
                   "page": "President of Kenya"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Uhuru Muigai Kenyatta"
-                ]
-              }
+              ]
             },
             {
               "text": "He served as the member of parliament (MP) for Gatundu South from 2002 to 2013.",
@@ -196,6 +199,10 @@
           "spouse": "Margaret Gakuo",
           "from": "1991",
           "template": "marriage"
+        },
+        {
+          "template": "ipac",
+          "transcription": "ʊ,h,ʊ,r,ʊ"
         }
       ],
       "infoboxes": [
