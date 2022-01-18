@@ -14,7 +14,7 @@
         {
           "sentences": [
             {
-              "text": "Simon Chelugui is a Kenyan politician who is currently Cabinet Secretary for Labour and Social Services",
+              "text": "Simon Kiprono Chelugui is a Kenyan politician who is currently Cabinet Secretary for Labour",
               "links": [
                 {
                   "text": "Kenyan",
@@ -24,7 +24,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Simon Chelugui"
+                  "Simon Kiprono Chelugui"
                 ]
               }
             }
@@ -33,10 +33,7 @@
         {
           "sentences": [
             {
-              "text": "He was previously Cabinet Secretary for Water."
-            },
-            {
-              "text": "During his time as water secretary he was questioned by police over the Itare Dam project."
+              "text": "He was previously Cabinet Secretary for Water, Sanitation & Irrigation"
             }
           ]
         }
