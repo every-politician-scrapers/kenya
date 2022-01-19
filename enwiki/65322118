@@ -14,7 +14,7 @@
         {
           "sentences": [
             {
-              "text": "Simon Kiprono Chelugui is a Kenyan politician who is currently Cabinet Secretary for Labour",
+              "text": "Simon Kiprono Chelugui is a Kenyan politician who is currently Cabinet Secretary for Labour.",
               "links": [
                 {
                   "text": "Kenyan",
@@ -33,7 +33,13 @@
         {
           "sentences": [
             {
-              "text": "He was previously Cabinet Secretary for Water, Sanitation & Irrigation"
+              "text": "He was previously Cabinet Secretary for Water, Sanitation & Irrigation during the Presidency of Uhuru Kenyatta.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Presidency of Uhuru Kenyatta"
+                }
+              ]
             }
           ]
         }
