@@ -19,13 +19,6 @@
           "sentences": [
             {
               "text": "Dr. Fred Okengo Matiang'i is a Kenyan Cabinet Secretary.",
-              "links": [
-                {
-                  "text": "Kenyan",
-                  "type": "internal",
-                  "page": "Kenya"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Dr. Fred Okengo Matiang'i"
@@ -42,7 +35,7 @@
               ]
             },
             {
-              "text": "He assumed office on 7th July 2017 on acting capacity after the sudden Demise of Gen Joseph ole Nkaissery, making him hold two cabinet positions concurrently, that is in the ministry of Interior and Coordination of National Government and  Education, Science and Technology.",
+              "text": "He assumed office on 7 July 2017 on acting capacity after the sudden Demise of Gen Joseph ole Nkaissery, making him hold two cabinet positions concurrently, that is in the ministry of Interior and Coordination of National Government and  Education, Science and Technology.",
               "links": [
                 {
                   "text": "Joseph ole Nkaissery",
