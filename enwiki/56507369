@@ -22,11 +22,6 @@
               "text": "Farida Karoney is a Kenyan who was nominated by President Uhuru Kenyatta as Cabinet Secretary for Lands, on 26 January 2018.",
               "links": [
                 {
-                  "text": "Kenyan",
-                  "type": "internal",
-                  "page": "Kenya"
-                },
-                {
                   "type": "internal",
                   "page": "Uhuru Kenyatta"
                 }
@@ -97,7 +92,7 @@
             "links": [
               {
                 "type": "internal",
-                "page": "Tanzania "
+                "page": "Tanzania"
               }
             ]
           },

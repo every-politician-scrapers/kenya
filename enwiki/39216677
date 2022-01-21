@@ -28,11 +28,6 @@
               "text": "Raychelle Awour Omamo (born July 1962) is a Kenyan lawyer and politician and an advocate of the High Court of Kenya.",
               "links": [
                 {
-                  "text": "Kenyan",
-                  "type": "internal",
-                  "page": "Kenya"
-                },
-                {
                   "text": "lawyer",
                   "type": "internal",
                   "page": "lawyer"
@@ -67,10 +62,6 @@
           "month": "07",
           "day": "06",
           "template": "birth date and age"
-        },
-        {
-          "date": "January 2020",
-          "template": "fact"
         }
       ],
       "infoboxes": [

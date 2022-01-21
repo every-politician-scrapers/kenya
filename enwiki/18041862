@@ -18,13 +18,6 @@
           "sentences": [
             {
               "text": "Charles Cheruiyot Keter (born 22 November 1969) is a Kenyan politician.",
-              "links": [
-                {
-                  "text": "Kenyan",
-                  "type": "internal",
-                  "page": "Kenya"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Charles Cheruiyot Keter"
