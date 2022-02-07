@@ -505,11 +505,11 @@
             ]
           },
           "office2": {
-            "text": "President of Kenya",
+            "text": "Acting President of Kenya",
             "links": [
               {
                 "type": "internal",
-                "page": "President of Kenya"
+                "page": "Acting President of Kenya"
               }
             ]
           },
