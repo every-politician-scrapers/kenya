@@ -38,7 +38,7 @@
               }
             },
             {
-              "text": "born 26 October 1961) is a Kenyan politician who is the fourth and current President of Kenya serving since 2013.",
+              "text": "born 26 October 1961) is a Kenyan politician who is the president of Kenya serving since 2013.",
               "links": [
                 {
                   "text": "Kenyan",
@@ -46,8 +46,9 @@
                   "page": "Kenya"
                 },
                 {
+                  "text": "president of Kenya",
                   "type": "internal",
-                  "page": "President of Kenya"
+                  "page": "president of Kenya"
                 }
               ]
             },
