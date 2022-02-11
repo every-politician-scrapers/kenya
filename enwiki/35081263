@@ -27,7 +27,14 @@
         {
           "sentences": [
             {
-              "text": "Amina Chawahir Mohamed Jibril (Aamina Maxamed Jibriil; أمينة محمد جبريل), born 5 October 1961, is a Kenyan cabinet secretary, lawyer and a diplomat.",
+              "text": "Amina Chawahir Mohamed Jibril (Aamina Maxamed Jibriil; أمينة محمد جبريل), born 5 October 1961, is a Kenyan cabinet secretary, lawyer and a diplomat of Somali descent.",
+              "links": [
+                {
+                  "text": "Somali",
+                  "type": "internal",
+                  "page": "Somalis"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Amina Chawahir Mohamed Jibril"
