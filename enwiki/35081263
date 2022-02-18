@@ -132,12 +132,7 @@
             "text": "Amina Mohamed"
           },
           "native_name": {
-            "text": "Aamina Maxamed Jibriil أمينة محمد جبريل",
-            "formatting": {
-              "italic": [
-                "Aamina Maxamed Jibriil أمينة محمد جبريل"
-              ]
-            }
+            "text": "''Aamina Maxamed Jibriil\nأمينة محمد جبريل''"
           },
           "image": {
             "text": "Amina Mohamed.jpg"
@@ -335,7 +330,7 @@
             "number": 6
           },
           "alma_mater": {
-            "text": "Kenya School of Law (LLB) University of Kiev (LLM) University of Oxford (PGDip)",
+            "text": "Kenya School of Law (LLB)\nUniversity of Kiev (LLM)\nUniversity of Oxford (PGDip)",
             "links": [
               {
                 "type": "internal",

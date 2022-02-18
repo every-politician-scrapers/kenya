@@ -44,6 +44,12 @@
             }
           ]
         }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan politician",
+          "template": "short description"
+        }
       ]
     }
   ]
