@@ -40,11 +40,12 @@
               }
             },
             {
-              "text": "He previously served as the Managing Director of Barclays Bank in East and West Africa.",
+              "text": "He previously served as the managing director of Barclays Bank in East and West Africa.",
               "links": [
                 {
+                  "text": "managing director",
                   "type": "internal",
-                  "page": "Managing Director"
+                  "page": "managing director"
                 },
                 {
                   "type": "internal",
