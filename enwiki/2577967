@@ -25,12 +25,11 @@
         {
           "sentences": [
             {
-              "text": "Dr William Samoei Arap Ruto (born 21 December 1966) better known as William Ruto, is a Kenyan politician.",
+              "text": "Dr William Samoei Arap Ruto (born 21 December 1966) known as William Ruto, is a Kenyan politician, serving as Deputy President of Kenya since September 2013.",
               "links": [
                 {
-                  "text": "politician",
                   "type": "internal",
-                  "page": "politician"
+                  "page": "Deputy President of Kenya"
                 }
               ],
               "formatting": {
@@ -39,12 +38,13 @@
                   "William Ruto"
                 ]
               }
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "Currently, he is the Deputy President of Kenya, a position he has held since 2013."
-            },
-            {
-              "text": "He served as the Acting President of Kenya between 6 and 8 October 2014 when President Uhuru Kenyatta was at the International Criminal Court (ICC), in The Hague, Netherlands.",
+              "text": "Ruto served as the Acting President of Kenya between 6 and 8 October 2014 when President Uhuru Kenyatta was at the International Criminal Court (ICC), in The Hague, Netherlands.",
               "links": [
                 {
                   "type": "internal",
@@ -104,14 +104,14 @@
               "text": "He was promoted to be Minister for Home Affairs in August 2002."
             },
             {
-              "text": "Ruto has also previously served as the Chairman of the Parliamentary Select Committee on Constitutional Reforms in the 9th Parliament."
+              "text": "He has also previously served as the Chairman of the Parliamentary Select Committee on Constitutional Reforms in the 9th Parliament."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "On 4 March 2013, he became Deputy President of Kenya, when he and Uhuru Kenyatta were declared winners of the 2013 Kenyan general election.",
+              "text": "On 4 March 2013, Ruto became Deputy President of Kenya, when he and Uhuru Kenyatta were declared winners of the 2013 Kenyan general election.",
               "links": [
                 {
                   "text": "2013 Kenyan general election",
@@ -287,11 +287,12 @@
             ]
           },
           "party": {
-            "text": "JUBILEE PARTY (2017–present)",
+            "text": "Independent",
             "links": [
               {
+                "text": "Independent",
                 "type": "internal",
-                "page": "JUBILEE PARTY"
+                "page": "Independent politician"
               }
             ]
           },
@@ -509,7 +510,7 @@
             "links": [
               {
                 "type": "internal",
-                "page": "Acting President of Kenya"
+                "page": "President of Kenya"
               }
             ]
           },

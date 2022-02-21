@@ -51,9 +51,13 @@
                   "page": "president of Kenya"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "He served as the member of parliament (MP) for Gatundu South from 2002 to 2013.",
+              "text": "Uhuru served as the member of parliament (MP) for Gatundu South from 2002 to 2013.",
               "links": [
                 {
                   "text": "Gatundu South",
@@ -103,7 +107,7 @@
         {
           "sentences": [
             {
-              "text": "He is the son of Jomo Kenyatta, Kenya's first president and his fourth wife Mama Ngina Kenyatta.",
+              "text": "Uhuru is the son of Jomo Kenyatta, Kenya's first president and his fourth wife Mama Ngina Kenyatta.",
               "links": [
                 {
                   "type": "internal",
