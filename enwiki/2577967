@@ -65,7 +65,7 @@
               ]
             },
             {
-              "text": "He previously served in various ministerial positions, including the Ministries of Home Affairs, Agriculture, and Higher Education Science and Technology."
+              "text": "He formerly served in various ministerial positions, including the Ministries of Home Affairs, Agriculture, and Higher Education Science and Technology."
             },
             {
               "text": "He was the Secretary General of the Kenya Africa National Union (KANU), the former ruling political party, and the MP for Eldoret North Constituency between December 1997 and January 2013.",
@@ -240,11 +240,11 @@
       "infoboxes": [
         {
           "honorific_prefix": {
-            "text": "His Excellency",
+            "text": "His Excellency/Right Honorable",
             "links": [
               {
                 "type": "internal",
-                "page": "His Excellency"
+                "page": "His Excellency/Right Honorable"
               }
             ]
           },
@@ -287,12 +287,12 @@
             ]
           },
           "party": {
-            "text": "Independent",
+            "text": "UDA",
             "links": [
               {
-                "text": "Independent",
+                "text": "UDA",
                 "type": "internal",
-                "page": "Independent politician"
+                "page": "United Republican Party (Kenya)"
               }
             ]
           },
