@@ -1,193 +1,31 @@
 {
-  "title": "Ukur Yatani Kanacho",
-  "pageID": 56514589,
-  "categories": [
-    "Kenyan politicians",
-    "People from Marsabit County",
-    "1967 births",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ukur Yatani Kanacho is a Kenyan politician and ambassador, and was appointed as Treasury Secretary on 14 January 2020.",
-              "formatting": {
-                "bold": [
-                  "Ukur Yatani Kanacho"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Yatani served as the First Governor of Marsabit County from 2013 to 2017, was the Permanent Representative to the United Nations in Vienna from 2009 to 2012, and served as the Member of Parliament for North Horr Constituency in 2006.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Marsabit County"
-                }
-              ]
-            },
-            {
-              "text": "In 2019 he served as the Cabinent Secretary for Labour and Social Protection."
-            },
-            {
-              "text": "In 2020 he was named Cabinent Secretary or the National Treasury."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Kenyan politician and ambassador",
-          "template": "short description"
-        },
-        {
-          "date": "September 2019",
-          "template": "engvarb"
-        },
-        {
-          "date": "April 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1967",
-          "month": "03",
-          "day": "12",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Ambassador"
-          },
-          "name": {
-            "text": "Ukur Yatani Kanacho"
-          },
-          "image": {
-            "text": "Ukur Yatani.jpg"
-          },
-          "office": {
-            "text": "Finance Cabinet Secretary"
-          },
-          "term_start": {
-            "text": "2020",
-            "number": 2020
-          },
-          "predecessor": {
-            "text": "Hon Henry Rotich"
-          },
-          "office2": {
-            "text": "Labour and Social Protection Cabinent Secretary"
-          },
-          "term_start2": {
-            "text": "2019",
-            "number": 2019
-          },
-          "term_end2": {
-            "text": "2020",
-            "number": 2020
-          },
-          "predecessor2": {
-            "text": "Phyllis Kandie"
-          },
-          "office3": {
-            "text": "Governor of Marsabit County"
-          },
-          "term_start3": {
-            "text": "2013",
-            "number": 2013
-          },
-          "term_end3": {
-            "text": "2017",
-            "number": 2017
-          },
-          "predecessor3": {
-            "text": "Inaugural officeholder"
-          },
-          "office4": {
-            "text": "Permanent Representative to the United Nations, Vienna"
-          },
-          "term_start4": {
-            "text": "2009",
-            "number": 2009
-          },
-          "term_end4": {
-            "text": "2012",
-            "number": 2012
-          },
-          "office5": {
-            "text": "Member of the Kenyan Parliament, North Horr Constituency"
-          },
-          "term_start5": {
-            "text": "2006",
-            "number": 2006
-          },
-          "term_end5": {
-            "text": "2007",
-            "number": 2007
-          },
-          "constituency5": {
-            "text": "North"
-          },
-          "birthname": {
-            "text": "Ukur Yatani Kanacho"
-          },
-          "birth_date": {
-            "text": "March 12, 1967"
-          },
-          "birth_place": {
-            "text": "Marsabit",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marsabit"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Kenyan",
-            "links": [
-              {
-                "text": "Kenyan",
-                "type": "internal",
-                "page": "Kenya"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Dr. Gumato Yatani"
-          },
-          "alma_mater": {
-            "text": "Egerton University University of York",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Egerton University"
-              },
-              {
-                "type": "internal",
-                "page": "University of York"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Public Servant"
-          },
-          "website": {
-            "text": "www.ukurkanacho.com"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Ambassador",
+  "name": "Ukur Yatani Kanacho",
+  "image": "Ukur Yatani.jpg",
+  "office": "Finance Cabinet Secretary",
+  "term_start": "2020",
+  "predecessor": "Hon Henry Rotich",
+  "office2": "Labour and Social Protection Cabinent Secretary",
+  "term_start2": "2019",
+  "term_end2": "2020",
+  "predecessor2": "Phyllis Kandie",
+  "office3": "Governor of Marsabit County",
+  "term_start3": "2013",
+  "term_end3": "2017",
+  "predecessor3": "Inaugural officeholder",
+  "office4": "Permanent Representative to the United Nations, Vienna",
+  "term_start4": "2009",
+  "term_end4": "2012",
+  "office5": "Member of the Kenyan Parliament, North Horr Constituency",
+  "term_start5": "2006",
+  "term_end5": "2007",
+  "constituency5": "North",
+  "birthname": "Ukur Yatani Kanacho",
+  "birth_date": "March 12, 1967",
+  "birth_place": "Marsabit",
+  "nationality": "Kenyan",
+  "spouse": "Dr. Gumato Yatani",
+  "alma_mater": "Egerton University University of York",
+  "occupation": "Public Servant",
+  "website": "www.ukurkanacho.com"
 }
