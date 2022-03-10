@@ -50,7 +50,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     field :itemLabel do
-      tds[-2].text.gsub(/\(.*?\)/, '').tidy
+      (tds[-2].css('a').any? ? tds[-2].css('a').text : tds[-2].text).gsub(/\(.*?\)/, '').tidy
     end
 
     field :constituency do

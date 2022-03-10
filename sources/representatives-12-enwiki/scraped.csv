@@ -88,7 +88,7 @@ Q104857250,Mark Lomunokol,Q6344643,Kacheliba,Q7141057,PARTY FOR DEVELOPMENT AND 
 "",Clement Muturi Kigano,Q6362689,Kangema,Q27963537,Jubilee Party
 "",Fabian Kyule Muli,Q13123144,Kangundo,Q22666185,Muungano Party
 "",Samwel Moroto Chumel,Q13640987,Kapenguria,Q27963537,Jubilee Party
-Q99337189,Oscar Sudi,Q55615677,Kapseret,Q27963537,Jubilee Party
+Q47494377,Oscar Sudi,Q55615677,Kapseret,Q27963537,Jubilee Party
 "",Andrew Adipo Okuome,Q6367802,Karachuonyo,Q1640905,Orange Democratic Movement
 "",Mercy Wanjiku Gakuya,Q6374034,Kasarani,Q27963537,Jubilee Party
 "",Charles Ong’ondo Were,Q47463474,Kasipul,Q1640905,Orange Democratic Movement
@@ -252,8 +252,8 @@ Q5480460,Francis Chachu Ganya,Q7055666,North Horr,Q47492871,Frontier Alliance Pa
 "",Silvanus Osoro Onyiego,Q7568008,South Mugirango,Q6392670,Kenya National Congress
 "",Caleb Kipkemei Kositany,Q47463435,Soy,Q27963537,Jubilee Party
 "",CHARLES KANYI NJAGUA,Q7601801,Starehe,Q27963537,Jubilee Party
-"",Millie Grace Akoth Odhiambo,"",Suba North,Q1640905,Orange Democratic Movement
-Q6799567,Mbadi John Ng'ongo,"",Suba South,Q1640905,Orange Democratic Movement
+"",Millie Grace Akoth Odhiambo,Q6799698,Suba North,Q1640905,Orange Democratic Movement
+Q6799567,Mbadi John Ng'ongo,Q55634139,Suba South,Q1640905,Orange Democratic Movement
 "",Samuel Kinuthia Gachobe,Q7632288,Subukia,Q27963537,Jubilee Party
 "",Junet Sheikh Nuh,Q47463479,Suna East,Q1640905,Orange Democratic Movement
 "",Peter Francis Masara,Q47463480,Suna West,Q327591,Independent
@@ -339,9 +339,9 @@ Q96741824,Gathoni Wa Muchomba,Q2575594,Kiambu,Q27963537,Jubilee Party
 "",Catherine Nanjala Wambilianga,Q2928204,Bungoma,Q5473121,FORD - Kenya
 "",Joyce Korir Chepkoech,Q891952,Bomet,Q27963537,Jubilee Party
 "",Gladwell Jesire Cheruiyot,Q808201,Baringo,Q1422517,Kenya African National Union
-"",Wilson Sossion,,,Q1640905,Orange Democratic Movement
+Q109070160,Wilson Sossion,,,Q1640905,Orange Democratic Movement
 "",Sammy Kipkorir Seroney,,,Q5251223,Wiper Democratic Movement - Kenya
-"",Prof. Jacquiline Adhiambo Oduol,,,Q1640905,Orange Democratic Movement
+"",Jacquiline Adhiambo Oduol,,,Q1640905,Orange Democratic Movement
 "",Nasri Sahal Ibrahim,,,Q5473121,FORD - Kenya
 "",Maina Kamanda,,,Q27963537,Jubilee Party
 "",Jennifer Shamalla,,,Q27963537,Jubilee Party
