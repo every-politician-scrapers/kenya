@@ -1,214 +1,26 @@
 {
-  "title": "Najib Balala",
-  "pageID": 14875323,
-  "categories": [
-    "1967 births",
-    "Living people",
-    "Government ministers of Kenya",
-    "People from Mombasa",
-    "Hadhrami people",
-    "Kenyan Muslims",
-    "Kenyan people of Yemeni descent",
-    "Alumni of Kakamega School",
-    "United States International University alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Najib Balala (born 20 September 1967) is a Kenyan politician and the current Cabinet Secretary for Tourism, and the immediate former M.P. for Mvita Constituency.",
-              "links": [
-                {
-                  "text": "M.P.",
-                  "type": "internal",
-                  "page": "Member of Parliament"
-                },
-                {
-                  "type": "internal",
-                  "page": "Mvita Constituency"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Najib Balala"
-                ]
-              }
-            },
-            {
-              "text": "Balala is the party leader of The Republican Congress Party of Kenya (RC) a partner of the Jubilee Coalition."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Kenyan politician",
-          "template": "short description"
-        },
-        {
-          "date": "July 2012",
-          "template": "blp sources"
-        },
-        {
-          "date": "July 2012",
-          "template": "advert"
-        },
-        {
-          "template": "multiple issues"
-        },
-        {
-          "date": "May 2013",
-          "template": "use british english"
-        },
-        {
-          "date": "May 2013",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1967",
-          "month": "09",
-          "day": "20",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "titlestyle": "font-weight:normal; background:transparent; text-align:left;",
-          "title": "4",
-          "list": [
-            "Nabeel",
-            "Naeem",
-            "Naila",
-            "Nusaybah"
-          ],
-          "template": "collapsible list"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Najib Balala"
-          },
-          "native_name": {
-            "text": "نجيب بالعلا"
-          },
-          "image": {
-            "text": "Najibu Balala (cropped).JPG"
-          },
-          "office": {
-            "text": "Cabinet Secretary for Tourism"
-          },
-          "term_start": {
-            "text": "15 May 2013"
-          },
-          "president": {
-            "text": "Uhuru Kenyatta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Uhuru Kenyatta"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister for Tourism"
-          },
-          "term_start2": {
-            "text": "2008",
-            "number": 2008
-          },
-          "term_end2": {
-            "text": "March 2012"
-          },
-          "president2": {
-            "text": "Mwai Kibaki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mwai Kibaki"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Danson Mwazo",
-            "links": [
-              {
-                "text": "Danson Mwazo",
-                "type": "internal",
-                "page": "Danson Mwazo Mwakulegwa"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of Parliament for Mvita Constituency",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mvita Constituency"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2003",
-            "number": 2003
-          },
-          "term_end3": {
-            "text": "2013",
-            "number": 2013
-          },
-          "predecessor3": {
-            "text": "Shariff Nassir"
-          },
-          "successor3": {
-            "text": "Abdulswamad Nassir"
-          },
-          "birth_date": {
-            "text": "September 20, 1967"
-          },
-          "birth_place": {
-            "text": "Mombasa, Kenya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mombasa"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Kenyan"
-          },
-          "party": {
-            "text": "Republican Congress"
-          },
-          "spouse": {
-            "text": "Najaah"
-          },
-          "children": {
-            "text": "4\n\nNabeel\n\nNaeem\n\nNaila\n\nNusaybah",
-            "formatting": {
-              "bold": [
-                "4"
-              ]
-            }
-          },
-          "alma_mater": {
-            "text": "US International University",
-            "links": [
-              {
-                "text": "US International University",
-                "type": "internal",
-                "page": "United States International University"
-              }
-            ]
-          },
-          "website": {
-            "text": "www.najibbalala.com"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Najib Balala",
+  "native_name": "نجيب بالعلا",
+  "image": "Najibu Balala (cropped).JPG",
+  "office": "Cabinet Secretary for Tourism",
+  "term_start": "15 May 2013",
+  "president": "Uhuru Kenyatta",
+  "office2": "Minister for Tourism",
+  "term_start2": "2008",
+  "term_end2": "March 2012",
+  "president2": "Mwai Kibaki",
+  "successor2": "Danson Mwazo",
+  "office3": "Member of Parliament for Mvita Constituency",
+  "term_start3": "2003",
+  "term_end3": "2013",
+  "predecessor3": "Shariff Nassir",
+  "successor3": "Abdulswamad Nassir",
+  "birth_date": "September 20, 1967",
+  "birth_place": "Mombasa, Kenya",
+  "nationality": "Kenyan",
+  "party": "Republican Congress",
+  "spouse": "Najaah",
+  "children": "4\n\nNabeel\n\nNaeem\n\nNaila\n\nNusaybah",
+  "alma_mater": "US International University",
+  "website": "www.najibbalala.com"
 }

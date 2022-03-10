@@ -1,183 +1,21 @@
 {
-  "title": "Mutahi Kagwe",
-  "pageID": 10301445,
-  "categories": [
-    "1959 births",
-    "Members of the Senate of Kenya",
-    "Government ministers of Kenya",
-    "University of Nairobi alumni",
-    "Members of the National Assembly (Kenya)",
-    "United States International University alumni",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Hon. Mutahi Kagwe, EGH is the frank, Cabinet Secretary for Health in the Republic of Kenya.",
-              "formatting": {
-                "bold": [
-                  "Mutahi Kagwe"
-                ]
-              }
-            },
-            {
-              "text": "He took his oath of office on Friday, February 28th, 2020."
-            },
-            {
-              "text": "He is a tenured Kenyan politician who served as the first Senator of Nyeri County."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "July 2016",
-          "template": "blp sources"
-        },
-        {
-          "date": "August 2020",
-          "template": "sources exist"
-        },
-        {
-          "template": "multiple issues"
-        },
-        {
-          "birth_year": "1958",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Mutahi Kagwe"
-          },
-          "honorific-suffix": {
-            "text": "Honourable, EGH"
-          },
-          "office": {
-            "text": "Cabinet Secretary for Health",
-            "links": [
-              {
-                "text": "Cabinet Secretary for Health",
-                "type": "internal",
-                "page": "Ministry_of_Health_(Kenya)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Uhuru Kenyatta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Uhuru Kenyatta"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "28 February 2020"
-          },
-          "predecessor": {
-            "text": "Sicily Kariuki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sicily Kariuki"
-              }
-            ]
-          },
-          "office1": {
-            "text": "former Senator for Nyeri County",
-            "links": [
-              {
-                "text": "former Senator",
-                "type": "internal",
-                "page": "Senate of Kenya"
-              },
-              {
-                "type": "internal",
-                "page": "Nyeri"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "28 March 2013"
-          },
-          "term_end": {
-            "text": "7 August 2017"
-          },
-          "president1": {
-            "text": "Uhuru Kenyatta"
-          },
-          "office2": {
-            "text": "MP for Mukurweini",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mukurweini"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2002",
-            "number": 2002
-          },
-          "term_end2": {
-            "text": "22 October 2007"
-          },
-          "president2": {
-            "text": "Mwai Kibaki"
-          },
-          "birth_date": {
-            "text": "1958 (age 64)"
-          },
-          "birth_place": {
-            "text": "Kenya Colony",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kenya Colony"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Kenya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kenya"
-              }
-            ]
-          },
-          "party": {
-            "text": "Jubilee",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jubilee"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Nairobi USIU",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Nairobi"
-              },
-              {
-                "text": "USIU",
-                "type": "internal",
-                "page": "United States International University"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Mutahi Kagwe",
+  "honorific-suffix": "Honourable, EGH",
+  "office": "Cabinet Secretary for Health",
+  "president": "Uhuru Kenyatta",
+  "term_start": "28 February 2020",
+  "predecessor": "Sicily Kariuki",
+  "office1": "former Senator for Nyeri County",
+  "term_start1": "28 March 2013",
+  "term_end": "7 August 2017",
+  "president1": "Uhuru Kenyatta",
+  "office2": "MP for Mukurweini",
+  "term_start2": "2002",
+  "term_end2": "22 October 2007",
+  "president2": "Mwai Kibaki",
+  "birth_date": "1958 (age 64)",
+  "birth_place": "Kenya Colony",
+  "nationality": "Kenya",
+  "party": "Jubilee",
+  "alma_mater": "University of Nairobi USIU"
 }

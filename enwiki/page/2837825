@@ -1,0 +1,563 @@
+{
+  "title": "Cabinet of Kenya",
+  "pageID": 2837825,
+  "categories": [
+    "National cabinets",
+    "Government of Kenya",
+    "Politics of Kenya"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Cabinet of the Republic of Kenya is made up of the President, Deputy President, Attorney General and Cabinet Secretaries.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Kenya"
+                },
+                {
+                  "text": "Deputy President",
+                  "type": "internal",
+                  "page": "Deputy President of Kenya"
+                },
+                {
+                  "text": "Attorney General",
+                  "type": "internal",
+                  "page": "Attorney General of Kenya"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Cabinet of the Republic of Kenya"
+                ]
+              }
+            },
+            {
+              "text": "The 2010 Constitution of Kenya allows a maximum of 22 ministries.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Constitution of Kenya"
+                }
+              ]
+            },
+            {
+              "text": "A Cabinet Secretary is not a Member of the Kenyan Parliament and has to be vetted by a parliamentary committee before their appointment.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kenyan Parliament"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "June 2015",
+          "template": "use british english"
+        },
+        {
+          "date": "June 2015",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "last": "Njagih",
+          "first": "Moses",
+          "title": "Vetting awaits nominees to new Cabinet",
+          "url": "http://www.standardmedia.co.ke/?articleID=2000081274&story_title=Kenya-Politics:%20Vetting%20awaits%20nominees%20to%20new%20Cabinet",
+          "work": "Standard Digital News",
+          "publisher": "The Standard Group Limited",
+          "access-date": "April 23, 2013",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Current Cabinet",
+      "depth": 0,
+      "tables": [
+        [
+          {
+            "Office": {
+              "text": "Sports and Heritage"
+            },
+            "Cabinet Secretary": {
+              "text": "Amina Mohamed",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Amina Mohamed"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Devolution and ASAL Areas"
+            },
+            "Cabinet Secretary": {
+              "text": "Charles Keter",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Charles Keter"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Transport and Infrastructure Development"
+            },
+            "Cabinet Secretary": {
+              "text": "James Macharia",
+              "links": [
+                {
+                  "text": "James Macharia",
+                  "type": "internal",
+                  "page": "James Wainaina Macharia"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "ICT, Innovation and Youth Affairs"
+            },
+            "Cabinet Secretary": {
+              "text": "Joseph Mucheru",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joseph Mucheru"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Water and Sanitation and Irrigation"
+            },
+            "Cabinet Secretary": {
+              "text": "Sicily Kariuki",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sicily Kariuki"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Interior and Coordination of National Government"
+            },
+            "Cabinet Secretary": {
+              "text": "Fred Matiang'i",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fred Matiang'i"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Defence"
+            },
+            "Cabinet Secretary": {
+              "text": "Eugene Wamalwa",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eugene Wamalwa"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "East African Community and Northern Corridor Development"
+            },
+            "Cabinet Secretary": {
+              "text": "Adan Mohammed",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Adan Mohammed"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Lands"
+            },
+            "Cabinet Secretary": {
+              "text": "Farida Karoney",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Farida Karoney"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Petroleum and Mining"
+            },
+            "Cabinet Secretary": {
+              "text": "John Munyes",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "John Munyes"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Energy"
+            },
+            "Cabinet Secretary": {
+              "text": "Amb Monica Juma",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Amb Monica Juma"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Agriculture, Livestock, Fisheries and Coop"
+            },
+            "Cabinet Secretary": {
+              "text": "Peter Munya",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Peter Munya"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Tourism and Wildlife"
+            },
+            "Cabinet Secretary": {
+              "text": "Najib Balala",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Najib Balala"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Public Service and Gender Affairs"
+            },
+            "Cabinet Secretary": {
+              "text": "Margaret Kobia",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Margaret Kobia"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "National Treasury and Planning"
+            },
+            "Cabinet Secretary": {
+              "text": "Ukur Yatani Kanacho",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ukur Yatani Kanacho"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Foreign Affairs"
+            },
+            "Cabinet Secretary": {
+              "text": "Raychelle Omamo",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Raychelle Omamo"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Labour and Social Services"
+            },
+            "Cabinet Secretary": {
+              "text": "Simon Chelugui",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Simon Chelugui"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Health"
+            },
+            "Cabinet Secretary": {
+              "text": "Mutahi Kagwe",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mutahi Kagwe"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Environment and Forestry"
+            },
+            "Cabinet Secretary": {
+              "text": "Keriako Tobiko",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Keriako Tobiko"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Education"
+            },
+            "Cabinet Secretary": {
+              "text": "George Magoha",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "George Magoha"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Industrialization, Trade and Enterprise Development"
+            },
+            "Cabinet Secretary": {
+              "text": "Betty Maina",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Betty Maina"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Cabinet Secretary"
+            },
+            "Cabinet Secretary": {
+              "text": "Raphael Tuju",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Raphael Tuju"
+                }
+              ]
+            }
+          },
+          {
+            "Office": {
+              "text": "Attorney General of Kenya"
+            },
+            "Cabinet Secretary": {
+              "text": "Paul Kihara Kariuki",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paul Kihara Kariuki"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "https://www.nyongesasande.com/the-state-department-for-devolution-sdd-kenya/",
+          "title": "The State Department for Devolution (SDD) - Kenya",
+          "date": "23 May 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://nasonga.com/cabinet-secretaries-kenya/",
+          "title": "List of Cabinet Secretaries in Kenya (2021)",
+          "date": "8 April 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://cabinetoffice.go.ke/current-cabinet/",
+          "title": "Current Cabinet",
+          "publisher": "Cabinet Office",
+          "access-date": "2020-09-15",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of Ministers of Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of Ministers of Kenya"
+              }
+            ]
+          },
+          {
+            "text": "Ministries of Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ministries of Kenya"
+              }
+            ]
+          },
+          {
+            "text": "Government of Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Government of Kenya"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Cabinet of"
+          ],
+          "title": "National cabinets of Africa",
+          "template": "africa topic"
+        },
+        {
+          "template": "kenyacabinet"
+        },
+        {
+          "template": "kenyapresidents"
+        },
+        {
+          "template": "kenyapms"
+        },
+        {
+          "template": "kenyavps"
+        },
+        {
+          "template": "kenya-ministers of foreign affairs"
+        },
+        {
+          "template": "kenya-ministers of finance"
+        },
+        {
+          "template": "kenya-ministers of agriculture"
+        },
+        {
+          "title": "Historical Cabinet of Kenya",
+          "template": "navboxes"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "IN PICTURES: Cabinet nominees, Daily Nation",
+            "links": [
+              {
+                "text": "IN PICTURES: Cabinet nominees",
+                "type": "external",
+                "site": "http://www.nation.co.ke/News/-/1056/1757952/-/wo9a6xz/-/index.html"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Daily Nation"
+              ]
+            }
+          },
+          {
+            "text": "Structure and Composition of Full Cabinet of Kenya: November 2015",
+            "links": [
+              {
+                "text": "Structure and Composition of Full Cabinet of Kenya: November 2015",
+                "type": "external",
+                "site": "http://ustawi.info.ke/index.php/government/government-under-the-new-constitution/cabinet-under-the-new-constitution?showall=&start=2"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
