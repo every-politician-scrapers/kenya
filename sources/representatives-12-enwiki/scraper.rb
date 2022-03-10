@@ -74,7 +74,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      false
+      itemLabel.include? 'Vacant'
     end
 
     def tds
