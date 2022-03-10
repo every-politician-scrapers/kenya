@@ -1,2 +1,5 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q17110765,Presidency of Uhuru Kenyatta,2013-04-09,11,,,,,,,,,,,,,,
+,Q61179524,Presidency of Jomo Kenyatta,1964-12-12,11,,,1978-08-22,11,,,,,Q65118163,Presidency of Daniel Moi,,,,
+,Q65118163,Presidency of Daniel Moi,1978-08-22,11,,,2002-12-30,11,,,Q61179524,Presidency of Jomo Kenyatta,Q65118136,Presidency of Mwai Kibaki,,,,
+,Q65118136,Presidency of Mwai Kibaki,2002-12-30,11,,,2013-04-09,11,,,Q65118163,Presidency of Daniel Moi,Q17110765,Presidency of Uhuru Kenyatta,,,,
+,Q17110765,Presidency of Uhuru Kenyatta,2013-04-09,11,,,,,,,Q65118136,Presidency of Mwai Kibaki,,,,,,
