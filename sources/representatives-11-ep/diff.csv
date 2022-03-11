@@ -1,15 +1,15 @@
 @@,item,itemlabel,party,partylabel,area,arealabel,startdate,enddate,gender
 ->,Q4663137,Ababu Namwamba,Q1640905,Orange Democratic Movement,,NULL->Budalangi,2013-03-28->NULL,2017-08->NULL,male
-+++,,Abass Sheikh Mohamed,Q7889105,United Republican Party,,Wajir East,,,male
-+++,,Abdi Noor Mohammed Ali,Q7889105,United Republican Party,,,,,male
-+++,,Abdikadir Omar Aden,Q1640905,Orange Democratic Movement,,Balambala,,,male
-+++,,Abdikadir Ore Ahmed,Q1640905,Orange Democratic Movement,,Wajir West,,,male
+->,Q111188206->NULL,Abass Sheikh Mohamed,Q7889105,United Republican Party,,NULL->Wajir East,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188207->NULL,Abdi Noor Mohammed Ali,Q7889105,United Republican Party,,,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188208->NULL,Abdikadir Omar Aden,Q1640905,Orange Democratic Movement,,NULL->Balambala,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188209->NULL,Abdikadir Ore Ahmed,Q1640905,Orange Democratic Movement,,NULL->Wajir West,2013-03-28->NULL,2017-08->NULL,male
 ->,Q16864850,Abdul Rahim Dawood,Q15980825,Alliance Party of Kenya,,NULL->North Imenti,2013-03-28->NULL,2017-08->NULL,male
-+++,,Abdulaziz Ali Farah,Q7889105,United Republican Party,,Mandera East,,,male
-+++,,Abdullahi Jaldesa Banticha,Q7889105,United Republican Party,,Isiolo South,,,male
+->,Q111188210->NULL,Abdulaziz Ali Farah,Q7889105,United Republican Party,,NULL->Mandera East,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188211->NULL,Abdullahi Jaldesa Banticha,Q7889105,United Republican Party,,NULL->Isiolo South,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494822,Abdullswamad Sheriff Nassir->Abdulswamad Sheriff Nassir,Q1640905,Orange Democratic Movement,,NULL->Mvita,2013-03-28->NULL,2017-08->NULL,NULL->male
 ->,Q4680594,Adan Keynan Wehliye->Adan Keynan,Q1640905,Orange Democratic Movement,,NULL->Eldas,2013-03-28->NULL,2017-08->NULL,male
-+++,,Adan Mohamed Nooru,Q7889105,United Republican Party,,Mandera North,,,male
+->,Q111188212->NULL,Adan Mohamed Nooru,Q7889105,United Republican Party,,NULL->Mandera North,2013-03-28->NULL,2017-08->NULL,male
 ->,Q4682154,Aden Bare Duale,Q7889105,United Republican Party,,NULL->Garissa Township,2013-03-28->NULL,2017-08->NULL,male
 ->,Q4696013,Ahmed Shakeel Shabbir Ahmed->Shakeel Shabbir,Q1640905,Orange Democratic Movement,,NULL->Kisumu East,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494720,Aisha Jumwa Karisa Katana->Aisha Jumwa Katana,Q1640905,Orange Democratic Movement,,NULL->Kilifi,2013-03-28->NULL,2017-08->NULL,female
@@ -21,40 +21,41 @@
 ->,Q15733971,Ali Rasso Dido->Col (Rtd) Ali Rasso Dido,Q7889105,United Republican Party,,NULL->Saku,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47493953,Ali Wario,Q7193584,The National Alliance,,NULL->Bura,2013-03-28->NULL,2017-08->NULL,male
 ->,Q26923586,Alice Muthoni Wahome,Q7193584,The National Alliance,,NULL->Kandara,2013-03-28->NULL,2017-08->NULL,female
-+++,,Alice Nyanchoka Chae,Q1640905,Orange Democratic Movement,,Nyamira,,,female
-+++,,Alice Wambui Ng'ang'a,Q7193584,The National Alliance,,Thika Town,,,female
+->,Q111188213->NULL,Alice Nyanchoka Chae,Q1640905,Orange Democratic Movement,,NULL->Nyamira,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188214->NULL,Alice Wambui Ng'ang'a,Q7193584,The National Alliance,,NULL->Thika Town,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47494993,Alois Musa Lentoimaga,Q7193584,The National Alliance,,NULL->Samburu North,2013-03-28->NULL,2017-08->NULL,male
-+++,,Amina Abdalla,Q7193584,The National Alliance,,,,,female
+->,Q111188215->NULL,Amina Abdalla,Q7193584,The National Alliance,,,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47494827,Andrew Mwadime,Q1640905,Orange Democratic Movement,,NULL->Mwatate,2013-03-28->NULL,2017-08->NULL,male
-+++,,Andrew Toboso Anyanga,Q1640905,Orange Democratic Movement,,Butere,,,male
-+++,,Annah Nyokabi Gathecha,Q7193584,The National Alliance,,Kiambu,,,female
+->,Q111188216->NULL,Andrew Toboso Anyanga,Q1640905,Orange Democratic Movement,,NULL->Butere,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188217->NULL,Annah Nyokabi Gathecha,Q7193584,The National Alliance,,NULL->Kiambu,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47494431,Anthony Kimani Ichung`wah->Anthony Kimani Ichung'Wah,Q7193584,The National Alliance,,NULL->Kikuyu,2013-03-28->NULL,2017-08->NULL,male
-+++,,Anthony Mutahi Kimaru,Q7193584,The National Alliance,,Laikipia East,,,male
-+++,,Arthur Papa Odera,Q7889105,United Republican Party,,Teso North,,,male
+->,Q111188218->NULL,Anthony Mutahi Kimaru,Q7193584,The National Alliance,,NULL->Laikipia East,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188219->NULL,Arthur Papa Odera,Q7889105,United Republican Party,,NULL->Teso North,2013-03-28->NULL,2017-08->NULL,male
 ->,Q4807410,Asman Kamama,Q7889105,United Republican Party,,NULL->Tiaty,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47493900,Athanas Misiko Wafula Wamunyinyi,Q5473121,Forum for the Restoration of Democracy – Kenya->Ford Kenya,,NULL->Kanduyi,2013-03-28->NULL,2017-08->NULL,male
-+++,,Augostinho Neto Oyugi,Q1640905,Orange Democratic Movement,,Ndhiwa,,,male
+->,Q111188220->NULL,Augostinho Neto Oyugi,Q1640905,Orange Democratic Movement,,NULL->Ndhiwa,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494687,Ayub Savula Angatia,Q7887687,United Democratic Forum->United Democratic Forum Party,,NULL->Lugari,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47493964,Bady Twalib Bady,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Jomvu,2013-03-28->NULL,2017-08->NULL,NULL->male
 ->,Q47490074,Beatrice Nkatha Nyaga,Q7193584,The National Alliance,,NULL->Tharaka-Nithi,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47493961,Ben George Orori Momanyi,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Borabu,2013-03-28->NULL,2017-08->NULL,male
-+++,,Benard Kipkirui Bett,Q7889105,United Republican Party,,Bomet East,,,male
+->,Q111188221->NULL,Benard Kipkirui Bett,Q7889105,United Republican Party,,NULL->Bomet East,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494323,Benard Masaka Shinali,Q27963537->Q7887687,Jubilee Party of Kenya->United Democratic Forum Party,Q5996095->NULL,Ikolomani Constituency->Ikolomani,2013-08-31->NULL,,male
-+++,,Benjamin Andola Andayi,Q1640905,Orange Democratic Movement,,Khwisero,,,male
+->,Q111188222->NULL,Benjamin Andola Andayi,Q1640905,Orange Democratic Movement,,NULL->Khwisero,2013-03-28->NULL,2017-08->NULL,male
 ->,Q4888887,Benjamin Jomo Washiali,Q7887687,United Democratic Forum->United Democratic Forum Party,,NULL->Mumias East,2013-03-28->NULL,2017-08->NULL,male
-+++,,Benjamin Kipkirui Langat,Q7889105,United Republican Party,,Ainamoi,,,male
+->,Q111188223->NULL,Benjamin Kipkirui Langat,Q7889105,United Republican Party,,NULL->Ainamoi,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494484,Benson Makali Mulu,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Kitui Central,2013-03-28->NULL,2017-08->NULL,male
 ->,Q16226678,Benson Mbai Itwiku->Benson Itwiku Mbai,Q5473122,Forum for the Restoration of Democracy – People->Ford People,,NULL->Masinga,2013-03-28->NULL,2017-08->NULL,male
-+++,,Benson Mutura Kangara,Q7193584,The National Alliance,,Makadara,,,male
-+++,,Bernard Munywoki Kitungi,Q5251223,Wiper democratic Movement Kenya,,Mwingi West,,,male
-+++,,Bishop Robert Mutemi Mutua,Q5251223,Wiper democratic Movement Kenya,,,,,male
-+++,,Bonface Okhiya Otsiula,Q7007666,New Ford Kenya,,Bumula,,,male
-+++,,Cecilia Chelangat Ngetich,Q7889105,United Republican Party,,Bomet,,,female
+->,Q111188224->NULL,Benson Mutura Kangara,Q7193584,The National Alliance,,NULL->Makadara,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188225->NULL,Bernard Munywoki Kitungi,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Mwingi West,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188226->NULL,Bishop Robert Mutemi Mutua,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188227->NULL,Bonface Okhiya Otsiula,Q7007666,New Forum for the Restoration of Democracy–Kenya->New Ford Kenya,,NULL->Bumula,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188228->NULL,Cecilia Chelangat Ngetich,Q7889105,United Republican Party,,NULL->Bomet,2013-03-28->NULL,2017-08->NULL,female
 ->,Q5056517,Cecily Mutitu Mbarire->Cecily Mbarire,Q7193584,The National Alliance,,NULL->Runyenjes,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47493925,Charles Gumini Gimose,Q22666177,Federal Party of Kenya,,NULL->Hamisi,2013-03-28->NULL,2017-08->NULL,male
-+++,,Charles Mongare Geni,Q1640905,Orange Democratic Movement,,North Mugirango,,,male
+->,Q111188229->NULL,Charles Mongare Geni,Q1640905,Orange Democratic Movement,,NULL->North Mugirango,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494778,Charles Muriuki Njagagua,Q15980825,Alliance Party of Kenya,,NULL->Mbeere North,2013-03-28->NULL,2017-08->NULL,male
 ->,Q5081173,Charles Mutisya Nyamai->Charles Nyamai,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Kitui Rural,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188236->NULL,Chris Munga Nyamaratandi Bichage,Q1640905,Orange Democratic Movement,,NULL->Nyaribari Chache,2013-03-28->NULL,2017-08->2013-12-01,male
 ->,Q47494460,Chrisantus Wamalwa Wakhungu,Q5473121,Forum for the Restoration of Democracy – Kenya->Ford Kenya,,NULL->Kiminini,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47495156,Christopher Doye Nakuleu->Chrisropher Doye Nakuleu,Q7889105,United Republican Party,,NULL->Turkana North,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47493956,Christopher Omulele,Q1640905,Orange Democratic Movement,,NULL->Luanda,2013-03-28->NULL,2017-08->NULL,male
@@ -63,64 +64,58 @@
 ->,Q47494314,Cyprian Kubai Iringo,Q1640905,Orange Democratic Movement,,NULL->Igembe Central,2013-03-28->NULL,2017-08->NULL,male
 ->,Q5211525,Dalmas Otieno,Q1640905,Orange Democratic Movement,,NULL->Rongo,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47495163,Daniel Epuyo Nanok,Q7889105,United Republican Party,,NULL->Turkana West,2013-03-28->NULL,2017-08->NULL,male
-+++,,Daniel Kazungu Muzee,Q327591,Independent,,Malindi,,2015-11-28,male
+->,Q111188230->NULL,Daniel Kazungu Muzee,Q327591,independent politician->Independent,,NULL->Malindi,2013-03-28->NULL,2017-08->2015-11-28,male
 ->,Q47494709,Daniel Kitonga Maanzo,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Makueni,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47495190,Daniel Wanyama Sitati,Q7007666,New Forum for the Restoration of Democracy–Kenya->New Ford Kenya,,NULL->Webuye West,2013-03-28->NULL,2017-08->NULL,male
-->,Q5233422,David Eseli Simiyu->Dr. David Eseli Simiyu,Q5473121,Forum for the Restoration of Democracy – Kenya->Ford Kenya,Q47463467->NULL,Tongaren Constituency->Tongaren,2013-08-31->NULL,,male
+->,Q5233422,David Eseli Simiyu,Q5473121,Forum for the Restoration of Democracy – Kenya->Ford Kenya,Q47463467->NULL,Tongaren Constituency->Tongaren,2013-08-31->NULL,,male
 ->,Q47493905,David Gikaria.->David Gikaria,Q7193584,The National Alliance,,NULL->Nakuru Town East,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494744,David Kangogo Bowen->David Kangongo Bowen,Q7889105,United Republican Party,,NULL->Marakwet East,2013-03-28->NULL,2017-08->NULL,male
-+++,,David Karithi,Q7193584,The National Alliance,,Tigania West,,,male
+->,Q111188231->NULL,David Karithi,Q7193584,The National Alliance,,NULL->Tigania West,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494925,David Losiakou Pkosing->Losiakou David Pkosing,Q7889105,United Republican Party,,NULL->Pokot South,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47493935,David Njuguna Kiaraho,Q7193584,The National Alliance,,NULL->Ol Kalou,2013-03-28->NULL,2017-08->NULL,male
+---,Q111179918,David Ochieng Ouma,Q1640905,Orange Democratic Movement,,,2013-03-28,2017-08,male
 +++,,David Ouma Ochieng',Q1640905,Orange Democratic Movement,,Ugenya,,,male
-+++,,David Wafula Wekesa,Q7007666,New Ford Kenya,,Saboti,,,male
+->,Q111188232->NULL,David Wafula Wekesa,Q7007666,New Forum for the Restoration of Democracy–Kenya->New Ford Kenya,,NULL->Saboti,2013-03-28->NULL,2017-08->NULL,male
 ->,Q5240969,David Were->David Aoko Were,Q7007666,New Forum for the Restoration of Democracy–Kenya->New Ford Kenya,,NULL->Matungu,2013-03-28->NULL,2017-08->NULL,male
-+++,,Dennis Kariuki Waweru,Q7193584,The National Alliance,,Dagoretti South,,,male
+->,Q111188233->NULL,Dennis Kariuki Waweru,Q7193584,The National Alliance,,NULL->Dagoretti South,2013-03-28->NULL,2017-08->NULL,male
 ->,Q98118573->NULL,Dennitah Ghati,Q1640905,Orange Democratic Movement,,NULL->Migori,2013-03-28->NULL,2017-08->NULL,female
-+++,,Diriye Abdullahi Mohamed,Q1640905,Orange Democratic Movement,,Wajir South,,,male
-+++,,Dorcas Luvalitsa Kedogo,Q1640905,Orange Democratic Movement,,Vihiga,,,female
-+++,,Dr. Chris Munga Nyamaratandi Bichage,Q1640905,Orange Democratic Movement,,Nyaribari Chache,,2013-12-01,male
-+++,,Dr. Hellen Sambili,Q1422517,Kenya African National Union,,Mogotio,,,female
-+++,,Dr. Reginalda Nakhumicha Wanyonyi,Q7007666,New Ford Kenya,,Bungoma,,,female
-+++,,Dr. Simon Ogari,Q327591,Independent,,Bomachoge Chache,,,male
-+++,,Dr. Susan Mbinya Musyoka,Q5251223,Wiper democratic Movement Kenya,,Machakos,,,female
-+++,,Edwin Kipruto Barchilei,Q7889105,United Republican Party,,Soy,,,male
-+++,,Ejidius Njogu Barua,Q7193584,The National Alliance,,Gichugu,,,male
+->,Q111188234->NULL,Diriye Abdullahi Mohamed,Q1640905,Orange Democratic Movement,,NULL->Wajir South,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188235->NULL,Dorcas Luvalitsa Kedogo,Q1640905,Orange Democratic Movement,,NULL->Vihiga,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188241->NULL,Edwin Kipruto Barchilei,Q7889105,United Republican Party,,NULL->Soy,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188242->NULL,Ejidius Njogu Barua,Q7193584,The National Alliance,,NULL->Gichugu,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47495159,Ekomwa Lomenen James->James Lomenen Ekomwa,Q7193584,The National Alliance,,NULL->Turkana South,2013-03-28->NULL,2017-08->NULL,NULL->male
-+++,,Elias Bare Shill,Q7889105,United Republican Party,,Fafi,,,male
+->,Q111188243->NULL,Elias Bare Shill,Q7889105,United Republican Party,,NULL->Fafi,2013-03-28->NULL,2017-08->NULL,male
 ->,Q346046,Elijah Lagat,Q7889105,United Republican Party,,NULL->Chesumei,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494347,Elijah Memusi Kanchory,Q1640905,Orange Democratic Movement,,NULL->Kajiado Central,2013-03-28->2015-03-16,2017-08->NULL,male
-+++,,Elijah Mosomi Moindi,Q10963557,NARC - Kenya,,Nyaribari Masaba,,,male
-+++,,Elisha Kipkorir Busienei,Q7889105,United Republican Party,,Turbo,,,male
+->,Q111188244->NULL,Elijah Mosomi Moindi,Q10963557,National Rainbow Coalition – Kenya->NARC - Kenya,,NULL->Nyaribari Masaba,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188245->NULL,Elisha Kipkorir Busienei,Q7889105,United Republican Party,,NULL->Turbo,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494859,Emmanuel Wangwe,Q7887687,United Democratic Forum->United Democratic Forum Party,,NULL->Navakholo,2013-03-28->NULL,2017-08->NULL,male
-+++,,Eng. John Kiragu Chege,Q7193584,The National Alliance,,Limuru,,,male
-+++,,Eng. Stephen Muriuki Ngare,Q7193584,The National Alliance,,Ndia,,,male
-->,Q47494669,Enoch Wamalwa Kibunguchy->Dr. Enoch Kibunguchy,Q1640905,Orange Democratic Movement,,NULL->Likuyani,2013-03-28->NULL,2017-08->NULL,male
-+++,,Eric Arap Keter,Q1422517,Kenya African National Union,,Belgut,,,male
+->,Q47494669,Enoch Wamalwa Kibunguchy->Enoch Kibunguchy,Q1640905,Orange Democratic Movement,,NULL->Likuyani,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188248->NULL,Eric Arap Keter,Q1422517,Kenya African National Union,,NULL->Belgut,2013-03-28->NULL,2017-08->NULL,male
 ->,Q5401255,Esther Murugi Mathenge->Esther Murugi,Q7193584,The National Alliance,,NULL->Nyeri Town,2013-03-28->NULL,2017-08->NULL,female
-+++,,Esther Nyambura Gathogo,Q7193584,The National Alliance,,Ruiru,,,female
-+++,,Eusilah Jepkosgei Ngeny,Q7889105,United Republican Party,,Uasin Gishu,,,female
+->,Q111188249->NULL,Esther Nyambura Gathogo,Q7193584,The National Alliance,,NULL->Ruiru,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188250->NULL,Eusilah Jepkosgei Ngeny,Q7889105,United Republican Party,,NULL->Uasin Gishu,2013-03-28->NULL,2017-08->NULL,female
 ->,Q17411041,Fatuma Ibrahim Ali,Q1640905,Orange Democratic Movement,,NULL->Wajir,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47494623,Ferdinard Kevin Wanyonyi,Q5473121,Forum for the Restoration of Democracy – Kenya->Ford Kenya,,NULL->Kwanza,2013-03-28->NULL,2017-08->NULL,male
-+++,,Florence Kajuju,Q7193584,The National Alliance,,Meru,,,female
+->,Q111188251->NULL,Florence Kajuju,Q7193584,The National Alliance,,NULL->Meru,2013-03-28->NULL,2017-08->NULL,female
 ->,Q60332243->NULL,Florence Mwikali Mutua,Q1640905,Orange Democratic Movement,,NULL->Busia,2013-03-28->NULL,2017-08->NULL,female
 ->,Q5480460,Francis Chachu Ganya,Q1640905,Orange Democratic Movement,,NULL->North Horr,2013-03-28->NULL,2017-08->NULL,male
-+++,,Francis Kigo Njenga,Q7193584,The National Alliance,,Gatundu North,,,male
+->,Q111188252->NULL,Francis Kigo Njenga,Q7193584,The National Alliance,,NULL->Gatundu North,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494331,Francis Munyua Waititu,Q7193584,The National Alliance,,NULL->Juja,2013-03-28->NULL,2017-08->NULL,male
-+++,,Francis Mwangangi Kilonzo,Q22666185,Muungano Development Movement Party,,Yatta,,,male
+->,Q111188253->NULL,Francis Mwangangi Kilonzo,Q22666185,Muungano Party->Muungano Development Movement Party,,NULL->Yatta,2013-03-28->NULL,2017-08->NULL,male
 ->,Q46190459,Francis Nyenze->Francis Mwanzia Nyenze,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Kitui West,2013-03-28->NULL,2017-08->NULL,male
-+++,,Francis Waweru Nderitu,Q7193584,The National Alliance,,Ndaragwa,,,male
+->,Q111188254->NULL,Francis Waweru Nderitu,Q7193584,The National Alliance,,NULL->Ndaragwa,2013-03-28->NULL,2017-08->NULL,male
 ->,Q5491660,Franklin Linturi->Franklin Mithika Linturi,Q7193584,The National Alliance,,NULL->Igembe South,2013-03-28->NULL,2017-08->NULL,male
-->,Q5498498,Frederick Outa Otieno->Hon. Fredrick Otieno Outa,Q1640905,Orange Democratic Movement,,NULL->Nyando,2013-03-28->NULL,2017-08->NULL,male
-+++,,G.J. Munuve Mati,Q5251223,Wiper democratic Movement Kenya,,Mwingi North,,,male
+->,Q5498498,Frederick Outa Otieno->Fredrick Otieno Outa,Q1640905,Orange Democratic Movement,,NULL->Nyando,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188255->NULL,G.J. Munuve Mati,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Mwingi North,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494758,Geoffrey Makokha Odanga,Q1640905,Orange Democratic Movement,,NULL->Matayos,2013-03-28->NULL,2017-08->NULL,male
-+++,,George Mike Wanjohi,Q7193584,The National Alliance,,Mathare,,2014-03-18,male
+->,Q111188256->NULL,George Mike Wanjohi,Q7193584,The National Alliance,,NULL->Mathare,2013-03-28->NULL,2017-08->2014-03-18,male
 ->,Q19008951,George Muchai->George Mukuru Muchai,Q327591,independent politician->Independent,,NULL->Kabete,2013-03-28->NULL,2017-08->2015-02-07,male
-+++,,George Oner Ogalo,Q1640905,Orange Democratic Movement,,Rangwe,,,male
+->,Q111188257->NULL,George Oner Ogalo,Q1640905,Orange Democratic Movement,,NULL->Rangwe,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494313,George Peter Opondo Kaluma,Q1640905,Orange Democratic Movement,,NULL->Homa Bay Town,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47493970,George Theuri,Q7193584,The National Alliance,,NULL->Embakasi West,2013-03-28->NULL,2017-08->NULL,male
-+++,,George Washinton Mallan Omondi,Q5251223,Wiper democratic Movement Kenya,,Alego Usonga,,,male
-+++,,Gideon Maitha,Q1640905,Orange Democratic Movement,,Kilifi North,,,male
+->,Q111188258->NULL,George Washinton Mallan Omondi,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Alego Usonga,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188259->NULL,Gideon Maitha,Q1640905,Orange Democratic Movement,,NULL->Kilifi North,2013-03-28->NULL,2017-08->NULL,male
 ---,Q21062735,Gideon Mwiti,Q15980825,Alliance Party of Kenya,,,2013-03-28,2017-08,male
 +++,,Gideon Mwiti Irea,Q15980825,Alliance Party of Kenya,,Central Imenti,,,male
 ->,Q47494201,Gideon Ochanda Ogolla,Q1640905,Orange Democratic Movement,,NULL->Bondo,2013-03-28->NULL,2017-08->NULL,male
@@ -128,216 +123,225 @@
 ->,Q47489052,Gladys Atieno Nyasuna Wanga->Gladys Wanga,Q1640905,Orange Democratic Movement,,NULL->Homa Bay,2013-03-28->NULL,2017-08->NULL,female
 ->,Q18217506,Grace Jelagat Kipchoim,Q7889105,United Republican Party,,NULL->Baringo South,2013-03-28->NULL,2017-08->NULL,female
 +++,,Grace Jemutai Kiptui,Q7889105,United Republican Party,,Baringo,,,female
-+++,,Halima Ware Duri,Q5251223,Wiper democratic Movement Kenya,,Tana River,,,female
-+++,,Harrison Garama Kombe,Q7889105,United Republican Party,,Magarini,,,male
-+++,,Hassan Abdi Dukicha,Q7887687,United Democratic Forum Party,,Galole,,,male
-+++,,Hassan Aden Osman,Q7887687,United Democratic Forum Party,,,,,male
-+++,,Hassan Mohamed Mwanyoha,Q1640905,Orange Democratic Movement,,Matuga,,,male
-+++,,Hellen Chelangat Chepkwony,Q7889105,United Republican Party,,Kericho,,,female
-+++,,Hezron Awiti Bollo,Q5251223,Wiper democratic Movement Kenya,,Mombasa,,,male
-+++,,Hon Willy Mtengo,Q1640905,Orange Democratic Movement,,Malindi,2016,,male
+---,Q17386192,Grace Kiptui,Q7889105,United Republican Party,,,2013-03-28,2017-08,female
+->,Q111188260->NULL,Halima Ware Duri,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Tana River,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188261->NULL,Harrison Garama Kombe,Q7889105,United Republican Party,,NULL->Magarini,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188262->NULL,Hassan Abdi Dukicha,Q7887687,United Democratic Forum->United Democratic Forum Party,,NULL->Galole,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188263->NULL,Hassan Aden Osman,Q7887687,United Democratic Forum->United Democratic Forum Party,,,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188264->NULL,Hassan Mohamed Mwanyoha,Q1640905,Orange Democratic Movement,,NULL->Matuga,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188265->NULL,Hellen Chelangat Chepkwony,Q7889105,United Republican Party,,NULL->Kericho,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188237->NULL,Hellen Sambili,Q1422517,Kenya African National Union,,NULL->Mogotio,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188266->NULL,Hezron Awiti Bollo,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Mombasa,2013-03-28->NULL,2017-08->NULL,male
 ->,Q16194232,Humphrey Kimani Njuguna,Q3130920,National Rainbow Coalition,,NULL->Gatanga,2013-03-28->NULL,2017-08->NULL,male
-+++,,Ibrahim Abdi Saney,Q1640905,Orange Democratic Movement,,Wajir North,,,male
-+++,,Ibrahim Ahmed Abass,Q1640905,Orange Democratic Movement,,Ijara,,,male
-+++,,Ibrahim Ahmed Sane,Q7889105,United Republican Party,,Garsen,,,male
+->,Q111188268->NULL,Ibrahim Abdi Saney,Q1640905,Orange Democratic Movement,,NULL->Wajir North,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188269->NULL,Ibrahim Ahmed Abass,Q1640905,Orange Democratic Movement,,NULL->Ijara,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188270->NULL,Ibrahim Ahmed Sane,Q7889105,United Republican Party,,NULL->Garsen,2013-03-28->NULL,2017-08->NULL,male
 ->,Q16194826,Irshadali Sumra->Irshadali Mohomed Sumra,Q1640905,Orange Democratic Movement,,NULL->Embakasi South,2013-03-28->NULL,2017-08->NULL,male
 ->,Q28113009->NULL,Irungu Kang'ata,Q7193584,The National Alliance,,NULL->Kiharu,2013-03-28->NULL,2017-08->NULL,male
 ->,Q20744564,Isaac Mwaura->Isaac Maigua Mwaura,Q1640905,Orange Democratic Movement,,,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47493910,Isaac Waihenya Ndirangu,Q7193584,The National Alliance,,NULL->Roysambu,2013-03-28->NULL,2017-08->NULL,male
-+++,,Jackson Kipkorir Rop,Q7889105,United Republican Party,,Kipkelion West,,,male
+->,Q111188271->NULL,Jackson Kipkorir Rop,Q7889105,United Republican Party,,NULL->Kipkelion West,2013-03-28->NULL,2017-08->NULL,male
 ->,Q6117200,Jackson Kiptanui->Jackson Kiplagat Kiptanui,Q7889105,United Republican Party,,NULL->Keiyo South,2013-03-28->NULL,2017-08->NULL,male
-+++,,Jacob Waweru Macharia,Q7193584,The National Alliance,,Molo,,,male
-+++,,James Kimaru Bett,Q7889105,United Republican Party,,Kesses,,,male
-->,Q47494393,James Kipkosgei Murgor->Dr. James Kipkosgei Murgor,Q7889105,United Republican Party,,NULL->Keiyo North,2013-03-28->NULL,2017-08->NULL,male
-->,Q6137496,James Kwanya Rege->Eng. James Rege,Q1640905,Orange Democratic Movement,,NULL->Karachuonyo,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188272->NULL,Jacob Waweru Macharia,Q7193584,The National Alliance,,NULL->Molo,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188273->NULL,James Kimaru Bett,Q7889105,United Republican Party,,NULL->Kesses,2013-03-28->NULL,2017-08->NULL,male
+->,Q47494393,James Kipkosgei Murgor,Q7889105,United Republican Party,,NULL->Keiyo North,2013-03-28->NULL,2017-08->NULL,male
+->,Q6137496,James Kwanya Rege->James Rege,Q1640905,Orange Democratic Movement,,NULL->Karachuonyo,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47493944,James Lusweti Mukwe,Q5473121,Forum for the Restoration of Democracy – Kenya->Ford Kenya,,NULL->Kabuchai,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47493951,James Mwangi Gakuya,Q7193584,The National Alliance,,NULL->Embakasi North,2013-03-28->NULL,2017-08->NULL,male
-+++,,James Ndungu Gethenji,Q7193584,The National Alliance,,Tetu,,,male
-->,Q6140626,James Ondicho Gesami->Dr. James Gesami,Q1640905,Orange Democratic Movement,,NULL->West Mugirango,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188274->NULL,James Ndungu Gethenji,Q7193584,The National Alliance,,NULL->Tetu,2013-03-28->NULL,2017-08->NULL,male
+->,Q6140626,James Ondicho Gesami->James Gesami,Q1640905,Orange Democratic Movement,,NULL->West Mugirango,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494809,James Onyango K'Oyoo->James Onyango Oyoo,Q22666200,Peoples Democratic Party->People's Democratic Party,,NULL->Muhoroni,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47495169,James Opiyo Wandayi,Q1640905,Orange Democratic Movement,,NULL->Ugunja,2013-03-28->NULL,2017-08->NULL,male
-->,Q47493920,James Wambura Nyikal->Dr. James Nyikal,Q1640905,Orange Democratic Movement,,NULL->Seme,2013-03-28->NULL,2017-08->NULL,male
+->,Q47493920,James Wambura Nyikal->James Nyikal,Q1640905,Orange Democratic Movement,,NULL->Seme,2013-03-28->NULL,2017-08->NULL,male
 ->,Q6147903,Jamleck Irungu Kamau,Q7193584,The National Alliance,,NULL->Kigumo,2013-03-28->NULL,2017-08->NULL,male
-+++,,Jane Agnes Wanjira Machira,Q7193584,The National Alliance,,Laikipia,,,female
+->,Q111188275->NULL,Jane Agnes Wanjira Machira,Q7193584,The National Alliance,,NULL->Laikipia,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47490039,Janet Marania Teyiaa->Janet Marania Teiyaa,Q7193584,The National Alliance,,,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47490075,Janet Nangabo Wanyama,Q7007666,New Forum for the Restoration of Democracy–Kenya->New Ford Kenya,,NULL->Trans-Nzoia,2013-03-28->NULL,2017-08->NULL,female
 ->,Q16730588,Japhet Kareke Mbiuki->Japhet M. Kareke Mbiuki,Q7193584,The National Alliance,,NULL->Maara,2013-03-28->NULL,2017-08->NULL,male
-+++,,Jared Odhiambo Opiyo,Q5473121,Ford Kenya,,Awendo,,,male
+->,Q111188276->NULL,Jared Odhiambo Opiyo,Q5473121,Forum for the Restoration of Democracy – Kenya->Ford Kenya,,NULL->Awendo,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494415,Jessica Nduku Kiko Mbalu->Jessica N. Mbalu,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Kibwezi East,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47494517,Jimmy Nuru Ondieki Angwenyi->Jimmy Angwenyi,Q7193584,The National Alliance,,NULL->Kitutu Chache North,2013-03-28->NULL,2017-08->NULL,male
-+++,,Joash Odhiambo Olum,Q1640905,Orange Democratic Movement,,Langata,,,male
-+++,,Joe Musyimi Mutambu,Q5251223,Wiper democratic Movement Kenya,,Mwingi Central,,,male
-+++,,Joel Onyancha,Q7193584,The National Alliance,,Bomachoge Borabu,,,male
+->,Q111188277->NULL,Joash Odhiambo Olum,Q1640905,Orange Democratic Movement,,NULL->Langata,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188278->NULL,Joe Musyimi Mutambu,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Mwingi Central,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188279->NULL,Joel Onyancha,Q7193584,The National Alliance,,NULL->Bomachoge Borabu,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47493962,Johana Ngeno Kipyegon,Q6392670,Kenya National Congress,,NULL->Emurua Dikirr,2013-03-28->NULL,2017-08->NULL,female
-+++,,John Bomet Serut,Q327591,Independent,,Mt. Elgon,,,male
-+++,,John Karanja Kihagi,Q7193584,The National Alliance,,Naivasha,,,male
+->,Q111188280->NULL,John Bomet Serut,Q327591,independent politician->Independent,,NULL->Mt. Elgon,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188281->NULL,John Karanja Kihagi,Q7193584,The National Alliance,,NULL->Naivasha,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188246->NULL,John Kiragu Chege,Q7193584,The National Alliance,,NULL->Limuru,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47495147,John Lodepe Nakara,Q7889105,United Republican Party,,NULL->Turkana Central,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494735,John Muchiri Nyaga,Q7193584,The National Alliance,,NULL->Manyatta,2013-03-28->NULL,2017-08->NULL,male
-+++,,John Muriithi Waiganjo,Q7193584,The National Alliance,,Ol Joro Orok,,,male
+->,Q111188282->NULL,John Muriithi Waiganjo,Q7193584,The National Alliance,,NULL->Ol Joro Orok,2013-03-28->NULL,2017-08->NULL,male
 ->,Q111177826->Q6250396,John Ndirangu Kariuki,NULL->Q7193584,NULL->The National Alliance,,NULL->Embakasi Central,2013-03-10->NULL,2017-07-16->NULL,male
-+++,,John Njoroge Chege,Q7193584,The National Alliance,,Kasarani,,,male
-+++,,John Ogutu Omondi,Q1640905,Orange Democratic Movement,,Embakasi East,,,male
+->,Q111188283->NULL,John Njoroge Chege,Q7193584,The National Alliance,,NULL->Kasarani,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188284->NULL,John Ogutu Omondi,Q1640905,Orange Democratic Movement,,NULL->Embakasi East,2013-03-28->NULL,2017-08->NULL,male
 ->,Q6251185,John Olago Aluoch,Q5473121,Forum for the Restoration of Democracy – Kenya->Ford Kenya,,NULL->Kisumu West,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494200,John Oroo Oyioka,Q1422517,Kenya African National Union,,NULL->Bonchari,2013-03-28->2013-09-23,2017-08->2014-06-01,male
-+++,,John Owuor Onyango Kobado,Q1640905,Orange Democratic Movement,,Uriri,,,male
+->,Q111188285->NULL,John Owuor Onyango Kobado,Q1640905,Orange Democratic Movement,,NULL->Uriri,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47495024,John Waluke Koyi,Q1640905,Orange Democratic Movement,,NULL->Sirisia,2013-03-28->NULL,2017-08->NULL,male
-+++,,Johnson Arthur Sakaja,Q327591,Independent,,,,,male
+->,Q111188286->NULL,Johnson Arthur Sakaja,Q327591,independent politician->Independent,,,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494819,Johnson Manya Naicca,Q1640905,Orange Democratic Movement,,NULL->Mumias West,2013-03-28->NULL,2017-08->NULL,male
-+++,,Jonathan Lelelit Lati,Q7889105,United Republican Party,,Samburu West,,,male
+->,Q111188287->NULL,Jonathan Lelelit Lati,Q7889105,United Republican Party,,NULL->Samburu West,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47495180,Jones Mwagogo Mlolwa,Q1640905,Orange Democratic Movement,,NULL->Voi,2013-03-28->NULL,2017-08->NULL,male
-->,Q6283465,Joseph Gitari->Eng Joseph Gachoki Gitari,Q7193584,The National Alliance,,NULL->Kirinyaga Central,2013-03-28->NULL,2017-08->NULL,male
+->,Q6283465,Joseph Gitari->Joseph Gachoki Gitari,Q7193584,The National Alliance,,NULL->Kirinyaga Central,2013-03-28->NULL,2017-08->NULL,male
 ->,Q16499778,Joseph Lekuton->Joseph Lemasolai Lekuton,Q1640905,Orange Democratic Movement,,NULL->Laisamis,2013-03-28->NULL,2017-08->NULL,male
-+++,,Joseph M'eruaki M'uthari,Q7193584,The National Alliance,,Igembe North,,,male
-+++,,Joseph Mburu Kahangara,Q7193584,The National Alliance,,Lari,,,male
+->,Q111188288->NULL,Joseph M'eruaki M'uthari,Q7193584,The National Alliance,,NULL->Igembe North,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188289->NULL,Joseph Mburu Kahangara,Q7193584,The National Alliance,,NULL->Lari,2013-03-28->NULL,2017-08->NULL,male
 ->,Q16730905,Joseph Nganga Kiuna,Q7193584,The National Alliance,,NULL->Njoro,2013-03-28->NULL,2017-08->NULL,male
-+++,,Joseph Ngugi Nyumu,Q327591,Independent,,Gatundu South,,2014-05-01,male
-+++,,Joseph Obiero Ndiege,Q1640905,Orange Democratic Movement,,Suna West,,,male
+->,Q111188290->NULL,Joseph Ngugi Nyumu,Q327591,independent politician->Independent,,NULL->Gatundu South,2013-03-28->NULL,2017-08->2014-05-01,male
+->,Q111188291->NULL,Joseph Obiero Ndiege,Q1640905,Orange Democratic Movement,,NULL->Suna West,2013-03-28->NULL,2017-08->NULL,male
 ->,Q6285933,Joseph Ole Nkaissery->MAJ GEN (rtd) Joseph Nkaissery,NULL->Q327591,NULL->Independent,Q6348981->NULL,Kajiado Central Constituency->Kajiado Central,2013-03-28->NULL,2014-12-02,male
 ->,Q6285990,Joseph Oyugi Magwanga,Q1640905,Orange Democratic Movement,,NULL->Kasipul,2013-03-28->NULL,2017-08->NULL,male
-+++,,Joseph Samal Lomwa,Q7889105,United Republican Party,,Isiolo North,,,male
+->,Q111188292->NULL,Joseph Samal Lomwa,Q7889105,United Republican Party,,NULL->Isiolo North,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494350,Joseph Wathigo Manje,Q7193584,The National Alliance,,NULL->Kajiado North,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494872,Joshua Aduma Owuor,Q1640905,Orange Democratic Movement,,NULL->Nyakach,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47490076,Joyce Akai Emanikor,Q7889105,United Republican Party,,NULL->Turkana,2013-03-28->NULL,2017-08->NULL,female
-->,Q6297432,Joyce Cherono Laboso->Dr. Joyce Cherono Laboso,Q7889105,United Republican Party,,NULL->Sotik,2013-03-28->NULL,2017-08->NULL,female
-+++,,Joyce Wanjalah Lay,Q1640905,Orange Democratic Movement,,Taita Taveta,,,female
+->,Q6297432,Joyce Cherono Laboso,Q7889105,United Republican Party,,NULL->Sotik,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188293->NULL,Joyce Wanjalah Lay,Q1640905,Orange Democratic Movement,,NULL->Taita Taveta,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47494407,Jude L Kangethe Njomo->Jude L. Kangethe Njomo,Q7193584,The National Alliance,,NULL->Kiambu,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47495140,Julius Kipbiwot->Julius Kibiwott Melly,Q7889105,United Republican Party,,NULL->Tinderet,2013-03-28->NULL,2017-08->NULL,male
-+++,,Julius Ndegwa Kariuki,Q6392670,Kenya National Congress,,Lamu West,,,male
+->,Q111188294->NULL,Julius Ndegwa Kariuki,Q6392670,Kenya National Congress,,NULL->Lamu West,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47495084,Junet Sheikh Nuh,Q1640905,Orange Democratic Movement,,NULL->Suna East,2013-03-28->NULL,2017-08->NULL,NULL->male
-+++,,Justice Kipsang Kemei,Q7889105,United Republican Party,,Sigowet/Soin,,,male
+->,Q111188295->NULL,Justice Kipsang Kemei,Q7889105,United Republican Party,,NULL->Sigowet/Soin,2013-03-28->NULL,2017-08->NULL,male
 ->,Q6343844,Kabando wa Kabando,Q7193584,The National Alliance,,NULL->Mukurweini,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494960,Kajwang' Tom Joseph Francis->Tom Joseph Kajwang',Q1640905,Orange Democratic Movement,,NULL->Ruaraka,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47495046,Kathuri Murungi,Q7193584,The National Alliance,,NULL->South Imenti,2013-03-28->NULL,2017-08->NULL,NULL->male
-+++,,Ken Obura Mirenga,Q1640905,Orange Democratic Movement,,Kisumu Central,,,male
+->,Q111188296->NULL,Ken Obura Mirenga,Q1640905,Orange Democratic Movement,,NULL->Kisumu Central,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494410,Kenneth Odhiambo Okoth,Q1640905,Orange Democratic Movement,,NULL->Kibra,2013-03-28->NULL,2017-08->NULL,male
 ->,Q18388019,Khatib Mwashetani->Khatib Abdallah Mwashetani,Q5473121,Forum for the Restoration of Democracy – Kenya->Ford Kenya,,NULL->Lunga Lunga,2013-03-28->NULL,2017-08->NULL,male
 ->,Q16866303,Kinoti Gatobu->Boniface Gatobu Kinoti,Q327591,independent politician->Independent,,NULL->Buuri,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494946,Kipruto Moi,Q1422517,Kenya African National Union,,NULL->Rongai,2013-03-28->NULL,2017-08->NULL,NULL->male
 ->,Q47494470,Kirui Joseph Limo->Joseph Kirui Limo,Q7889105,United Republican Party,,NULL->Kipkelion East,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47493913,Korei Ole Lemein,Q7889105,United Republican Party,,NULL->Narok South,2013-03-28->NULL,2017-08->NULL,NULL->male
-+++,,Lawrence Mpuru Aburi,Q1640905,Orange Democratic Movement,,Tigania East,,,male
+->,Q111188297->NULL,Lawrence Mpuru Aburi,Q1640905,Orange Democratic Movement,,NULL->Tigania East,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494853,Lemanken Aramat,Q7889105,United Republican Party,,NULL->Narok East,2013-03-28->NULL,2017-08->NULL,NULL->male
-+++,,Leonard Kipkosgei Sang,Q7889105,United Republican Party,,Bureti,,,male
-+++,,Lisamula Silverse Anami,Q1640905,Orange Democratic Movement,,Shinyalu,,,male
-+++,,Mahbub Fathia,Q7889105,United Republican Party,,Mandera,,,female
+->,Q111188298->NULL,Leonard Kipkosgei Sang,Q7889105,United Republican Party,,NULL->Bureti,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188299->NULL,Lisamula Silverse Anami,Q1640905,Orange Democratic Movement,,NULL->Shinyalu,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188300->NULL,Mahbub Fathia,Q7889105,United Republican Party,,NULL->Mandera,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47490069,Maison Leshoomo,Q7193584,The National Alliance,,NULL->Samburu,2013-03-28->NULL,2017-08->NULL,female
-+++,,Manson Nyamweya,Q1640905,Orange Democratic Movement,,South Mugirango,,,male
-+++,,Marcus Mutua Muluvi,Q5251223,Wiper democratic Movement Kenya,,Kitui East,,,male
+->,Q111188301->NULL,Manson Nyamweya,Q1640905,Orange Democratic Movement,,NULL->South Mugirango,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188302->NULL,Marcus Mutua Muluvi,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Kitui East,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494339,Mark Lomunokol,Q7889105,United Republican Party,,NULL->Kacheliba,2013-03-28->NULL,2017-08->NULL,male
-+++,,Mary Emaase Otuch,Q7889105,United Republican Party,,Teso South,,,female
-+++,,Mary Njoki G Mbugua,Q7193584,The National Alliance,,Nakuru,,,female
-+++,,Mary Sally Keraa,Q1640905,Orange Democratic Movement,,Kisii,,,female
-+++,,Mary Wambui Munene,Q7193584,The National Alliance,,Othaya,,,female
+->,Q111188303->NULL,Mary Emaase Otuch,Q7889105,United Republican Party,,NULL->Teso South,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188304->NULL,Mary Njoki G Mbugua,Q7193584,The National Alliance,,NULL->Nakuru,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188305->NULL,Mary Sally Keraa,Q1640905,Orange Democratic Movement,,NULL->Kisii,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188306->NULL,Mary Wambui Munene,Q7193584,The National Alliance,,NULL->Othaya,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47516278->NULL,Mary Yiane Seneta,Q7193584,The National Alliance,,NULL->Kajiado,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47493958,Mathenge James Kanini Kega->James Mathenge Kanini Kega,Q7193584,The National Alliance,,NULL->Kieni,2013-03-28->NULL,2017-08->NULL,NULL->male
-+++,,Mathew Lekidime Lempurkel,Q1640905,Orange Democratic Movement,,Laikipia North,,,male
+->,Q111188307->NULL,Mathew Lekidime Lempurkel,Q1640905,Orange Democratic Movement,,NULL->Laikipia North,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494619,Mathias Nyamabe Robi,Q7889105,United Republican Party,,NULL->Kuria West,2013-03-28->NULL,2017-08->NULL,male
-+++,,Maweu Kyengo Katatha,Q22666212,The Independent Party,,Kangundo,,,male
+->,Q111188308->NULL,Maweu Kyengo Katatha,Q22666212,The Independent Party,,NULL->Kangundo,2013-03-28->NULL,2017-08->NULL,male
 ->,Q6799567,Mbadi John Ng'ongo->John Mbadi Ng'ong'o,Q1640905,Orange Democratic Movement,,NULL->Suba,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494354,Metito Judah Katoo->Judah ole Metito,Q7193584,The National Alliance,,NULL->Kajiado South,2013-03-28->NULL,2017-08->NULL,NULL->male
-+++,,Michael Aringo Onyura,Q22666177,Federal Party of Kenya,,Butula,,,male
-+++,,Michael Manthi Kisoi,Q5251223,Wiper democratic Movement Kenya,,Mbooni,,,male
+->,Q111188309->NULL,Michael Aringo Onyura,Q22666177,Federal Party of Kenya,,NULL->Butula,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188310->NULL,Michael Manthi Kisoi,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Mbooni,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47495077,Millie Grace Akoth Odhiambo->Millie Grace Akoth Odhiambo Mabona,Q1640905,Orange Democratic Movement,,NULL->Mbita,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47494664,Mishi Juma Khamisi Mboko->Mishi Juma Khamisi,Q1640905,Orange Democratic Movement,,NULL->Mombasa,2013-03-28->NULL,2017-08->NULL,NULL->female
-+++,,Mohamed Abdi Haji Mohamed,Q7889105,United Republican Party,,Banissa,,,male
-+++,,Mohamed Adan Huka,Q7889105,United Republican Party,,Mandera South,,,male
-->,Q47494238,Mohamed Dahir Duale->Dr. Mohamed Dahir Duale,Q1640905,Orange Democratic Movement,,NULL->Dadaab,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188311->NULL,Mohamed Abdi Haji Mohamed,Q7889105,United Republican Party,,NULL->Banissa,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188312->NULL,Mohamed Adan Huka,Q7889105,United Republican Party,,NULL->Mandera South,2013-03-28->NULL,2017-08->NULL,male
+->,Q47494238,Mohamed Dahir Duale,Q1640905,Orange Democratic Movement,,NULL->Dadaab,2013-03-28->NULL,2017-08->NULL,male
 ->,Q6891260,Mohamed Ibrahim Elmi,Q327591,independent politician->Independent,,NULL->Tarbaj,2013-03-28->NULL,2017-08->NULL,male
-->,Q6891343,Mohamed Maalim Mohamud->Eng Maalim Mohamud Mohamed,Q7889105,United Republican Party,,NULL->Mandera West,2013-03-28->NULL,2017-08->NULL,male
-+++,,Mohamed Muktar Shidiye,Q7193584,The National Alliance,,Lagdera,,,male
+->,Q6891343,Mohamed Maalim Mohamud->Maalim Mohamud Mohamed,Q7889105,United Republican Party,,NULL->Mandera West,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188313->NULL,Mohamed Muktar Shidiye,Q7193584,The National Alliance,,NULL->Lagdera,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494557,Moses Kipkemboi Cheboi,Q1422517,Kenya African National Union,,NULL->Kuresoi North,2013-03-28->NULL,2017-08->NULL,male
 ->,Q22278744,Moses Kuria,Q7193584,The National Alliance,,NULL->Gatundu South,2013-03-28->2014-08-01,2017-08->NULL,male
 ->,Q16731419,Moses Lessonet,Q7889105,United Republican Party,,NULL->Eldama Ravine,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494713,Moses Malulu Injendi,Q22666315,Maendeleo Democratic Party,,NULL->Malava,2013-03-28->NULL,2017-08->NULL,male
-+++,,Moses Somoine ole Sakuda,Q7193584,The National Alliance,,Kajiado West,,,male
+->,Q111188314->NULL,Moses Somoine ole Sakuda,Q7193584,The National Alliance,,NULL->Kajiado West,2013-03-28->NULL,2017-08->NULL,male
 ->,Q6943746,Mutava Musyimi->Rev. Mutava Musyimi,Q7193584,The National Alliance,,NULL->Mbeere South,2013-03-28->NULL,2017-08->NULL,male
 ---,Q43927930,Muthomi Njuki,Q15980825,Alliance Party of Kenya,,,2013-03-28,2017-08,male
 ->,Q6944629,Mwalimu Masudi Mwahima->Mwalimu Masoud Mwahima,Q1640905,Orange Democratic Movement,,NULL->Likoni,2013-03-28->NULL,2017-08->NULL,male
-+++,,Mwinga Gunga Chea,Q22666182,Kenya African Democratic Union - Asili,,Kaloleni,,,male
-->,Q16885582,Naomi Shaban->Dr. Naomi Shaban,Q7193584,The National Alliance,,NULL->Taveta,2013-03-28->NULL,2017-08->NULL,female
-+++,,Nasra Ibrahim Ibren,Q1640905,Orange Democratic Movement,,Marsabit,,,female
+->,Q111188315->NULL,Mwinga Gunga Chea,Q22666182,Kenya African Democratic Union – Asili->Kenya African Democratic Union - Asili,,NULL->Kaloleni,2013-03-28->NULL,2017-08->NULL,male
+->,Q16885582,Naomi Shaban,Q7193584,The National Alliance,,NULL->Taveta,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188316->NULL,Nasra Ibrahim Ibren,Q1640905,Orange Democratic Movement,,NULL->Marsabit,2013-03-28->NULL,2017-08->NULL,female
 ->,Q6990527,Nelson Gaichuhie->Nelson Ributhi Gaichuhie,Q7193584,The National Alliance,,NULL->Subukia,2013-03-28->NULL,2017-08->NULL,male
-->,Q7025483,Nicholas Gumbo->Eng. Nicholas Gumbo,Q1640905,Orange Democratic Movement,,NULL->Rarieda,2013-03-28->NULL,2017-08->NULL,male
-+++,,Nicholas Ngikor Nixon,Q5473121,Ford Kenya,,Turkana East,,,male
+->,Q7025483,Nicholas Gumbo,Q1640905,Orange Democratic Movement,,NULL->Rarieda,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188317->NULL,Nicholas Ngikor Nixon,Q5473121,Forum for the Restoration of Democracy – Kenya->Ford Kenya,,NULL->Turkana East,2013-03-28->NULL,2017-08->NULL,male
 ->,Q7071124,Nyiva Mwendwa,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Kitui,2013-03-28->NULL,2017-08->NULL,female
-->,Q2013243,Oburu Odinga->Dr. Oburu Odinga,Q1640905,Orange Democratic Movement,,,2013-03-28->NULL,2017-08->NULL,male
+->,Q2013243,Oburu Odinga,Q1640905,Orange Democratic Movement,,,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47493923,Omar Mwinyi Shimbwa,Q1640905,Orange Democratic Movement,,NULL->Changamwe,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47490071,Ombaka Christine Oduor->Christine Oduor Ombaka,Q1640905,Orange Democratic Movement,,NULL->Siaya,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47493992,Onesmas Kimani Ngunjiri,Q7193584,The National Alliance,,NULL->Bahati,2013-03-28->NULL,2017-08->NULL,NULL->male
 +++,,Onesmus Muthomi Njuki,Q15980825,Alliance Party of Kenya,,Chuka/Igambang'ombe,,,male
 ->,Q47494377,Oscar Kipchumba Sudi,Q7889105,United Republican Party,,NULL->Kapseret,2013-03-28->NULL,2017-08->NULL,male
-+++,,Patrick Keturet Ole Ntutu,Q7889105,United Republican Party,,Narok West,,,male
+->,Q111188318->NULL,Patrick Keturet Ole Ntutu,Q7889105,United Republican Party,,NULL->Narok West,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494776,Patrick Makau King'ola,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Mavoko,2013-03-28->NULL,2017-08->NULL,male
-->,Q47494421,Patrick Mweu Musimba->Dr. Patrick Mweu Musimba,Q327591,independent politician->Independent,,NULL->Kibwezi West,2013-03-28->NULL,2017-08->NULL,male
-+++,,Patrick Wangamati,Q5473121,Ford Kenya,,,,,male
-+++,,Paul Kipchirchir Bii,Q7889105,United Republican Party,,Chepalungu,,,male
+->,Q47494421,Patrick Mweu Musimba,Q327591,independent politician->Independent,,NULL->Kibwezi West,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188319->NULL,Patrick Wangamati,Q5473121,Forum for the Restoration of Democracy – Kenya->Ford Kenya,,,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188320->NULL,Paul Kipchirchir Bii,Q7889105,United Republican Party,,NULL->Chepalungu,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494404,Paul Koinange,Q7193584,The National Alliance,,NULL->Kiambaa,2013-03-28->NULL,2017-08->NULL,male
-->,Q7152844,Paul Otuoma->Dr. Paul Otuoma,Q1640905,Orange Democratic Movement,,NULL->Funyula,2013-03-28->NULL,2017-08->NULL,male
+->,Q7152844,Paul Otuoma,Q1640905,Orange Democratic Movement,,NULL->Funyula,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47493974,Paul Simba Arati->Paul Arati Simba,Q1640905,Orange Democratic Movement,,NULL->Dagoretti North,2013-03-28->NULL,2017-08->NULL,male
 ->,Q16886147,Peris Tobiko->Peris Pesi Tobiko,Q7193584,The National Alliance,,NULL->Kajiado East,2013-03-28->NULL,2017-08->NULL,female
 ->,Q7173815,Peter Edick Omondi Anyanga,Q1640905,Orange Democratic Movement,,NULL->Nyatike,2013-03-28->NULL,2017-08->NULL,male
-+++,,Peter Kamande Mwangi,Q7193584,The National Alliance,,Maragwa,,,male
+->,Q111188321->NULL,Peter Kamande Mwangi,Q7193584,The National Alliance,,NULL->Maragwa,2013-03-28->NULL,2017-08->NULL,male
 ->,Q7176115,Peter Njoroge Baiya,Q7193584,The National Alliance,,NULL->Githunguri,2013-03-28->NULL,2017-08->NULL,male
 ->,Q7176118,Peter Njuguna Gitau,Q7193584,The National Alliance,,NULL->Mwea,2013-03-28->NULL,2017-08->NULL,male
-+++,,Peter Safari Shehe,Q22666177,Federal Party of Kenya,,Ganze,,,male
-+++,,Peter Weru Kinyua,Q3130920,National Rainbow Coalition,,Mathira,,,male
-+++,,Philip Lotiolo Ruto Rotino,Q7889105,United Republican Party,,Sigor,,,male
-+++,,Priscilla Nyokabi Kanyua,Q7193584,The National Alliance,,Nyeri,,,female
-+++,,Protus Ewesit Akujah,Q1640905,Orange Democratic Movement,,Loima,,,male
-->,Q47494506,Rachael Kaki Nyamai->Dr Rachael Kaki Nyamai,Q3130920,National Rainbow Coalition,,NULL->Kitui South,2013-03-28->NULL,2017-08->NULL,female
-+++,,Rachel Ameso Amolo,Q1640905,Orange Democratic Movement,,Kakamega,,,female
+->,Q111188322->NULL,Peter Safari Shehe,Q22666177,Federal Party of Kenya,,NULL->Ganze,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188323->NULL,Peter Weru Kinyua,Q3130920,National Rainbow Coalition,,NULL->Mathira,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188324->NULL,Philip Lotiolo Ruto Rotino,Q7889105,United Republican Party,,NULL->Sigor,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188325->NULL,Priscilla Nyokabi Kanyua,Q7193584,The National Alliance,,NULL->Nyeri,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188326->NULL,Protus Ewesit Akujah,Q1640905,Orange Democratic Movement,,NULL->Loima,2013-03-28->NULL,2017-08->NULL,male
+->,Q47494506,Rachael Kaki Nyamai,Q3130920,National Rainbow Coalition,,NULL->Kitui South,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188327->NULL,Rachel Ameso Amolo,Q1640905,Orange Democratic Movement,,NULL->Kakamega,2013-03-28->NULL,2017-08->NULL,female
+---,Q107222476,Rachel Shebesh,Q7193584,The National Alliance,,,2013-03-28,2017-08,female
 +++,,Rachel Wambui Shebesh,Q7193584,The National Alliance,,Nairobi,,,female
 ->,Q7293983,Raphael Lentimalo->Raphael Lakalei Letimalo,Q7193584,The National Alliance,,NULL->Samburu East,2013-03-28->NULL,2017-08->NULL,male
-+++,,Raphael Milikau Otaalo,Q1640905,Orange Democratic Movement,,Lurambi,,,male
-+++,,Rashid Juma Bedzimba,Q1640905,Orange Democratic Movement,,Kisauni,,,male
-+++,,Regina Nthambi Muia,Q5251223,Wiper democratic Movement Kenya,,Kilome,,,female
-+++,,Regina Nyeris Changorok,Q7889105,United Republican Party,,West Pokot,,,female
+->,Q111188328->NULL,Raphael Milikau Otaalo,Q1640905,Orange Democratic Movement,,NULL->Lurambi,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188329->NULL,Rashid Juma Bedzimba,Q1640905,Orange Democratic Movement,,NULL->Kisauni,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188330->NULL,Regina Nthambi Muia,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Kilome,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188331->NULL,Regina Nyeris Changorok,Q7889105,United Republican Party,,NULL->West Pokot,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188238->NULL,Reginalda Nakhumicha Wanyonyi,Q7007666,New Forum for the Restoration of Democracy–Kenya->New Ford Kenya,,NULL->Bungoma,2013-03-28->NULL,2017-08->NULL,female
+---,Q22279006,Richard Makenga,Q5251223,Wiper Democratic Movement,,,2013-03-28,2017-08,male
 +++,,Richard Makenga Katemi,Q5251223,Wiper democratic Movement Kenya,,Kaiti,,,male
 ->,Q47493933,Richard Moitalei Ole Kenta->Richard Moitalel ole Kenta,Q7193584,The National Alliance,,NULL->Narok North,2013-03-28->NULL,2017-08->NULL,male
 ->,Q7327862,Richard Momoima Onyonka->Richard Onyonka,Q1640905,Orange Democratic Movement,,NULL->Kitutu Chache South,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494882,Richard Nyagaka Tongi,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Nyaribari Chache,2013-03-28->2013-12-01,2017-08->NULL,male
-+++,,Roba Duba Bonaya,Q7887687,United Democratic Forum Party,,Moyale,,,male
+->,Q111188332->NULL,Roba Duba Bonaya,Q7887687,United Democratic Forum->United Democratic Forum Party,,NULL->Moyale,2013-03-28->NULL,2017-08->NULL,male
 ->,Q19604826,Robert Mbui,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Kathiani,2013-03-28->NULL,2017-08->NULL,male
 ->,Q18098773,Robert Pukose,Q7889105,United Republican Party,,NULL->Endebess,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494197,Ronald Kiprotich Tonui,Q7889105,United Republican Party,,NULL->Bomet Central,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47490054,Rose Museo Mumo,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Makueni,2013-03-28->NULL,2017-08->NULL,female
-+++,,Rose Nyamunga,Q1640905,Orange Democratic Movement,,Kisumu,,,female
-+++,,Rose Rwamba Mitaru,Q7193584,The National Alliance,,Embu,,,female
+->,Q111188333->NULL,Rose Nyamunga,Q1640905,Orange Democratic Movement,,NULL->Kisumu,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188334->NULL,Rose Rwamba Mitaru,Q7193584,The National Alliance,,NULL->Embu,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47490064,Roselinda Soipan Tuya,Q7889105,United Republican Party,,NULL->Narok,2013-03-28->NULL,2017-08->NULL,female
 ->,Q16214164,Sabina Wanjiru Chege,Q7193584,The National Alliance,,NULL->Murang'a,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47494847,Sakwa John Bunyasi->John Sakwa Bunyasi,Q7887687,United Democratic Forum->United Democratic Forum Party,,NULL->Nambale,2013-03-28->NULL,2017-08->NULL,NULL->male
-+++,,Salim Idd Mustafa,Q1640905,Orange Democratic Movement,,Kilifi South,,,male
-+++,,Sammy Cheruiyot Koech,Q7889105,United Republican Party,,Konoin,,,male
+->,Q111188335->NULL,Salim Idd Mustafa,Q1640905,Orange Democratic Movement,,NULL->Kilifi South,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188336->NULL,Sammy Cheruiyot Koech,Q7889105,United Republican Party,,NULL->Konoin,2013-03-28->NULL,2017-08->NULL,male
 ->,Q7409808,Sammy Mwaita,Q7889105,United Republican Party,,NULL->Baringo Central,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47493930,Samuel Arama,Q1640905,Orange Democratic Movement,,NULL->Nakuru Town West,2013-03-28->NULL,2017-08->NULL,male
-+++,,Samuel Gonzi Rai,Q7193584,The National Alliance,,Kinango,,,male
-+++,,Samuel Kamunye Gichigi,Q15980825,Alliance Party of Kenya,,Kipipiri,,,male
-+++,,Samuel Kiprono Chepkonga,Q7889105,United Republican Party,,Ainabkoi,,,male
-+++,,Samuel Mathenge Ndiritu,Q7193584,The National Alliance,,Gilgil,,,male
+->,Q111188337->NULL,Samuel Gonzi Rai,Q7193584,The National Alliance,,NULL->Kinango,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188338->NULL,Samuel Kamunye Gichigi,Q15980825,Alliance Party of Kenya,,NULL->Kipipiri,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188339->NULL,Samuel Kiprono Chepkonga,Q7889105,United Republican Party,,NULL->Ainabkoi,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188340->NULL,Samuel Mathenge Ndiritu,Q7193584,The National Alliance,,NULL->Gilgil,2013-03-28->NULL,2017-08->NULL,male
 ->,Q18207112,Samuel Moroto,Q1422517,Kenya African National Union,,NULL->Kapenguria,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494639,Sarah Paulata Korere->Sara Paulata Korere,Q7889105,United Republican Party,,,2013-03-28->NULL,2017-08->NULL,female
-+++,,Shaaban Ali Isaack,Q7889105,United Republican Party,,Lafey,,,male
-+++,,Shadrack Roger Mwita Manga,Q1422517,Kenya African National Union,,Kuria East,,,male
-+++,,Shakila Abdalla,Q5251223,Wiper democratic Movement Kenya,,Lamu,,,female
+->,Q111188341->NULL,Shaaban Ali Isaack,Q7889105,United Republican Party,,NULL->Lafey,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188342->NULL,Shadrack Roger Mwita Manga,Q1422517,Kenya African National Union,,NULL->Kuria East,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188343->NULL,Shakila Abdalla,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Lamu,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47494644,Sharif Athman Ali->Shariff Athman Ali,Q7887687,United Democratic Forum->United Democratic Forum Party,,NULL->Lamu East,2013-03-28->NULL,2017-08->NULL,NULL->male
 ->,Q17198176,Shukran Hussein Gure,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Garissa,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47494792,Silas Kipkoech Tiren,Q7889105,United Republican Party,,NULL->Moiben,2013-03-28->NULL,2017-08->NULL,male
-+++,,Silvance Osele Onyango,Q1640905,Orange Democratic Movement,,Kabondo Kasipul,,,male
+->,Q111188344->NULL,Silvance Osele Onyango,Q1640905,Orange Democratic Movement,,NULL->Kabondo Kasipul,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188239->NULL,Simon Ogari,Q327591,independent politician->Independent,,NULL->Bomachoge Chache,2013-03-28->NULL,2017-08->NULL,male
 ->,Q16842239,Sonia Birdi->Sunjeev Kour Birdi,Q7889105,United Republican Party,,,2013-03-28->NULL,2017-08->NULL,female
-+++,,Stephen Kengere Manoti,Q5473122,Ford People,,Bobasi,,,male
-+++,,Stephen Kinyanjui Mburu Kk,Q7193584,The National Alliance,,Kinangop,,,male
-+++,,Stephen Kirwa Bitok,Q7889105,United Republican Party,,Mosop,,,male
+->,Q111188345->NULL,Stephen Kengere Manoti,Q5473122,Forum for the Restoration of Democracy – People->Ford People,,NULL->Bobasi,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188346->NULL,Stephen Kinyanjui Mburu Kk,Q7193584,The National Alliance,,NULL->Kinangop,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188347->NULL,Stephen Kirwa Bitok,Q7889105,United Republican Party,,NULL->Mosop,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188247->NULL,Stephen Muriuki Ngare,Q7193584,The National Alliance,,NULL->Ndia,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494770,Stephen Mutinda Mule,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Matungulu,2013-03-28->NULL,2017-08->NULL,male
-+++,,Stephen Wachira Karani,Q7193584,The National Alliance,,Laikipia West,,,male
-+++,,Steven Kariuki,Q1640905,Orange Democratic Movement,,Mathare,2014-08-11,,male
+->,Q111188348->NULL,Stephen Wachira Karani,Q7193584,The National Alliance,,NULL->Laikipia West,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188349->NULL,Steven Kariuki,Q1640905,Orange Democratic Movement,,NULL->Mathare,2013-03-28->2014-08-11,2017-08->NULL,male
 ->,Q47493967,Suleiman Dori->Suleiman Dori Ramadhani,Q1640905,Orange Democratic Movement,,NULL->Msambweni,2013-03-28->NULL,2017-08->NULL,male
-+++,,Suleiman Murunga Kasuti,Q5473121,Ford Kenya,,Kimilili,,,male
-+++,,Susan Kipketer Chebet,Q7889105,United Republican Party,,Elgeyo-Marakwet,,,female
+->,Q111188350->NULL,Suleiman Murunga Kasuti,Q5473121,Forum for the Restoration of Democracy – Kenya->Ford Kenya,,NULL->Kimilili,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188351->NULL,Susan Kipketer Chebet,Q7889105,United Republican Party,,NULL->Elgeyo-Marakwet,2013-03-28->NULL,2017-08->NULL,female
+->,Q111188240->NULL,Susan Mbinya Musyoka,Q5251223,Wiper Democratic Movement->Wiper democratic Movement Kenya,,NULL->Machakos,2013-03-28->NULL,2017-08->NULL,female
 ->,Q7791963,Thomas Ludindi Mwadeghu->Thomas Mwadeghu,Q1640905,Orange Democratic Movement,,NULL->Wundanyi,2013-03-28->NULL,2017-08->NULL,male
 +++,,Timothy Moseti . E Bosire,Q1640905,Orange Democratic Movement,,Kitutu Masaba,,,male
+---,Q111188352,Timothy Moseti Bosire,Q1640905,Orange Democratic Movement,,,2013-03-28,2017-08,male
 ->,Q23887512,Timothy Wanyonyi Wetangula,Q1640905,Orange Democratic Movement,,NULL->Westlands,2013-03-28->NULL,2017-08->NULL,male
-+++,,Tirus Nyingi Ngahu,Q7193584,The National Alliance,,Kangema,,,male
-+++,,Tiyah Galgalo Ali,Q7193584,The National Alliance,,Isiolo,,,female
+->,Q111188353->NULL,Tirus Nyingi Ngahu,Q7193584,The National Alliance,,NULL->Kangema,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188354->NULL,Tiyah Galgalo Ali,Q7193584,The National Alliance,,NULL->Isiolo,2013-03-28->NULL,2017-08->NULL,female
 ->,Q7926175,Victor Munyaka->Victor Kioko Munyaka,Q5069325,Chama Cha Uzalendo,,NULL->Machakos Town,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494824,Vincent Musyoka Musau,Q5069325,Chama Cha Uzalendo,,NULL->Mwala,2013-03-28->NULL,2017-08->NULL,male
 ->,Q105642336->NULL,Wanjiku Muhia,Q7193584,The National Alliance,,NULL->Nyandarua,2013-03-28->NULL,2017-08->NULL,female
@@ -347,12 +351,13 @@
 ->,Q47494929,William Kamoti Mwamkale,Q1640905,Orange Democratic Movement,,NULL->Rabai,2013-03-28->NULL,2017-08->NULL,male
 ->,Q47494748,William Kipkemoi Kisang,Q7889105,United Republican Party,,NULL->Marakwet West,2013-03-28->NULL,2017-08->NULL,male
 ->,Q8014046,William Kipkorir->William Kipkiror,Q7889105,United Republican Party,,NULL->Baringo North,2013-03-28->NULL,2017-08->NULL,male
-+++,,William Maina Kamanda,Q7193584,The National Alliance,,Starehe,,,male
-+++,,Winnie Karimi Njuguna,Q7193584,The National Alliance,,Kirinyaga,,,female
+->,Q111188194->NULL,William Maina Kamanda,Q7193584,The National Alliance,,NULL->Starehe,2013-03-28->NULL,2017-08->NULL,male
+->,Q111188267->NULL,Willy Mtengo,Q1640905,Orange Democratic Movement,,NULL->Malindi,2013-03-28->2016,2017-08->NULL,male
+->,Q111188355->NULL,Winnie Karimi Njuguna,Q7193584,The National Alliance,,NULL->Kirinyaga,2013-03-28->NULL,2017-08->NULL,female
 ->,Q8061937,Yusuf Chanzu->Yusuf Kifuma Chanzu,Q7887687,United Democratic Forum->United Democratic Forum Party,,NULL->Vihiga,2013-03-28->NULL,2017-08->NULL,male
 ->,Q4664957,Yusuf Hassan Abdi,Q7193584,The National Alliance,,NULL->Kamukunji,2013-03-28->NULL,2017-08->NULL,male
-+++,,Zainab Kalekye Chidzuga,Q1640905,Orange Democratic Movement,,Kwale,,,female
+->,Q111188356->NULL,Zainab Kalekye Chidzuga,Q1640905,Orange Democratic Movement,,NULL->Kwale,2013-03-28->NULL,2017-08->NULL,female
 ->,Q8065041,Zakayo Cheruiyot->Zakayo Kipkemoi Cheruiyot,Q7889105,United Republican Party,,NULL->Kuresoi South,2013-03-28->NULL,2017-08->NULL,male
 ->,Q8068252,Zebedeo John Opore->John Zebedeo Opore,Q5473122,Forum for the Restoration of Democracy – People->Ford People,,NULL->Bonchari,2013-03-28->2014-06-01,2017-08->NULL,male
-+++,,Zipporah Jesang Kurgat Kering,Q7889105,United Republican Party,,Nandi,,,female
+->,Q111188192->NULL,Zipporah Jesang Kurgat Kering,Q7889105,United Republican Party,,NULL->Nandi,2013-03-28->NULL,2017-08->NULL,female
 ->,Q47490050,Zuleikha Ju Ma Hassan->Zulekha Juma Hassan,Q1640905,Orange Democratic Movement,,,2013-03-28->NULL,2017-08->NULL,female
