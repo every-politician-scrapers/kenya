@@ -1,6 +1,7 @@
 position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Member of the National Assembly,Mwai Kibaki,Q57291,1974,2013,male,1931-11-15,,Mwai Kibaki (cropped).jpg,Mwai Kibaki
 Member of the National Assembly,Kalonzo Musyoka,Q1395018,1985,2013,male,1953-12-24,,Kalonzo Musyoka1.jpg,Kalonzo Musyoka
+Member of the National Assembly,Martha Karua,Q3295164,1992,2013,female,1957-09-22,,Martha Karua.jpg,Martha Karua
 Member of the National Assembly,Matthew Adams Karauri,Q65850416,1997,2002,male,,,,
 Member of the National Assembly,Otieno Kajwang,Q7108730,1998,2013,male,1959-07-15,2014-11-18,"Gerald Otieno Kajwang Tartus, 9. mai 2014 - Foto Lilian Lukka.jpg",Otieno Kajwang
 Member of the National Assembly,Mohamed Yusuf Haji,Q1030776,2003,2013-03,male,1940-12-23,,Yusufhaji.jpg,Mohamed Yusuf Haji
@@ -715,72 +716,137 @@ Member of the National Assembly,Dennitah Ghati,Q98118573,2017-08-31,,female,,,,D
 Member of the National Assembly,Charles Kamuren,Q111180002,2018-08,,male,,,,
 Member of the National Assembly,David Ochieng Ouma,Q111179918,2019,,male,,,,
 Member of the National Assembly,Ahmed Kolosh Mohamed,Q47495188,2019,,male,,,,
-Member of the Senate of Kenya,Otieno Kajwang,Q7108730,2013-03,2014-11-19,male,1959-07-15,2014-11-18,"Gerald Otieno Kajwang Tartus, 9. mai 2014 - Foto Lilian Lukka.jpg",Otieno Kajwang
-Member of the Senate of Kenya,Amos Wako,Q4747966,2013-03-28,,male,1946-07-31,,AmosWako1984.jpg,Amos Wako
-Member of the Senate of Kenya,Mohamed Yusuf Haji,Q1030776,2017-08-31,,male,1940-12-23,,Yusufhaji.jpg,Mohamed Yusuf Haji
-Member of the Senate of Kenya,Samuel Poghisio,Q16734594,2017-08-31,,male,1958-11-25,,Samuel Losuron Poghisio.png,Samuel Poghisio
-Member of the Senate of Kenya,Isaac Mwaura,Q20744564,2017-08-31,,male,1982-05-29,,SEN. DR ISAAC MWAURA.jpg,Mwaura Isaac Maigua
-Member of the Senate of Kenya,Moses Otieno Kajwang,Q27893074,2017-08-31,,male,1979-02-02,,,Moses Otieno Kajwang
-Member of the Senate of Kenya,Irungu Kang'ata,Q28113009,2017-08-31,,male,1980,,,Irungu Kang'ata
-Member of the Senate of Kenya,Sakaja Johnson,Q28967580,2017-08-31,,male,1985-02-02,,,Sakaja Johnson
-Member of the Senate of Kenya,Kipchumba Murkomen,Q46556896,2017-08-31,,male,1979,,,Kipchumba Murkomen
-Member of the Senate of Kenya,Sam Ongeri,Q4705081,2017-08-31,,male,,,Sam Ongeri (cropped).jpg,Sam Ongeri
-Member of the Senate of Kenya,Mohamed Maalim Mahamud,Q47514796,2017-08-31,,male,,,,
-Member of the Senate of Kenya,John Kinyua Nderitu,Q47514797,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Sitswila Amos Wako,Q47514798,2017-08-31,,,,,,
-Member of the Senate of Kenya,Kithure Kindiki A K,Q47514805,2017-08-31,,,,,,
-Member of the Senate of Kenya,Phillip Salau Mpaayei,Q47514806,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Cherarkey K Samson,Q47514820,2017-08-31,,,,,,
-Member of the Senate of Kenya,Abdullahi Ibrahim Ali,Q47514825,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Golich Juma Wario,Q47514830,2017-08-31,,male,,,,Golich Juma Wario
-Member of the Senate of Kenya,Ben Oluoch Okello,Q47514837,2017-08-31,2018-06-19,male,,2018-06-19,,Ben Oluoch
-Member of the Senate of Kenya,Charles Reubenson Kibiru,Q47514851,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Michael Maling'a Mbito,Q47514852,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Dullo Fatuma Adan,Q47514853,2017-08-31,,,,,,
-Member of the Senate of Kenya,Aaron Kipkirui Cheruiyot,Q47514855,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Eng Ephraim Mwangi Maina Kirinyaga,Q47514859,2017-08-31,,,,,,
-Member of the Senate of Kenya,Susan Wakarura Kihika,Q47514871,2017-08-31,,female,,,,
-Member of the Senate of Kenya,Issa Juma Boy,Q47514874,2017-08-31,,,,,,
-Member of the Senate of Kenya,Paul Githiomi Mwangi,Q47514875,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Johnes Mwashushe Mwaruma,Q47514877,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Malachy Charles Ekal Imana,Q47514883,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Fredrick Otieno Outa,Q47514887,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Wamatangi Paul Kimani,Q47514897,2017-08-31,,,,,,
-Member of the Senate of Kenya,Enoch Kiio Wambua,Q47514898,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Boniface Mutinda Kabaka,Q47514903,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Stewart Mwachiru Shadrack Madzayo,Q47514905,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Gideon Kipsielei Towett Moi,Q47514907,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Mutula Kilonzo Junior,Q47514909,2017-08-31,,,,,,
-Member of the Senate of Kenya,Cleophas Wakhungu Malalah,Q47514910,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Christopher Andrew Langat,Q47514911,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Steve Ltumbesi Lelegwe,Q47514912,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Godana Hargura,Q47514914,2017-08-31,,,,,,
-Member of the Senate of Kenya,Mercy Chebeni,Q47516257,2017-08-31,,female,,,,
-Member of the Senate of Kenya,Christine Zawadi Gona,Q47516259,2017-08-31,,female,,,,
-Member of the Senate of Kenya,Farhiya Ali Haji,Q47516260,2017-08-31,,,,,,
-Member of the Senate of Kenya,Abshiro Soka Halake,Q47516261,2017-08-31,,,,,,
-Member of the Senate of Kenya,Falhada Dekow Iman,Q47516262,2017-08-31,,,,,,
-Member of the Senate of Kenya,Getrude Musuruve Inimah,Q47516263,2017-08-31,,female,,,,
-Member of the Senate of Kenya,Sylvia Mueni Kasanga,Q47516265,2017-08-31,,female,,,,
-Member of the Senate of Kenya,Anuar Loitiptip,Q47516266,2017-08-31,,male,,,,Anuar Loitiptip
-Member of the Senate of Kenya,Petronila Were Lokorio,Q47516267,2017-08-31,,female,,,,
-Member of the Senate of Kenya,Beatrice Kwamboka Makori,Q47516268,2017-08-31,,female,,,,
-Member of the Senate of Kenya,Naomi Shiyonga Masitsa,Q47516269,2017-08-31,,female,,,,
-Member of the Senate of Kenya,Alice Chepkorir Milgo,Q47516271,2017-08-31,,female,,,,
-Member of the Senate of Kenya,Erick Okong'o Mogeni,Q47516272,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Haji Mohamed Mwinyi,Q47516273,2017-08-31,,,,,,
-Member of the Senate of Kenya,Rose Ogendo Nyamunga,Q47516274,2017-08-31,,female,,,,
-Member of the Senate of Kenya,Millicent Omanga,Q47516275,2017-08-31,,female,,,,
-Member of the Senate of Kenya,Judith Ramaita Pareno,Q47516276,2017-08-31,,female,,,,
-Member of the Senate of Kenya,Victor Prengei,Q47516277,2017-08-31,,male,,,,
-Member of the Senate of Kenya,Mary Yiane Seneta,Q47516278,2017-08-31,,female,,,,
-Member of the Senate of Kenya,Naomi Jilo Waqo,Q47516279,2017-08-31,,female,,,,
-Member of the Senate of Kenya,Agnes Philomena Zani,Q47516280,2017-08-31,,female,,,,
-Member of the Senate of Kenya,Beth Wambui Mugo,Q4897658,2017-08-31,,female,1939-07-11,,,Beth Wambui Mugo
-Member of the Senate of Kenya,Franklin Linturi,Q5491660,2017-08-31,,male,,,,Franklin Linturi
-Member of the Senate of Kenya,George Khaniri,Q5541326,2017-08-31,,male,1972-07-01,,,George Khaniri
-Member of the Senate of Kenya,Moses Wetangula,Q58188,2017-08-31,,male,1956-09-13,,Moses Wetangula.png,Moses Wetangula
-Member of the Senate of Kenya,James Orengo,Q6140639,2017-08-31,,male,1951,,,James Orengo
-Member of the Senate of Kenya,Margaret Kamar,Q6759579,2017-08-31,,female,1959-04-28,,,Margaret Kamar
-Member of the Senate of Kenya,Olekina Ledama,Q7086213,2017-08-31,,male,1974-11-11,,,Olekina Ledama
-Member of the Senate of Kenya,Peter Njeru Ndwiga,Q7176116,2017-08-31,,male,,,,Peter Njeru Ndwiga
+Member of the Senate,Otieno Kajwang,Q7108730,2013-03,2014-11-19,male,1959-07-15,2014-11-18,"Gerald Otieno Kajwang Tartus, 9. mai 2014 - Foto Lilian Lukka.jpg",Otieno Kajwang
+Member of the Senate,Chelule Liza,Q100146446,2013-03-28,2017-08,female,,,,Chelule Liza
+Member of the Senate,Mohamed Yusuf Haji,Q1030776,2013-03-28,2017-08,male,1940-12-23,,Yusufhaji.jpg,Mohamed Yusuf Haji
+Member of the Senate,Agnes Zani,Q111188679,2013-03-28,2017-08,,,,,
+Member of the Senate,Ali Bule,Q111188680,2013-03-28,2017-08,,,,,
+Member of the Senate,Beatrice Elachi,Q111188681,2013-03-28,2017-08,,,,,
+Member of the Senate,Boy Juma Boy,Q111188682,2013-03-28,2017-08,,,,,
+Member of the Senate,Catherine Mukite Nabwola,Q111188683,2013-03-28,2017-08,,,,,
+Member of the Senate,Dan Mwazo,Q111188684,2013-03-28,2017-08,,,,,
+Member of the Senate,Dullo Fatuma Adam,Q111188685,2013-03-28,2017-08,,,,,
+Member of the Senate,Elizabeth Ongoro Masha,Q111188686,2013-03-28,2017-08,,,,,
+Member of the Senate,Emma Mbura Gertrude,Q111188687,2013-03-28,2017-08,,,,,
+Member of the Senate,Halima Abdille Mohamud,Q111188688,2013-03-28,2017-08,,,,,
+Member of the Senate,Harold Kimunge Kipchumba,Q111188689,2013-03-28,2017-08,,,,,
+Member of the Senate,Hassan Omar,Q111188690,2013-03-28,2017-08,,,,,
+Member of the Senate,Henry Ndiema,Q111188691,2013-03-28,2017-08,,,,,
+Member of the Senate,Hosea Onchwangi,Q111188692,2013-03-28,2017-08,,,,,
+Member of the Senate,Isaac Melly,Q111188693,2013-03-28,2017-08,,,,,
+Member of the Senate,James Kiarie Mungai,Q111188694,2013-03-28,2017-08,,,,,
+Member of the Senate,John Lonyangapuo,Q111188695,2013-03-28,2017-08,,,,,
+Member of the Senate,Joy Adhiambo Gwendo,Q111188696,2013-03-28,2017-08,,,,,
+Member of the Senate,Judith Achieng Sijeny,Q111188697,2013-03-28,2017-08,,,,,
+Member of the Senate,Kanainza Nyongesa Daisy,Q111188698,2013-03-28,2017-08,,,,,
+Member of the Senate,Lenny Kivuti,Q111188699,2013-03-28,2017-08,,,,,
+Member of the Senate,Linet Kemunto Nyakeriga,Q111188700,2013-03-28,2017-08,,,,,
+Member of the Senate,Mithika Linturi,Q111188701,2013-03-28,2017-08,,,,,
+Member of the Senate,Mshenga Mvita Kisasa,Q111188702,2013-03-28,2017-08,,,,,
+Member of the Senate,Muriuki Karue,Q111188703,2013-03-28,2017-08,,,,,
+Member of the Senate,Paul Kimani,Q111188704,2013-03-28,2017-08,,,,,
+Member of the Senate,Peter Mositet,Q111188705,2013-03-28,2017-08,,,,,
+Member of the Senate,Sammy Leshore,Q111188706,2013-03-28,2017-08,,,,,
+Member of the Senate,Stephen Kanyinge ole Ntutu,Q111188707,2013-03-28,2017-08,,,,,
+Member of the Senate,Wilson Lessan,Q111188708,2013-03-28,2017-08,,,,,
+Member of the Senate,Zipporah Jepchirchir Kittony,Q111188709,2013-03-28,2017-08,,,,,
+Member of the Senate,Gideon Moi,Q11249433,2013-03-28,2017-08,male,1964,,,Gideon Moi
+Member of the Senate,David Musila,Q1175814,2013-03-28,2017-08,male,1943-02-24,,,David Musila
+Member of the Senate,Mutula Kilonzo,Q15993157,2013-03-28,2017-08,male,1948-07-02,2013-04-27,Mutula Kilonzo UNDP 2009.jpg,Mutula Kilonzo
+Member of the Senate,Mutahi Kagwe,Q16192784,2013-03-28,2017-08,male,1958,,,Mutahi Kagwe
+Member of the Senate,Kembi Gitura,Q16866321,2013-03-28,2017-08,male,1953,,,Kembi Gitura
+Member of the Senate,Daniel Karaba,Q25113132,2013-03-28,2017-08,male,1948,,,Daniel Karaba
+Member of the Senate,Kennedy Mong'are Okong'o,Q28131389,2013-03-28,2017-08,male,1969-03-01,,,Kennedy Mong'are Okong'o
+Member of the Senate,Martha Karua,Q3295164,2013-03-28,2017-08,female,1957-09-22,,Martha Karua.jpg,Martha Karua
+Member of the Senate,Naisula Lesuuda,Q33061100,2013-03-28,2017-08,female,1984-04-30,,,Naisula Lesuuda
+Member of the Senate,Janet ong'era,Q38668434,2013-03-28,2017-08,female,,,,Janet Ong'era
+Member of the Senate,Kipchumba Murkomen,Q46556896,2013-03-28,2017-08,male,1979,,,Kipchumba Murkomen
+Member of the Senate,Abdirahman Ali Hassan,Q4664992,2013-03-28,2017-08,male,,,,Abdirahman Ali Hassan
+Member of the Senate,Abu Chiaba,Q4670109,2013-03-28,2017-08,male,1947,,,Abu Chiaba
+Member of the Senate,Amos Wako,Q4747966,2013-03-28,,male,1946-07-31,,AmosWako1984.jpg,Amos Wako
+Member of the Senate,Godana Hargura,Q47514914,2013-03-28,2017-08,,,,,
+Member of the Senate,Stephen Sang,Q48472394,2013-03-28,2017-08,male,1985-01-01,,,Stephen Sang
+Member of the Senate,Beth Wambui Mugo,Q4897658,2013-03-28,2017-08,female,1939-07-11,,,Beth Wambui Mugo
+Member of the Senate,Bonny Khalwale,Q4942502,2013-03-28,2017-08,male,1960-08-05,,,Bonny Khalwale
+Member of the Senate,Charles Keter,Q5076212,2013-03-28,2017-08,male,1969-11-22,,Charles Keter Sebastian Kurz Nairobi October 2016 (30482154722).jpg,Charles Keter
+Member of the Senate,Christopher Obure,Q5112986,2013-03-28,2017-08,male,1943-09-29,,,Christopher Obure
+Member of the Senate,George Khaniri,Q5541326,2013-03-28,2017-08,male,1972-07-01,,,George Khaniri
+Member of the Senate,Godfrey Gitahi Kariuki,Q5576439,2013-03-28,2017-08,male,1938-12-12,2017-06-29,,Godfrey Gitahi Kariuki
+Member of the Senate,Moses Wetangula,Q58188,2013-03-28,2017-08,male,1956-09-13,,Moses Wetangula.png,Moses Wetangula
+Member of the Senate,James Orengo,Q6140639,2013-03-28,2017-08,male,1951,,,James Orengo
+Member of the Senate,John Munyes,Q6249843,2013-03-28,2017-08,male,,,,John Munyes
+Member of the Senate,Johnson Nduya Muthama,Q6268381,2013-03-28,2017-08,male,1954-10-20,,Johnstone Muthama.JPG,Johnson Muthama
+Member of the Senate,Mike Sonko,Q6848880,2013-03-28,2017-08,male,1977-02-27,,,Mike Sonko
+Member of the Senate,Mohammed Kuti,Q6893179,2013-03-28,2017-08,male,1964-03-12,,,Mohammed Kuti
+Member of the Senate,Peter Anyang' Nyong'o,Q7172546,2013-03-28,2017-08,male,1945-10-10,,,Peter Anyang' Nyong'o
+Member of the Senate,Ochilo Ayacko,Q88808420,2013-03-28,2017-08,male,1968,,,Ochilo Ayacko
+Member of the Senate,Kithure A. Kindiki,Q96002114,2013-03-28,2017-08,male,,,,Kithure A. Kindiki
+Member of the Senate,Billow Kerow,Q96065892,2013-03-28,2017-08,male,,,,Billow Kerow
+Member of the Senate,Stewart Madzayo,Q96375428,2013-03-28,2017-08,male,,,,Stewart Madzayo
+Member of the Senate,Mohamed Yusuf Haji,Q1030776,2017-08-31,,male,1940-12-23,,Yusufhaji.jpg,Mohamed Yusuf Haji
+Member of the Senate,Samuel Poghisio,Q16734594,2017-08-31,,male,1958-11-25,,Samuel Losuron Poghisio.png,Samuel Poghisio
+Member of the Senate,Isaac Mwaura,Q20744564,2017-08-31,,male,1982-05-29,,SEN. DR ISAAC MWAURA.jpg,Mwaura Isaac Maigua
+Member of the Senate,Moses Otieno Kajwang,Q27893074,2017-08-31,,male,1979-02-02,,,Moses Otieno Kajwang
+Member of the Senate,Irungu Kang'ata,Q28113009,2017-08-31,,male,1980,,,Irungu Kang'ata
+Member of the Senate,Sakaja Johnson,Q28967580,2017-08-31,,male,1985-02-02,,,Sakaja Johnson
+Member of the Senate,Kipchumba Murkomen,Q46556896,2017-08-31,,male,1979,,,Kipchumba Murkomen
+Member of the Senate,Sam Ongeri,Q4705081,2017-08-31,,male,,,Sam Ongeri (cropped).jpg,Sam Ongeri
+Member of the Senate,Mohamed Maalim Mahamud,Q47514796,2017-08-31,,male,,,,
+Member of the Senate,John Kinyua Nderitu,Q47514797,2017-08-31,,male,,,,
+Member of the Senate,Sitswila Amos Wako,Q47514798,2017-08-31,,,,,,
+Member of the Senate,Kithure Kindiki A K,Q47514805,2017-08-31,,,,,,
+Member of the Senate,Phillip Salau Mpaayei,Q47514806,2017-08-31,,male,,,,
+Member of the Senate,Cherarkey K Samson,Q47514820,2017-08-31,,,,,,
+Member of the Senate,Abdullahi Ibrahim Ali,Q47514825,2017-08-31,,male,,,,
+Member of the Senate,Golich Juma Wario,Q47514830,2017-08-31,,male,,,,Golich Juma Wario
+Member of the Senate,Ben Oluoch Okello,Q47514837,2017-08-31,2018-06-19,male,,2018-06-19,,Ben Oluoch
+Member of the Senate,Charles Reubenson Kibiru,Q47514851,2017-08-31,,male,,,,
+Member of the Senate,Michael Maling'a Mbito,Q47514852,2017-08-31,,male,,,,
+Member of the Senate,Dullo Fatuma Adan,Q47514853,2017-08-31,,,,,,
+Member of the Senate,Aaron Kipkirui Cheruiyot,Q47514855,2017-08-31,,male,,,,
+Member of the Senate,Eng Ephraim Mwangi Maina Kirinyaga,Q47514859,2017-08-31,,,,,,
+Member of the Senate,Susan Wakarura Kihika,Q47514871,2017-08-31,,female,,,,
+Member of the Senate,Issa Juma Boy,Q47514874,2017-08-31,,,,,,
+Member of the Senate,Paul Githiomi Mwangi,Q47514875,2017-08-31,,male,,,,
+Member of the Senate,Johnes Mwashushe Mwaruma,Q47514877,2017-08-31,,male,,,,
+Member of the Senate,Malachy Charles Ekal Imana,Q47514883,2017-08-31,,male,,,,
+Member of the Senate,Fredrick Otieno Outa,Q47514887,2017-08-31,,male,,,,
+Member of the Senate,Wamatangi Paul Kimani,Q47514897,2017-08-31,,,,,,
+Member of the Senate,Enoch Kiio Wambua,Q47514898,2017-08-31,,male,,,,
+Member of the Senate,Boniface Mutinda Kabaka,Q47514903,2017-08-31,,male,,,,
+Member of the Senate,Stewart Mwachiru Shadrack Madzayo,Q47514905,2017-08-31,,male,,,,
+Member of the Senate,Gideon Kipsielei Towett Moi,Q47514907,2017-08-31,,male,,,,
+Member of the Senate,Mutula Kilonzo Junior,Q47514909,2017-08-31,,,,,,
+Member of the Senate,Cleophas Wakhungu Malalah,Q47514910,2017-08-31,,male,,,,
+Member of the Senate,Christopher Andrew Langat,Q47514911,2017-08-31,,male,,,,
+Member of the Senate,Steve Ltumbesi Lelegwe,Q47514912,2017-08-31,,male,,,,
+Member of the Senate,Godana Hargura,Q47514914,2017-08-31,,,,,,
+Member of the Senate,Mercy Chebeni,Q47516257,2017-08-31,,female,,,,
+Member of the Senate,Christine Zawadi Gona,Q47516259,2017-08-31,,female,,,,
+Member of the Senate,Farhiya Ali Haji,Q47516260,2017-08-31,,,,,,
+Member of the Senate,Abshiro Soka Halake,Q47516261,2017-08-31,,,,,,
+Member of the Senate,Falhada Dekow Iman,Q47516262,2017-08-31,,,,,,
+Member of the Senate,Getrude Musuruve Inimah,Q47516263,2017-08-31,,female,,,,
+Member of the Senate,Sylvia Mueni Kasanga,Q47516265,2017-08-31,,female,,,,
+Member of the Senate,Anuar Loitiptip,Q47516266,2017-08-31,,male,,,,Anuar Loitiptip
+Member of the Senate,Petronila Were Lokorio,Q47516267,2017-08-31,,female,,,,
+Member of the Senate,Beatrice Kwamboka Makori,Q47516268,2017-08-31,,female,,,,
+Member of the Senate,Naomi Shiyonga Masitsa,Q47516269,2017-08-31,,female,,,,
+Member of the Senate,Alice Chepkorir Milgo,Q47516271,2017-08-31,,female,,,,
+Member of the Senate,Erick Okong'o Mogeni,Q47516272,2017-08-31,,male,,,,
+Member of the Senate,Haji Mohamed Mwinyi,Q47516273,2017-08-31,,,,,,
+Member of the Senate,Rose Ogendo Nyamunga,Q47516274,2017-08-31,,female,,,,
+Member of the Senate,Millicent Omanga,Q47516275,2017-08-31,,female,,,,
+Member of the Senate,Judith Ramaita Pareno,Q47516276,2017-08-31,,female,,,,
+Member of the Senate,Victor Prengei,Q47516277,2017-08-31,,male,,,,
+Member of the Senate,Mary Yiane Seneta,Q47516278,2017-08-31,,female,,,,
+Member of the Senate,Naomi Jilo Waqo,Q47516279,2017-08-31,,female,,,,
+Member of the Senate,Agnes Philomena Zani,Q47516280,2017-08-31,,female,,,,
+Member of the Senate,Beth Wambui Mugo,Q4897658,2017-08-31,,female,1939-07-11,,,Beth Wambui Mugo
+Member of the Senate,Franklin Linturi,Q5491660,2017-08-31,,male,,,,Franklin Linturi
+Member of the Senate,George Khaniri,Q5541326,2017-08-31,,male,1972-07-01,,,George Khaniri
+Member of the Senate,Moses Wetangula,Q58188,2017-08-31,,male,1956-09-13,,Moses Wetangula.png,Moses Wetangula
+Member of the Senate,James Orengo,Q6140639,2017-08-31,,male,1951,,,James Orengo
+Member of the Senate,Margaret Kamar,Q6759579,2017-08-31,,female,1959-04-28,,,Margaret Kamar
+Member of the Senate,Olekina Ledama,Q7086213,2017-08-31,,male,1974-11-11,,,Olekina Ledama
+Member of the Senate,Peter Njeru Ndwiga,Q7176116,2017-08-31,,male,,,,Peter Njeru Ndwiga
