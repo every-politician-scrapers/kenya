@@ -48,6 +48,7 @@
 ->,Q47493961->NULL,Ben George Orori Momanyi,Q5251223,NULL->Wiper Democratic Movement - Kenya,Q47463490,Borabu Constituency->Borabu,Q47493961-0D9973D3-5C74-4A64-BFC6-5A865CEC16EC->NULL
 ->,Q47495017->NULL,Benard Kipsengeret Koros->Kipsengeret Koros,Q327591,சுயே->Independent,Q39087469,Sigowet–Soin Constituency->Sigowet Soin,Q47495017-1673AA6C-9C20-4A22-A391-1FB0975ECEE2->NULL
 ->,Q47494323->NULL,Benard Masaka Shinali,Q27963537,NULL->Jubilee Party,Q5996095,Ikolomani Constituency->Ikolomani,Q47494323-560925E2-30A0-401B-97CB-1C0DAA2CEA52->NULL
+->,Q85837193->NULL,Benard Otieno Okoth,NULL->Q1640905,NULL->Orange Democratic Movement,NULL->Q22080473,NULL->Kibra,Q85837193-2e9b0e19-23a1-4451-9b06-0e16ec3e94c4->NULL
 ->,Q47494464->NULL,Benjamin Dalu Stephen Tayari,Q1640905,NULL->Orange Democratic Movement,Q6410376,Kinango Constituency->Kinango,Q47494464-A29E66E2-EFFC-4259-B0FA-AE9BC8959254->NULL
 ->,Q47494250->NULL,Benjamin Gathiru Mwangi,Q27963537,NULL->Jubilee Party,Q47463496,Embakasi Central Constituency->Embakasi Central,Q47494250-9F150E99-1FE5-4565-B2FD-4F5ADDFA5D45->NULL
 ->,Q4888887->NULL,Benjamin Jomo Washiali,Q27963537,NULL->Jubilee Party,Q47463462,Mumias East Constituency->Mumias East,Q4888887-075DF075-6A84-43E3-80D1-E52F70040866->NULL
@@ -60,8 +61,8 @@
 ->,Q47494866->NULL,Charity Kathambi Chepkwony,Q27963537,NULL->Jubilee Party,Q47463446,Njoro Constituency->Njoro,Q47494866-8CCB0245-C016-4A01-9C64-47E9D400DE0A->NULL
 ->,Q47493925->NULL,Charles Gumini Gimose,Q5473121,NULL->Forum for Restoration of Democracy - Kenya,Q5645412,Hamisi Constituency->Hamisi,Q47493925-8EE38BE1-1FE8-4739-8A00-BCEE4BEA8F90->NULL
 ->,Q111180002->NULL,Charles Kamuren,Q27963537,NULL->Jubilee Party,Q47463444,Baringo South Constituency->Baringo South,Q111180002-B873B5B2-05C5-4624-AB34-2487A3349150->NULL
+->,Q5079790,Charles Kilonzo,Q327591,சுயே->Independent,Q8050290,Yatta Constituency->Yatta,Q5079790-E9524742-EE99-4000-A5EC-CE2E8207984E->NULL
 ->,Q47494778->NULL,Charles Muriuki Njagagua,Q27963537,NULL->Jubilee Party,Q14475849,Mbeere North Constituency->Mbeere North,Q47494778-1DBA8902-D667-426D-8768-B8D6E04DAB48->NULL
-->,Q47495197->Q5079790,Charles Mutavi Kilonzo->Charles Kilonzo,Q327591,சுயே->Independent,Q8050290,Yatta Constituency->Yatta,Q47495197-CB5639C4-FD62-4239-BA4D-D03F19E1610E->NULL
 ->,Q47494840->NULL,Charles Ngusya Nguna,Q5251223,NULL->Wiper Democratic Movement - Kenya,Q47463419,Mwingi West Constituency->Mwingi West,Q47494840-09076CDF-AA6B-4D4B-9DA4-4D87F4755A74->NULL
 ->,Q6122859->NULL,Charles Njagua Kanyi->CHARLES KANYI NJAGUA,Q27963537,NULL->Jubilee Party,Q7601801,Starehe Constituency->Starehe,Q6122859-be484b4d-4850-4e52-36a0-371c59009b23->NULL
 ->,Q47494389->NULL,Charles Ong'ondo Were->Charles Ong’ondo Were,Q1640905,NULL->Orange Democratic Movement,Q47463474,Kasipul Constituency->Kasipul,Q47494389-EAD3A0C6-853D-41A0-80BB-5623A07A123A->NULL
@@ -122,7 +123,6 @@
 ->,Q47494311->NULL,Gabriel Kago Mukuha,Q27963537,NULL->Jubilee Party,Q5565112,Githunguri Constituency->Githunguri,Q47494311-6FD5649A-2D81-4318-A584-3F6EADDAE87A->NULL
 ->,Q47494858->NULL,Gabriel Koshal Tongoyo,Q47492863->Q60776120,NULL->Chama Cha Mashinani,Q47463453,Narok West Constituency->Narok West,Q47494858-308DB35C-E0F8-44C1-B6E8-32F780D91946->NULL
 ->,Q47490045->Q96741824,Gathoni Wamuchomba->Gathoni Wa Muchomba,Q27963537,NULL->Jubilee Party,Q2575594,Kiambu County->Kiambu,Q47490045-691FE360-02C8-4502-B32B-E319CF26BA38->NULL
-->,Q47494651->NULL,Generali Nixon Kiprotich Korir,Q27963537,NULL->Jubilee Party,Q6485732,Langata Constituency->Langata,Q47494651-F5985EA1-0CEA-4CE9-8047-7F9A03769656->NULL
 ->,Q47494781->NULL,Geoffrey Kingagi Muturi,Q27963537,NULL->Jubilee Party,Q5516225,Mbeere South Constituency->Mbeere South,Q47494781-137D25BF-2059-40CE-9028-60CC96C598AD->NULL
 ->,Q47494758->NULL,Geoffrey Makokha Odanga,Q1640905,NULL->Orange Democratic Movement,Q24236285,Matayos Constituency->Matayos,Q47494758-956A53FB-96A7-43CA-B682-55537CB373FF->NULL
 ->,Q47495117->NULL,Geoffrey Omuse,Q1640905,NULL->Orange Democratic Movement,Q47463470,Teso South Constituency->Teso South,Q47495117-D7D4286B-87C0-47AC-AC4E-46E4D430CAFF->NULL
@@ -183,6 +183,7 @@
 ->,Q47495147->NULL,John Lodepe Nakara,Q1640905,NULL->Orange Democratic Movement,Q17099533,Turkana Central Constituency->Turkana Central,Q47495147-6A8681C8-93A1-45CA-897B-FDDE1FFC5665->NULL
 ->,Q47494735->NULL,John Muchiri Nyaga,Q27963537,NULL->Jubilee Party,Q6753394,Manyatta Constituency->Manyatta,Q47494735-18B0A664-F892-4C53-A729-4337FCB0DD2E->NULL
 ->,Q47494473->NULL,John Munene Wambugu,Q27963537,NULL->Jubilee Party,Q6415320,Kirinyaga Central Constituency->Kirinyaga Central,Q47494473-348DAEF6-9443-4BC8-8681-0AE8A2B66626->NULL
+---,Q111190431,John Njuguna Wanjiku,,,Q6403727,Kiambaa Constituency,Q111190431-663B554B-8923-4651-B0A3-332304BBEBFA
 ->,Q6251185->NULL,John Olago Aluoch,Q5473121,NULL->Forum for Restoration of Democracy - Kenya,Q6417350,Kisumu Town West Constituency->Kisumu West,Q6251185-0CCEB4DD-60E1-4AAC-82CB-71E7ACDE6C0B->NULL
 ->,Q47494200->NULL,John Oroo Oyioka,Q22666200,NULL->Peoples Democratic Party,Q4941238,Bonchari Constituency->Bonchari,Q47494200-DC825B9E-E958-4C3B-B2C8-53B6787AE50D->NULL
 ->,Q47494319->NULL,John Paul Mwirigi,Q327591,சுயே->Independent,Q5991645,Igembe South Constituency->Igembe South,Q47494319-2854F841-3F0A-4FF4-9C99-4202EA525DD6->NULL
@@ -198,7 +199,7 @@
 ->,Q47494872->NULL,Joshua Aduma Owuor,Q1640905,NULL->Orange Democratic Movement,Q7070809,Nyakach Constituency->Nyakach,Q47494872-F32990A2-3341-4F3B-A4D2-05DB96372AD9->NULL
 ->,Q47494001->NULL,Joshua Chepyegon Kandie,Q47489396,NULL->Maendeleo Chap Chap Party,Q4860772,Baringo Central Constituency->Baringo Central,Q47494001-120839E1-F627-42CE-84F4-A1BF6E3F0A05->NULL
 ->,Q47494341->NULL,Joshua Kivinda Kimilu,Q5251223,NULL->Wiper Democratic Movement - Kenya,Q6348628,Kaiti Constituency->Kaiti,Q47494341-3260F69B-4773-40F0-A312-B0921A145FC5->NULL
-->,Q47493917->NULL,Joshua Kutuny Serem,Q27963537,NULL->Jubilee Party,Q5091828,Cherangany Constituency->Cherangany,Q47493917-1F16E68D-688E-4799-964E-6A5585853A85->NULL
+->,Q6289987->NULL,Joshua Kutuny->Joshua Kutuny Serem,Q27963537,NULL->Jubilee Party,Q5091828,Cherangany Constituency->Cherangany,Q6289987-B9337E4D-E96A-4B6E-83C1-DC5DE128FEB0->NULL
 ->,Q47494753->NULL,Joshua Mbithi Mwalyo,Q5251223,NULL->Wiper Democratic Movement - Kenya,Q6783288,Masinga Constituency->Masinga,Q47494753-E806739A-A99A-482E-B650-0CFC4E364836->NULL
 ->,Q47495134->NULL,Josphat Gichunge Mwirabua Kabeabea,Q2559675,NULL->Party of National Unity,Q7801321,Tigania East Constituency->Tigania East,Q47495134-81C6FFE9-2E08-4587-BF2C-A410ADA49D70->NULL
 ->,Q47494828->NULL,Josphat Kabinga Wachira,Q27963537,NULL->Jubilee Party,Q6944711,Mwea Constituency->Mwea,Q47494828-6C77DE7E-E295-426E-BB89-5C257A9720D7->NULL
@@ -211,11 +212,10 @@
 ->,Q47495084->NULL,Junet Sheikh Nuh,Q1640905,NULL->Orange Democratic Movement,Q47463479,Suna East Constituency->Suna East,Q47495084-2073059E-D555-4376-98B6-5B09FDA8EA5F->NULL
 ->,Q47494999->NULL,Justus Gesito Mugali M'mbaya->Justus Gesito Mugali M'MBAYA,Q1640905,NULL->Orange Democratic Movement,Q7497839,Shinyalu Constituency->Shinyalu,Q47494999-37C1559B-413A-4C63-9559-729B53649763->NULL
 ->,Q47494768->NULL,Justus Murunga Makokha,Q47489380,NULL->Amani National Congress,Q17089719,Matungu Constituency->Matungu,Q47494768-CE71F04E-6C45-4A60-A07F-EE0D7DE244C1->NULL
-->,Q47494960->NULL,Kajwang' Tom Joseph Francis->KAJWANG' TOM JOSEPH FRANCIS,Q1640905,NULL->Orange Democratic Movement,Q24236499,Ruaraka Constituency->Ruaraka,Q47494960-ECFEF068-A429-4C61-A493-734FD5608243->NULL
 ->,Q47493946->NULL,Kassim Sawa Tandaza,Q47489380,NULL->Amani National Congress,Q6791957,Matuga Constituency->Matuga,Q47493946-C8F05BE3-2B98-4B31-9321-788C7F805165->NULL
 ->,Q47495046->NULL,Kathuri Murungi,Q327591,சுயே->Independent,Q7567524,South Imenti Constituency->South Imenti,Q47495046-51508444-8981-4CA7-84CC-ED117A1A4EE5->NULL
 ->,Q47490058->NULL,Kawira Mwangaza,Q327591,சுயே->Independent,Q15045704,Meru County->Meru,Q47490058-66AAF643-62C6-4C14-95A3-61CC910FB8F1->NULL
-->,Q47494410->NULL,Kenneth Odhiambo Okoth->Benard Otieno Okoth,Q1640905,NULL->Orange Democratic Movement,Q22080473,Kibra Constituency->Kibra,Q47494410-8C447729-42E6-4AB1-AA36-94003B7C45A4->NULL
+---,Q47494410,Kenneth Odhiambo Okoth,Q1640905,,Q22080473,Kibra Constituency,Q47494410-8C447729-42E6-4AB1-AA36-94003B7C45A4
 ->,Q18388019->NULL,Khatib Mwashetani->Khatib Abdallah Mwashetani,Q27963537,NULL->Jubilee Party,Q47463406,Lunga Lunga Constituency->Lunga Lunga,Q18388019-172FEBE2-1B58-44D2-B8C9-C7B2194217B9->NULL
 ->,Q47494946->NULL,Kipruto Moi,Q1422517,NULL->Kenya African National Union,Q7365616,Rongai Constituency->Rongai,Q47494946-D5ADA747-21B1-4FD8-9D2B-1CC79A532BAF->NULL
 ->,Q47494470->NULL,Kirui Joseph Limo,Q27963537,NULL->Jubilee Party,Q22080475,Kipkelion East Constituency->Kipkelion East,Q47494470-EA697074-AD74-4CD8-A3F9-BA24C5ECC91B->NULL
@@ -263,6 +263,7 @@
 ->,Q47494007->NULL,Nelson Koech,Q27963537,NULL->Jubilee Party,Q4882701,Belgut Constituency->Belgut,Q47494007-A8E905FA-FA83-4CAC-980B-DD6E1956D06F->NULL
 ->,Q47494217->NULL,Nicholas Scott Tindi Mwale,Q47489380,NULL->Amani National Congress,Q5002502,Butere Constituency->Butere,Q47494217-7E18F5D3-C5DE-4762-9340-47862B770EBB->NULL
 ->,Q47494489->NULL,Nimrod Mbithuka Mbai,Q27963537,NULL->Jubilee Party,Q6943975,Kitui East Constituency->Kitui East,Q47494489-BF3F9F13-9503-4E17-B71A-3C763CCC6196->NULL
+->,Q7041983->NULL,Nixon Kiprotich Korir->Generali Nixon Kiprotich Korir,Q27963537,NULL->Jubilee Party,Q6485732,Langata Constituency->Langata,Q7041983-CC63F562-38FD-4C1A-A3D9-60E78AB1261E->NULL
 ->,Q47494723->NULL,Omar Mohamed Maalim Hassan,Q42954840,NULL->Economic Freedom Party,Q6747984,Mandera East Constituency->Mandera East,Q47494723-B103AE5E-5191-45AF-8C6F-03ADEBA022C0->NULL
 ->,Q47493923,Omar Mwinyi Shimbwa->Omar Mwinyi,Q1640905,NULL->Orange Democratic Movement,Q5071716,Changamwe Constituency->Changamwe,Q47493923-CBE5671F-1A1E-4CC6-A30A-DAB36F76040B->NULL
 ->,Q47490071->NULL,Ombaka Christine Oduor->Christine Ombaka Oduor,Q1640905,NULL->Orange Democratic Movement,Q3482913,Siaya County->Siaya,Q47490071-2D877FE7-5256-4523-8C45-9620BCA88B5E->NULL
@@ -337,6 +338,7 @@
 ->,Q47494444->NULL,Thaddeus Kithua Nzambia->Thuddeus Kithua Nzambia,Q5251223,NULL->Wiper Democratic Movement - Kenya,Q6408123,Kilome Constituency->Kilome,Q47494444-C16B6B58-DD63-4548-A5B3-C70A8DC9D1E8->NULL
 ->,Q23887512->NULL,Timothy Wanyonyi Wetangula,Q1640905,NULL->Orange Democratic Movement,Q3955339,Westlands Constituency->Westlands,Q23887512-61FC7020-C995-4876-82BD-1652E49C4470->NULL
 ->,Q47494692->NULL,Titus Khamala Mukhwana,Q47489380,NULL->Amani National Congress,Q6704894,Lurambi Constituency->Lurambi,Q47494692-BB1CFE74-2AAC-4172-BC37-E374CB30FF04->NULL
+->,Q47494960->NULL,Tom Joseph Francis Kajwang'->KAJWANG' TOM JOSEPH FRANCIS,Q1640905,NULL->Orange Democratic Movement,Q24236499,Ruaraka Constituency->Ruaraka,Q47494960-ECFEF068-A429-4C61-A493-734FD5608243->NULL
 ->,Q47494889->NULL,Tom Mboya Odege,Q1640905,NULL->Orange Democratic Movement,Q7070932,Nyatike Constituency->Nyatike,Q47494889-E93B4A84-020D-4A81-8A66-AD18B284FD71->NULL
 ->,Q47494560->NULL,Tonui Joseph Kipkosgey->Joseph Tonui Kipkosgei,Q27963537,NULL->Jubilee Party,Q47463448,Kuresoi South Constituency->Kuresoi South,Q47494560-2BBA9B15-7BF0-437F-A178-9890F04DBAA1->NULL
 ->,Q7926175->NULL,Victor Munyaka->Victor Kioko Munyaka,Q27963537,NULL->Jubilee Party,Q13123147,Machakos Town Constituency->Machakos Town,Q7926175-51D174E6-B90E-43E6-8273-54492D670A92->NULL
