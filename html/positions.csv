@@ -1,7 +1,8 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q14784066,President of Kenya,Q114,Q114,Q3123537,,,,,,President of Kenya
-Q2736951,Prime Minister of Kenya,Q114,Q114,,,1963-12-12,2013-04-09,,,Prime Minister of Kenya
 Q3123537,Vice-President of Kenya,Q114,Q114,,,,,,,Deputy President of Kenya
+Q2736951,Prime Minister of Kenya,Q114,Q114,,,1963-12-12,2013-04-09,,,Prime Minister of Kenya
+Q111231985,Deputy Prime Minister of Kenya,Q114,Q114,,,,,,,
 Q54196797,Minister of Agriculture of Kenya,Q114,Q114,,,,,,,
 Q6866037,Minister of Agriculture and Land Affairs,Q258,Q258,,,,,,,Minister of Agriculture and Land Affairs
 Q54211708,Minister of Defence of Kenya,Q114,Q114,,,,,,,
@@ -9,7 +10,7 @@ Q109829803,Secretary for Devolution and ASAL Areas,Q114,Q114,,,,,,,
 Q109829613,Secretary for East African Community and Northern Corridor Development,Q114,Q114,,,,,,,
 Q109829631,Cabinet Secretary for Education,Q114,Q114,,,,,,,
 Q109830367,Secretary for Energy and Petroleum,Q114,Q114,,,,,,,
-Q62079958,minister of environment of Kenya,Q114,,,,,,,,
+Q62079958,Minister of Environment of Kenya,Q114,,,,,,,,
 Q11794685,Minister for Finance of Kenya,Q114,Q114,,,,,,,Minister for Finance (Kenya)
 Q3251813,Minister for Foreign Affairs,Q114,Q114,,,,,,,Minister for Foreign Affairs (Kenya)
 Q54208710,Minister of Health of Kenya,Q114,Q114,,,,,,,
@@ -27,12 +28,13 @@ Q109829814,Cabinet Secretary for Transport,Q114,Q114,,,,,,,
 Q109829715,Secretary for Water and Irrigation,Q114,Q114,,,,,,,
 Q109830221,Cabinet Secretary without portfolio,Q114,Q114,,,,,,,
 Q111188654,Minister of Justice,Q114,Q114,,,,,,,
+Q111232001,Minister of National Security and Provincial Administration,Q114,Q114,,,,,,,
 Q111189169,"Minister of Roads, Public Works and Housing",Q114,Q114,,,,,,,
 Q111188655,Minister of Water Resources Management,Q114,Q114,,,,,,,
 Q4818637,Attorney General of Kenya,Q114,Q114,,,,,,,Attorney General of Kenya
 Q5096789,Chief Justice of Kenya,Q114,,,,,,,,Chief Justice of Kenya
 Q109830743,Speaker of the Senate,,,,,,,,,
-Q3245497,Speaker of the National Assembly of Kenya,,,,,,,,,Speaker of the National Assembly of Kenya
+Q3245497,Speaker of the National Assembly of Kenya,,,Q111232074,,,,,,Speaker of the National Assembly of Kenya
 Q21062177,Governor of the Central Bank of Kenya,Q114,,,,,,,,Governor of the Central Bank of Kenya
 Q5097059,Chief of Defence Forces,,,,,,,,,Chief of Defence Forces (Kenya)
 Q6797762,Mayor of Nairobi,,Q3870,,,,,,,Mayor of Nairobi
