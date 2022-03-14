@@ -1,0 +1,49 @@
+@@,county,countylabel,governor,governorlabel,start
+->,Q952571,Kwale County->Kwale,NULL->Q16212428,NULL->Salim Mvurya,NULL->2017-08-08
+->,Q891952,Bomet County->Bomet,Q111232081->NULL,Hillary Barchok->Dr. Hillary Barchok,2019-08-08->2017-08-08
+->,Q808201,Baringo County->Baringo,,NULL->Stanley Kiptis,NULL->2017-08-08
+->,Q749665,Nyeri County->Nyeri,,NULL->Mutahi Kahiga,NULL->2017-08-08
+->,Q7193788,Taita–Taveta County->Taita-Taveta,NULL->Q59660333,NULL->Granton Samboja,NULL->2017-08-08
+->,Q590860,West Pokot County->West Pokot,NULL->Q48123493,NULL->John Krop Lonyangapuo,NULL->2017-08-08
+->,Q473717,Makueni County->Makueni,NULL->Q6418829,NULL->Prof. Kivutha Kibwana,NULL->2017-08-08
+->,Q429955,Migori County->Migori,,NULL->Zacharia Obado,NULL->2017-08-08
+->,Q383150,Tana River County->Tana River,NULL->Q16213140,NULL->Godhana Dhadho Gaddae,NULL->2017-08-08
+->,Q3482913,Siaya County->Siaya,NULL->Q19938253,NULL->Cornel Rasanga,NULL->2017-08-08
+->,Q3335223,Nairobi County->Nairobi,Q111177838->NULL,Benson Mutura->NULL,2020-12-21->2017-08-08
+->,Q2928204,Bungoma County->Bungoma,NULL->Q96627361,NULL->Wycliffe Wafula Wangamati,NULL->2017-08-08
+->,Q285072,Kajiado County->Kajiado,Q16733690,Joseph Ole Lenku,2017-09-28->2017-08-08
+->,Q2575594,Kiambu County->Kiambu,NULL->Q84081333,NULL->Dr .James Nyoro,NULL->2017-08-08
+->,Q2230311,Kirinyaga County->Kirinyaga,Q16886393,Anne Waiguru,2017-08-22->2017-08-08
+->,Q2189432,Tharaka Nithi County->Tharaka,,NULL->Onesmus Muthomi Njuki,NULL->2017-08-08
+->,Q2096419,Samburu County->Samburu,NULL->Q16215853,NULL->Moses Kasaine,NULL->2017-08-08
+->,Q1964569,Nandi County->Nandi,NULL->Q48472394,NULL->Stephen Kipyego Sang,NULL->2017-08-08
+->,Q1951652,Lamu County->Lamu,NULL->Q5429550,NULL->Fahim Yassin Twaha,NULL->2017-08-08
+->,Q1882639,Machakos County->Machakos,NULL->Q16212421,NULL->Alfred Mutua,NULL->2017-08-08
+->,Q1852220,Narok County->Narok,,NULL->Samuel ole Tunai,NULL->2017-08-08
+->,Q1852209,Wajir County->Wajir,,NULL->Ahmed Muktar Ali,NULL->2017-08-08
+->,Q1852202,Nakuru County->Nakuru,NULL->Q6514327,NULL->Lee Kinyanjui,NULL->2017-08-08
+->,Q1800699,Laikipia County->Laikipia,NULL->Q6983763,NULL->Ndiritu Muriithi,NULL->2017-08-08
+->,Q1781723,Muranga County->Murang'a,NULL->Q16730058,NULL->Mwangi wa Iria,NULL->2017-08-08
+->,Q1743809,Kisumu County->Kisumu,NULL->Q7172546,NULL->Prof.Peter Anyang' Nyong'o,NULL->2017-08-08
+->,Q1743730,Kisii County->Kisii,NULL->Q60544883,NULL->James Ongwae,NULL->2017-08-08
+->,Q1741307,Kilifi County->Kilifi,NULL->Q16730244,NULL->Amason Kingi,NULL->2017-08-08
+->,Q1739252,Kericho County->Kericho,NULL->Q59660303,NULL->Prof.Paul Kiprono Chepkwony,NULL->2017-08-08
+->,Q1722597,Kitui County->Kitui,NULL->Q539821,NULL->Charity Ngilu,NULL->2017-08-08
+->,Q1721867,Kakamega County->Kakamega,NULL->Q8039607,NULL->Wycliffe Oparanya,NULL->2017-08-08
+->,Q1714352,Nyandarua County->Nyandarua,NULL->Q5481626,NULL->Francis Kimemia,NULL->2017-08-08
+->,Q1633078,Turkana County->Turkana,NULL->Q16846944,NULL->Josphat Nanok,NULL->2017-08-08
+->,Q1625834,Homa Bay County->Homa Bay,NULL->Q59656082,NULL->Dr. Cyprian Awiti,NULL->2017-08-08
+->,Q1569613,Nyamira county->Nyamira,,NULL->Amos Kimwomi Nyaribo,NULL->2017-08-08
+->,Q15216433,Elgeyo-Marakwet County->Elgeyo-Marakwet,NULL->Q48472534,NULL->Alex Tolgos,NULL->2017-08-08
+->,Q15045704,Meru County->Meru,NULL->Q6414781,NULL->Kiraitu Murungi,NULL->2017-08-08
+->,Q1499046,Isiolo County->Isiolo,NULL->Q6893179,NULL->Mohammed Abdi Kuti,NULL->2017-08-08
+->,Q1494292,Garissa County->Garissa,NULL->Q107529095,NULL->Ali Korane,NULL->2017-08-08
+->,Q1477874,Mandera County->Mandera,NULL->Q30636922,NULL->Ali Roba,NULL->2017-08-08
+->,Q1335242,Embu County->Embu,NULL->Q16150817,NULL->Martin Wambora,NULL->2017-08-08
+->,Q1323683,Marsabit County->Marsabit,Q4725044,Ali Mohamud Mohamed->Mohamud Mohamed Ali,2017-01-01->2017-08-08
+->,Q1313202,Vihiga County->Vihiga,NULL->Q8000077,NULL->Wilber Otichilo,NULL->2017-08-08
+->,Q1278653,Trans-Nzoia county->Trans-Nzoia,NULL->Q105972509,NULL->Patrick Simonyu Khaemba,NULL->2017-08-08
+->,Q1121429,Uasin Gishu County->Uasin Gishu,NULL->Q48009463,NULL->Jackson Kiplagat Mandago,NULL->2017-08-08
+->,Q1112885,Mombasa County->Mombasa,NULL->Q5679565,NULL->Ali Hassan Joho,NULL->2017-08-08
+->,Q1017519,Busia County->Busia,NULL->Q7563913,NULL->Sospeter Ojaamong,NULL->2017-08-08
+---,Q1061480,Nairobi Province,,,
