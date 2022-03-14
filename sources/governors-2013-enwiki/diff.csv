@@ -1,50 +1,48 @@
 @@,county,countylabel,governor,governorlabel,start,end
+->,Q952571,Kwale County->Kwale,Q16212428,Salim Mvurya,2013-03-04->2013-03-27,NULL->2017-08-08
+->,Q891952,Bomet County->Bomet,Q6077048,Isaac Ruto,2013-03-04->2013-03-27,2017-08-22->2017-08-08
+->,Q808201,Baringo County->Baringo,Q17332524,Benjamin Chesire Cheboi->Benjamin Cheboi,2013-03-27,2017-08-08
+->,Q749665,Nyeri County->Nyeri,Q28837057,Wamathai Samuel Githaiga,2013-03-27,2017-08-08
+->,Q7193788,Taita–Taveta County->Taita-Taveta,Q59656229,John Mruttu,2013-03-27,2017-08-08
+->,Q590860,West Pokot County->West Pokot,Q111235132->NULL,Simon Kitalei,2013-03-27,2017-08-08
+->,Q473717,Makueni County->Makueni,Q6418829,Kivutha Kibwana,2013-03-27,NULL->2017-08-08
+->,Q429955,Migori County->Migori,Q111232903->NULL,Zacharia Obado,2013-03-27,NULL->2017-08-08
+->,Q383150,Tana River County->Tana River,Q111235141->NULL,Tuneya Dado,2013-03-27,2017-08-08
+->,Q3482913,Siaya County->Siaya,Q19938253->NULL,Cornel Rasanga Amoth->Cornel Rasanga,2013-03-27,NULL->2017-08-08
 ->,Q3335223,Nairobi County->Nairobi,Q16189345,Evans Kidero,2013-03-27,2017-08-21->2017-08-08
+->,Q2928204,Bungoma County->Bungoma,Q16845849,Ken Lusaka,2013-03-27,2017-08-08
+->,Q285072,Kajiado County->Kajiado,Q28837125,David ole Nkedianye,2013-03-27,2017-08-08
 ->,Q2575594,Kiambu County->Kiambu,Q8013849,William Kabogo Gitau->William Gitau,2013-03-27,2017-01-01->2017-08-08
----,Q1323683,Marsabit County,Q48472383,Ukur Yatani Kanacho,2013-01-01,2017-01-01
----,Q1323683,Marsabit County,Q4725044,Ali Mohamud Mohamed,2017-01-01,
-+++,Q952571,Kwale,Q16212428,Salim Mvurya,2013-03-27,2017-08-08
-+++,Q891952,Bomet,Q6077048,Isaac Ruto,2013-03-27,2017-08-08
-+++,Q808201,Baringo,Q17332524,Benjamin Cheboi,2013-03-27,2017-08-08
-+++,Q749665,Nyeri,Q28837057,Wamathai Samuel Githaiga,2013-03-27,2017-08-08
-+++,Q7193788,Taita-Taveta,Q59656229,John Mruttu,2013-03-27,2017-08-08
-+++,Q590860,West Pokot,"",Simon Kitalei,2013-03-27,2017-08-08
-+++,Q473717,Makueni,Q6418829,Kivutha Kibwana,2013-03-27,2017-08-08
-+++,Q429955,Migori,"",Zacharia Obado,2013-03-27,2017-08-08
-+++,Q383150,Tana River,"",Tuneya Dado,2013-03-27,2017-08-08
-+++,Q3482913,Siaya,"",Cornel Rasanga,2013-03-27,2017-08-08
-+++,Q2928204,Bungoma,Q16845849,Ken Lusaka,2013-03-27,2017-08-08
-+++,Q285072,Kajiado,Q28837125,David ole Nkedianye,2013-03-27,2017-08-08
-+++,Q2230311,Kirinyaga,Q59726037,Joseph Ndathi,2013-03-27,2017-08-08
-+++,Q2189432,Tharaka,"",Samuel Ragwa,2013-03-27,2017-08-08
-+++,Q2096419,Samburu,Q16215853,Moses Kasaine,2013-03-27,2017-08-08
-+++,Q1964569,Nandi,"",Lagat Cleophas,2013-03-27,2017-08-08
-+++,Q1951652,Lamu,Q23883198,Issa Timamy,2013-03-27,2017-08-08
-+++,Q1882639,Machakos,Q16212421,Alfred Mutua,2013-03-27,2017-08-08
-+++,Q1852220,Narok,"",Samuel ole Tunai,2013-03-27,2017-08-08
-+++,Q1852209,Wajir,"",Ahmed Abdullahi Mohamad,2013-03-27,2017-08-08
-+++,Q1852202,Nakuru,Q29446300,Kinuthia Mbugua,2013-03-27,2017-08-08
-+++,Q1800699,Laikipia,Q18001353,Joshua Irungu,2013-03-27,2017-08-08
-+++,Q1781723,Murang'a,Q16730058,Mwangi wa Iria,2013-03-27,2017-08-08
-+++,Q1743809,Kisumu,Q16730099,Jack Ranguma,2013-03-27,2017-08-08
-+++,Q1743730,Kisii,Q60544883,James Ongwae,2013-03-27,2017-08-08
-+++,Q1741307,Kilifi,Q16730244,Amason Kingi,2013-03-27,2017-08-08
-+++,Q1739252,Kericho,"",Paul Kiprono,2013-03-27,2017-08-08
-+++,Q1722597,Kitui,Q32541499,Julius Malombe,2013-03-27,2017-08-08
-+++,Q1721867,Kakamega,Q8039607,Wycliffe Oparanya,2013-03-27,2017-08-08
-+++,Q1714352,Nyandarua,Q16886396,Daniel Waithaka,2013-03-27,2017-08-08
-+++,Q1633078,Turkana,Q16846944,Josphat Nanok,2013-03-27,2017-08-08
-+++,Q1625834,Homa Bay,Q59656082,Cyprian Awiti,2013-03-27,2017-08-08
-+++,Q1569613,Nyamira,"",John Obiero,2013-03-27,2017-08-08
-+++,Q15216433,Elgeyo-Marakwet,Q48472534,Alex Tolgos,2013-03-27,2017-08-08
-+++,Q15045704,Meru,Q7175990,Peter Munya,2013-03-27,2017-08-08
-+++,Q1499046,Isiolo,Q53871510,Godana Doyo,2013-03-27,2017-08-08
-+++,Q1494292,Garissa,Q17305588,Nathif Jama Adam,2013-03-27,2017-08-08
-+++,Q1477874,Mandera,"",Ibrahim Roba Ali,2013-03-27,2017-08-08
-+++,Q1335242,Embu,Q16150817,Martin Wambora,2013-03-27,2017-08-08
-+++,Q1323683,Marsabit,"",Ukur Yattani,2013-03-27,2017-08-08
-+++,Q1313202,Vihiga,Q6915674,Moses Akaranga,2013-03-27,2017-08-08
-+++,Q1278653,Trans-Nzoia,Q105972509,Patrick Khaemba,2013-03-27,2017-08-08
-+++,Q1121429,Uasin Gishu,Q48009463,Jackson Mandago,2013-03-27,2017-08-08
-+++,Q1112885,Mombasa,Q5679565,Hassan Joho,2013-03-27,2017-08-08
-+++,Q1017519,Busia,Q7563913,Sospeter Ojaamong,2013-03-27,2017-08-08
+->,Q2230311,Kirinyaga County->Kirinyaga,Q59726037,Joseph Ndathi,2013-03-27,2017-08-08
+->,Q2189432,Tharaka Nithi County->Tharaka,Q111235148->NULL,Samuel Ragwa,2013-03-27,2017-08-08
+->,Q2096419,Samburu County->Samburu,Q16215853,Moses Lenolkula Kasaine->Moses Kasaine,2013-03-27,NULL->2017-08-08
+->,Q1964569,Nandi County->Nandi,Q18753669->NULL,Cleophas Lagat->Lagat Cleophas,2013-03-27,2017-08-08
+->,Q1951652,Lamu County->Lamu,Q23883198,Issa Timamy,2013-03-27,2017-08-08
+->,Q1882639,Machakos County->Machakos,Q16212421,Alfred Nganga Mutua->Alfred Mutua,2013-03-27,NULL->2017-08-08
+->,Q1852220,Narok County->Narok,Q111232912->NULL,Samuel ole Tunai,2013-03-27,NULL->2017-08-08
+->,Q1852209,Wajir County->Wajir,Q111235158->NULL,Ahmed Abdullahi Mohamad,2013-03-27,2021-01-01->2017-08-08
+->,Q1852202,Nakuru County->Nakuru,Q29446300,Kinuthia Mbugua,2013-03-27,2017-08-08
+->,Q1800699,Laikipia County->Laikipia,Q18001353,Joshua Irungu,2013-03-27,2017-08-08
+->,Q1781723,Muranga County->Murang'a,Q16730058,Mwangi wa Iria,2013-03-27,NULL->2017-08-08
+->,Q1743809,Kisumu County->Kisumu,Q16730099,Jack Ranguma,2013-03-27,2017-08-08
+->,Q1743730,Kisii County->Kisii,Q60544883,James Ongwae,2013-03-27,NULL->2017-08-08
+->,Q1741307,Kilifi County->Kilifi,Q16730244,Amason Kingi,2013-03-27,NULL->2017-08-08
+->,Q1739252,Kericho County->Kericho,Q111235171->NULL,Paul Kiprono,2013-03-27,2017-08-08
+->,Q1722597,Kitui County->Kitui,Q32541499,Julius Malombe,2013-03-27,2017-08-08
+->,Q1721867,Kakamega County->Kakamega,Q8039607,Wycliffe Oparanya,2013-03-27,NULL->2017-08-08
+->,Q1714352,Nyandarua County->Nyandarua,Q16886396,Daniel Waithaka,2013-03-27,2017-08-08
+->,Q1633078,Turkana County->Turkana,Q16846944,Josphat Nanok,2013-03-27,NULL->2017-08-08
+->,Q1625834,Homa Bay County->Homa Bay,Q59656082,Cyprian Awiti,2013-03-27,NULL->2017-08-08
+->,Q1569613,Nyamira county->Nyamira,Q62570988->NULL,John Obiero Nyagarama->John Obiero,2013-03-27,2020-12-18->2017-08-08
+->,Q15216433,Elgeyo-Marakwet County->Elgeyo-Marakwet,Q48472534,Alex Tolgos,2013-03-27,NULL->2017-08-08
+->,Q15045704,Meru County->Meru,Q7175990,Peter Munya,2013-03-27,2017-08-08
+->,Q1499046,Isiolo County->Isiolo,Q53871510,Godana Doyo,2013-03-27,2017-08-08
+->,Q1494292,Garissa County->Garissa,Q17305588,Nathif Jama Adam,2013-03-27,2017-08-08
+->,Q1477874,Mandera County->Mandera,Q111235173->NULL,Ibrahim Roba Ali,2013-03-27,2017-08-08
+->,Q1335242,Embu County->Embu,Q16150817,Martin Nyaga Wambora->Martin Wambora,2013-03-27,NULL->2017-08-08
+->,Q1323683,Marsabit County->Marsabit,Q48472383->NULL,Ukur Yatani Kanacho->Ukur Yattani,2013-03-27,2017-08-08
+->,Q1313202,Vihiga County->Vihiga,Q6915674,Moses Akaranga,2013-03-27,2017-08-08
+->,Q1278653,Trans-Nzoia county->Trans-Nzoia,Q105972509,Patrick Khaemba,2013-03-27,NULL->2017-08-08
+->,Q1121429,Uasin Gishu County->Uasin Gishu,Q48009463,Jackson Mandago,2013-03-27,NULL->2017-08-08
+->,Q1112885,Mombasa County->Mombasa,Q5679565,Hassan Ali Joho->Hassan Joho,2013-03-27,NULL->2017-08-08
+->,Q1017519,Busia County->Busia,Q7563913,Sospeter Ojaamong,2013-03-27,NULL->2017-08-08

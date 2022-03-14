@@ -1,5 +1,48 @@
 county,countyLabel,office,officeLabel,governor,governorLabel,start,end
+Q808201,Baringo County,Q111232482,Governor of Baringo County,Q17332524,Benjamin Chesire Cheboi,2013-03-27,2017-08-08
+Q891952,Bomet County,Q111232071,Governor of Bomet County,Q6077048,Isaac Ruto,2013-03-04,2017-08-22
+Q2928204,Bungoma County,Q111232499,Governor of Bungoma County,Q16845849,Ken Lusaka,2013-03-27,2017-08-08
+Q1017519,Busia County,Q111232501,Governor of Busia County,Q7563913,Sospeter Ojaamong,2013-03-27,
+Q15216433,Elgeyo-Marakwet County,Q111232504,Governor of Elgeyo-Marakwet County,Q48472534,Alex Tolgos,2013-03-27,
+Q1335242,Embu County,Q111232505,Governor of Embu County,Q16150817,Martin Nyaga Wambora,2013-03-27,
+Q1494292,Garissa County,Q111232509,Governor of Garissa County,Q17305588,Nathif Jama Adam,2013-03-27,2017-08-08
+Q1625834,Homa Bay County,Q111232512,Governor of Homa Bay County,Q59656082,Cyprian Awiti,2013-03-27,
+Q1499046,Isiolo County,Q111232513,Governor of Isiolo County,Q53871510,Godana Doyo,2013-03-27,2017-08-08
+Q285072,Kajiado County,Q111232241,Governor of Kajiado County,Q28837125,David ole Nkedianye,2013-03-27,2017-08-08
+Q1721867,Kakamega County,Q111232514,Governor of Kakamega County,Q8039607,Wycliffe Oparanya,2013-03-27,
+Q1739252,Kericho County,Q111232516,Governor of Kericho County,Q111235171,Paul Kiprono,2013-03-27,2017-08-08
 Q2575594,Kiambu County,Q111189826,Governor of Kiambu County,Q8013849,William Kabogo Gitau,2013-03-27,2017-01-01
-Q1323683,Marsabit County,Q111178132,Governor of Marsabit County,Q4725044,Ali Mohamud Mohamed,2017-01-01,
-Q1323683,Marsabit County,Q111178132,Governor of Marsabit County,Q48472383,Ukur Yatani Kanacho,2013-01-01,2017-01-01
+Q1741307,Kilifi County,Q111232517,Governor of Kilifi County,Q16730244,Amason Kingi,2013-03-27,
+Q2230311,Kirinyaga County,Q111232171,Governor of Kirinyaga County,Q59726037,Joseph Ndathi,2013-03-27,2017-08-08
+Q1743730,Kisii County,Q111232518,Governor of Kisii County,Q60544883,James Ongwae,2013-03-27,
+Q1743809,Kisumu County,Q111232519,Governor of Kisumu County,Q16730099,Jack Ranguma,2013-03-27,2017-08-08
+Q1722597,Kitui County,Q111232522,Governor of Kitui County,Q32541499,Julius Malombe,2013-03-27,2017-08-08
+Q952571,Kwale County,Q111232538,Governor of Kwale County,Q16212428,Salim Mvurya,2013-03-04,
+Q1800699,Laikipia County,Q111232557,Governor of Laikipia County,Q18001353,Joshua Irungu,2013-03-27,2017-08-08
+Q1951652,Lamu County,Q111232575,Governor of Lamu County,Q23883198,Issa Timamy,2013-03-27,2017-08-08
+Q1882639,Machakos County,Q111232595,Governor of Machakos County,Q16212421,Alfred Nganga Mutua,2013-03-27,
+Q473717,Makueni County,Q111232618,Governor of Makueni County,Q6418829,Kivutha Kibwana,2013-03-27,
+Q1477874,Mandera County,Q111232638,Governor of Mandera County,Q111235173,Ibrahim Roba Ali,2013-03-27,2017-08-08
+Q1323683,Marsabit County,Q111178132,Governor of Marsabit County,Q48472383,Ukur Yatani Kanacho,2013-03-27,2017-08-08
+Q15045704,Meru County,Q111232659,Governor of Meru County,Q7175990,Peter Munya,2013-03-27,2017-08-08
+Q429955,Migori County,Q111232679,Governor of Migori County,Q111232903,Zacharia Obado,2013-03-27,
+Q1112885,Mombasa County,Q111232698,Governor of Mombasa County,Q5679565,Hassan Ali Joho,2013-03-27,
+Q1781723,Muranga County,Q111232718,Governor of Muranga County,Q16730058,Mwangi wa Iria,2013-03-27,
 Q3335223,Nairobi County,Q111177832,Governor of Nairobi County,Q16189345,Evans Kidero,2013-03-27,2017-08-21
+Q1852202,Nakuru County,Q111232732,Governor of Nakuru County,Q29446300,Kinuthia Mbugua,2013-03-27,2017-08-08
+Q1964569,Nandi County,Q111232735,Governor of Nandi County,Q18753669,Cleophas Lagat,2013-03-27,2017-08-08
+Q1852220,Narok County,Q111232736,Governor of Narok County,Q111232912,Samuel ole Tunai,2013-03-27,
+Q1569613,Nyamira county,Q111232738,Governor of Nyamira county,Q62570988,John Obiero Nyagarama,2013-03-27,2020-12-18
+Q1714352,Nyandarua County,Q111232742,Governor of Nyandarua County,Q16886396,Daniel Waithaka,2013-03-27,2017-08-08
+Q749665,Nyeri County,Q111232746,Governor of Nyeri County,Q28837057,Wamathai Samuel Githaiga,2013-03-27,2017-08-08
+Q2096419,Samburu County,Q111232750,Governor of Samburu County,Q16215853,Moses Lenolkula Kasaine,2013-03-27,
+Q3482913,Siaya County,Q111232756,Governor of Siaya County,Q19938253,Cornel Rasanga Amoth,2013-03-27,
+Q7193788,Taita–Taveta County,Q111232764,Governor of Taita–Taveta County,Q59656229,John Mruttu,2013-03-27,2017-08-08
+Q383150,Tana River County,Q111232766,Governor of Tana River County,Q111235141,Tuneya Dado,2013-03-27,2017-08-08
+Q2189432,Tharaka Nithi County,Q111232769,Governor of Tharaka Nithi County,Q111235148,Samuel Ragwa,2013-03-27,2017-08-08
+Q1278653,Trans-Nzoia county,Q111232772,Governor of Trans-Nzoia county,Q105972509,Patrick Khaemba,2013-03-27,
+Q1633078,Turkana County,Q111232775,Governor of Turkana County,Q16846944,Josphat Nanok,2013-03-27,
+Q1121429,Uasin Gishu County,Q111232781,Governor of Uasin Gishu County,Q48009463,Jackson Mandago,2013-03-27,
+Q1313202,Vihiga County,Q111232787,Governor of Vihiga County,Q6915674,Moses Akaranga,2013-03-27,2017-08-08
+Q1852209,Wajir County,Q111232793,Governor of Wajir County,Q111235158,Ahmed Abdullahi Mohamad,2013-03-27,2021-01-01
+Q590860,West Pokot County,Q111232798,Governor of West Pokot County,Q111235132,Simon Kitalei,2013-03-27,2017-08-08
