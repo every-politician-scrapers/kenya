@@ -1,7 +1,8 @@
 position,title
 Q14784066,President
-Q2736951,Prime Minister
 Q3123537,Vice-President
+Q2736951,Prime Minister
+Q111231985,Deputy Prime Minister
 Q54196797,Secretary for Agriculture
 Q6866037,Secretary for Agriculture and Land Affairs
 Q54211708,Secretary for Defence
@@ -27,6 +28,7 @@ Q109829814,Secretary for Transport
 Q109829715,Secretary for Water and Irrigation
 Q109830221,Secretary without portfolio
 Q111188654,Minister of Justice
+Q111232001,Minister of National Security and Provincial Administration
 Q111189169,"Minister of Roads, Public Works and Housing"
 Q111188655,Minister of Water Resources Management
 Q4818637,Attorney General
