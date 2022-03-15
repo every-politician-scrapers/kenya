@@ -1,0 +1,40 @@
+id,name,relationship,relative,relativename
+Q111177853,Lena Moi,spouse,Q193492,Daniel arap Moi
+Q111232184,Julius Kandie,spouse,Q16734504,Phyllis Kandie
+Q111232458,Nahashon Nyagah,father,Q6180863,Jeremiah J.M. Nyagah
+Q111232458,Nahashon Nyagah,sibling,Q6285854,Joseph Nyagah
+Q111232458,Nahashon Nyagah,sibling,Q7052649,Norman Nyagah
+Q11249433,Gideon Moi,father,Q193492,Daniel arap Moi
+Q16734504,Phyllis Kandie,spouse,Q111232184,Julius Kandie
+Q16866530,Margaret Gakuo Kenyatta,spouse,Q196070,Uhuru Kenyatta
+Q193492,Daniel arap Moi,child,Q11249433,Gideon Moi
+Q193492,Daniel arap Moi,spouse,Q111177853,Lena Moi
+Q195725,William Ruto,spouse,Q21064137,Rachel Ruto
+Q196070,Uhuru Kenyatta,father,Q173563,Jomo Kenyatta
+Q196070,Uhuru Kenyatta,mother,Q1984253,Ngina Kenyatta
+Q196070,Uhuru Kenyatta,sibling,Q5360612,Margaret Kenyatta
+Q196070,Uhuru Kenyatta,spouse,Q16866530,Margaret Gakuo Kenyatta
+Q2013243,Oburu Odinga,father,Q645228,Jaramogi Oginga Odinga
+Q27893074,Moses Otieno Kajwang,sibling,Q47494960,Tom Joseph Francis Kajwang'
+Q27893074,Moses Otieno Kajwang,sibling,Q7108730,Otieno Kajwang
+Q4358037,Moody Awori,sibling,Q393388,Aggrey Awori
+Q46795,Wangari Muta Maathai,child,Q79996197,Wanjira Mathai
+Q46795,Wangari Muta Maathai,spouse,Q108664231,Mwangi Mathai
+Q47494960,Tom Joseph Francis Kajwang',sibling,Q27893074,Moses Otieno Kajwang
+Q57291,Mwai Kibaki,spouse,Q6698396,Lucy Kibaki
+Q57657,Raila Odinga,father,Q645228,Jaramogi Oginga Odinga
+Q57657,Raila Odinga,spouse,Q5360754,Ida Odinga
+Q6285854,Joseph Nyagah,father,Q6180863,Jeremiah J.M. Nyagah
+Q6285854,Joseph Nyagah,sibling,Q111232458,Nahashon Nyagah
+Q6285854,Joseph Nyagah,sibling,Q7052649,Norman Nyagah
+Q65850416,Matthew Adams Karauri,child,Q65847532,Ronald Karauri
+Q66606803,Ken Okoth,sibling,Q85837193,Benard Otieno Okoth
+Q6698396,Lucy Kibaki,spouse,Q57291,Mwai Kibaki
+Q6780919,Mary Wambui,father,Q4540107,Charles Njonjo
+Q7045471,Noah Wekesa,child,Q963542,Paul Wekesa
+Q7052649,Norman Nyagah,father,Q6180863,Jeremiah J.M. Nyagah
+Q7052649,Norman Nyagah,sibling,Q111232458,Nahashon Nyagah
+Q7052649,Norman Nyagah,sibling,Q6285854,Joseph Nyagah
+Q7108730,Otieno Kajwang,sibling,Q27893074,Moses Otieno Kajwang
+Q7172546,Peter Anyang' Nyong'o,child,Q3840847,Lupita Nyong'o
+Q85837193,Benard Otieno Okoth,sibling,Q66606803,Ken Okoth
