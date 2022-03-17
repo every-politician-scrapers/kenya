@@ -5,6 +5,7 @@ Q111232458,Nahashon Nyagah,father,Q6180863,Jeremiah J.M. Nyagah
 Q111232458,Nahashon Nyagah,sibling,Q6285854,Joseph Nyagah
 Q111232458,Nahashon Nyagah,sibling,Q7052649,Norman Nyagah
 Q11249433,Gideon Moi,father,Q193492,Daniel arap Moi
+Q16730244,Amason Kingi,spouse,Q111261629,Liz Kingi
 Q16734504,Phyllis Kandie,spouse,Q111232184,Julius Kandie
 Q16866530,Margaret Gakuo Kenyatta,spouse,Q196070,Uhuru Kenyatta
 Q193492,Daniel arap Moi,child,Q11249433,Gideon Moi
@@ -21,9 +22,15 @@ Q4358037,Moody Awori,sibling,Q393388,Aggrey Awori
 Q46795,Wangari Muta Maathai,child,Q79996197,Wanjira Mathai
 Q46795,Wangari Muta Maathai,spouse,Q108664231,Mwangi Mathai
 Q47494960,Tom Joseph Francis Kajwang',sibling,Q27893074,Moses Otieno Kajwang
+Q48009463,Jackson Mandago,spouse,Q111261578,Lucy Mandago
+Q48472394,Stephen Sang,spouse,Q111261583,Sheila Sang
+Q5407838,Eugene Wamalwa,sibling,Q593552,Michael Kijana Wamalwa
+Q5407838,Eugene Wamalwa,spouse,Q111261587,Lucy Musundi
 Q57291,Mwai Kibaki,spouse,Q6698396,Lucy Kibaki
 Q57657,Raila Odinga,father,Q645228,Jaramogi Oginga Odinga
 Q57657,Raila Odinga,spouse,Q5360754,Ida Odinga
+Q593552,Michael Kijana Wamalwa,sibling,Q5407838,Eugene Wamalwa
+Q6249843,John Munyes,spouse,Q111261589,Maryanne Munyes
 Q6285854,Joseph Nyagah,father,Q6180863,Jeremiah J.M. Nyagah
 Q6285854,Joseph Nyagah,sibling,Q111232458,Nahashon Nyagah
 Q6285854,Joseph Nyagah,sibling,Q7052649,Norman Nyagah
@@ -36,5 +43,9 @@ Q7052649,Norman Nyagah,father,Q6180863,Jeremiah J.M. Nyagah
 Q7052649,Norman Nyagah,sibling,Q111232458,Nahashon Nyagah
 Q7052649,Norman Nyagah,sibling,Q6285854,Joseph Nyagah
 Q7108730,Otieno Kajwang,sibling,Q27893074,Moses Otieno Kajwang
+Q7172546,Peter Anyang' Nyong'o,child,Q111261610,Zawadi Nyongo'o
 Q7172546,Peter Anyang' Nyong'o,child,Q3840847,Lupita Nyong'o
+Q7172546,Peter Anyang' Nyong'o,spouse,Q111261595,Dorothy Ogada Buyu Nyong'o
+Q7175990,Peter Munya,spouse,Q111261585,Phoebe Munya
 Q85837193,Benard Otieno Okoth,sibling,Q66606803,Ken Okoth
+Q96627361,Wycliffe Wangamati,spouse,Q111261574,Carol Wangamati
