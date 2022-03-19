@@ -6,8 +6,5 @@
 +++,Benjamin Kubo,,1983,1987
 +++,Bernard Chunga,Q4892998,1988,1993
 +++,Bernard Chunga,Q4892998,1994,1999
-+++,Pamela Uniter Kidulla,,1999,2003
-+++,Philip Murgor,Q27860231,2003,2005
-+++,Keriako Tobiko,Q6393880,2005,2011
-+++,Keriako Tobiko,Q6393880,2011,2018
-+++,Nurdin` Hajji,Q107465958,2018,
+->,Pamela Uniter Kidulla,Q111242665->NULL,1999,2003
+->,Noordin Haji->Nurdin` Hajji,Q107465958,2018-03-28->2018,
