@@ -1,26 +1,9 @@
 @@,itemlabel,item,startdate,enddate
-+++,Jomo Kenyatta,Q173563,1963,1964
-+++,Joseph Murumbi,Q6285701,1964,1966
-+++,Mbiyu Koinange,Q6799700,1966,1967
-+++,James Nyamweya,Q16013714,1967,1968
 +++,C.M.G. Argwings-Kodhek,,1968,1969
-+++,Mbiyu Koinange,Q6799700,1969,
-+++,Njoroge Mungai,Q21151340,1969,1974
-+++,Munyua Waiyaki,Q6937046,1974,1979
-+++,Robert Ouko,Q982715,1979,1983
-+++,Elijah Mwangale,Q5360973,1983,1987
-+++,Zachary Onyonka,Q8063982,1987,1988
-+++,Robert Ouko,Q982715,1988,1990
-+++,Wilson Ndolo Ayah,Q8023155,1990,1993
-+++,Bonaya Godana,Q11854485,1998,2001
-+++,Chris Obure,Q5112986,2001,
-+++,Marsden Madoka,,2001,2003
-+++,Chirau Ali Mwakwere,Q5101863,2004,2005
-+++,Raphael Tuju,Q2189073,2005,2007
-+++,Moses Wetangula,Q58188,2008,2012
+->,Mbiyu Koinange,Q6799700,1969,1969->NULL
+->,Christopher Obure->Chris Obure,Q5112986,2001,2001->NULL
+->,Marsden Madoka,Q18629013->NULL,2001,2003
 ->,Sam Ongeri,Q4705081,2012,2013-05-20->2013
-+++,Amina Mohamed,Q4746345,2013,2018
----,Amina Mohamed,Q4746345,2013-05-20,2018-02-05
----,Amina Mohamed,Q4746345,2013-05-20,2018-02-05
+->,Amina Mohamed,Q4746345,2013-05-20->2013,2018-02-05->2018
 ->,Monica Juma,Q47531099,2018-02-05->2018,2020-01-14->2020
 ->,Raychelle Omamo,Q12170059,2020-01-14->2020,
