@@ -33,7 +33,7 @@ class OfficeholderList < OfficeholderListBase
       tds[-1].css('a/@wikidata').text
     end
 
-    field :itemLabel do
+    field :name do
       (tds[-1].css('a').any? ? tds[-1].css('a').text : tds[-1].text).gsub(/\(.*?\)/, '').tidy
     end
 
@@ -58,7 +58,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      itemLabel.include? 'Vacant'
+      name.include? 'Vacant'
     end
 
     def tds
