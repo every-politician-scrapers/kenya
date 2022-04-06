@@ -50,14 +50,6 @@ class Officeholder < Scraped::HTML
     tds[2].text.tidy
   end
 
-  field :start do
-    '2013-03-27'
-  end
-
-  field :end do
-    '2017-08-08'
-  end
-
   private
 
   def tds
