@@ -6,8 +6,8 @@ module.exports = function () {
   let fromd = `"${meta.term.start}T00:00:00Z"^^xsd:dateTime`
   let until = meta.term.end ? `"${meta.term.end}T00:00:00Z"^^xsd:dateTime` : "NOW()"
 
-  return `SELECT DISTINCT ?item ?itemLabel ?party ?partyLabel ?constituency ?constituencyLabel
-                 ?startDate ?endDate ?gender (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
+  return `SELECT DISTINCT ?item ?name ?party ?partyLabel ?constituency ?constituencyLabel
+                 ?startDate ?endDate ?sourceDate (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
     WITH {
       SELECT DISTINCT ?item ?position ?startNode ?endNode ?ps
       WHERE {
@@ -63,32 +63,26 @@ module.exports = function () {
       )
 
       OPTIONAL {
-        ?item wdt:P21 ?sog .
-        OPTIONAL { ?sog rdfs:label ?gender FILTER(LANG(?gender)="en") }
-      }
-      OPTIONAL { ?item wdt:P21/rdfs:label ?gender FILTER (LANG(?gender)="en") }
-
-      OPTIONAL {
         ?ps pq:P4100 ?party .
-        OPTIONAL { ?party wdt:P1813 ?partyShortName }
-        OPTIONAL { ?party rdfs:label ?partyName FILTER (LANG(?partyLabel)="en") }
+        OPTIONAL { ?party wdt:P1813  ?partyShort FILTER (LANG(?partyShort)="en") }
+        OPTIONAL { ?party rdfs:label ?partyName  FILTER (LANG(?partyName)="en") }
       }
-      BIND(COALESCE(?partyShortName, ?partyName) AS ?partyLabel)
+      BIND(COALESCE(?partyShort, ?partyName) AS ?partyLabel)
 
       OPTIONAL {
         ?ps pq:P768 ?constituency .
         OPTIONAL { ?constituency rdfs:label ?constituencyLabel FILTER (LANG(?constituencyLabel)="en") }
       }
-      BIND(COALESCE(?partyShortName, ?partyName) AS ?partyLabel)
 
       OPTIONAL {
         ?ps prov:wasDerivedFrom ?ref .
         ?ref pr:P4656 ?source FILTER CONTAINS(STR(?source), '${meta.lang}.wikipedia.org') .
         OPTIONAL { ?ref pr:P1810 ?sourceName }
+        OPTIONAL { ?ref pr:P813  ?sourceDate }
       }
       OPTIONAL { ?item rdfs:label ?labelName FILTER(LANG(?labelName) = "${meta.lang}") }
-      BIND(COALESCE(?sourceName, ?labelName) AS ?itemLabel)
+      BIND(COALESCE(?sourceName, ?labelName) AS ?name)
     }
     # ${new Date().toISOString()}
-    ORDER BY ?start ?end ?item ?psid`
+    ORDER BY ?sourceDate ?start ?end ?item ?psid`
 }

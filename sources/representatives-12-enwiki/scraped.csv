@@ -1,10 +1,10 @@
-item,itemLabel,constituency,constituencyLabel,party,partyLabel
-Q100146475,William Chepkut,Q47463438,Ainabkoi,Q327591,Independent
+item,name,constituency,constituencyLabel,party,partyLabel
+Q47493977,William Chepkut,Q47463438,Ainabkoi,Q327591,Independent
 Q47493981,Sylvanus Maritim,Q4697387,Ainamoi,Q27963537,Jubilee Party
 Q47493985,Cornelly Serem,Q4713420,Aldai,Q27963537,Jubilee Party
 "",Samuel Atandi,Q4714387,Alego Usonga,Q1640905,Orange Democratic Movement
-Q100146454,John Owino,Q47463477,Awendo,Q1640905,Orange Democratic Movement
-Q100146466,Onesmas Ngunjiri,Q55604710,Bahati,Q27963537,Jubilee Party
+Q47493990,John Owino,Q47463477,Awendo,Q1640905,Orange Democratic Movement
+Q47493992,Onesmas Ngunjiri,Q55604710,Bahati,Q27963537,Jubilee Party
 "",Abdi Omar Shurie,Q55604755,Balambala,Q27963537,Jubilee Party
 "",Kulow Maalim Hassan,Q47463413,Banissa,Q42954840,Economic Freedom Party
 "",Joshua Chepyegon Kandie,Q4860772,Baringo Central,Q47489396,Maendeleo Chap Chap Party
@@ -12,7 +12,7 @@ Q8014046,William Kipkorir,Q4860776,Baringo North,Q27963537,Jubilee Party
 Q18217506,Grace Jelagat Kipchoim,Q47463444,Baringo South,Q27963537,Jubilee Party
 "",Charles Kamuren,Q47463444,Baringo South,Q27963537,Jubilee Party
 "",Nelson Koech,Q4882701,Belgut,Q27963537,Jubilee Party
-Q99364459,Innocent Obiri,Q4934581,Bobasi,Q22666200,Peoples Democratic Party
+Q47494008,Innocent Obiri,Q4934581,Bobasi,Q22666200,Peoples Democratic Party
 "",Zadoc Abel Ogutu,Q47463484,Bomachoge Borabu,Q327591,Independent
 "",Miruka Ondieki Alfah,Q55605716,Bomachoge Chache,Q6392670,Kenya National Congress
 "",Ronald Kiprotich Tonui,Q47463457,Bomet Central,Q27963537,Jubilee Party
@@ -39,7 +39,7 @@ Q47493923,Omar Mwinyi,Q5071716,Changamwe,Q1640905,Orange Democratic Movement
 Q16731419,Moses Lessonet,Q5353892,Eldama Ravine,Q27963537,Jubilee Party
 Q4680594,Adan Keynan Wehliye,Q47463412,Eldas,Q27963537,Jubilee Party
 "",Benjamin Gathiru Mwangi,Q47463496,Embakasi Central,Q27963537,Jubilee Party
-Q83801307,Babu Owino,Q47463497,Embakasi East,Q1640905,Orange Democratic Movement
+Q47494255,Babu Owino,Q47463497,Embakasi East,Q1640905,Orange Democratic Movement
 "",James Mwangi Gakuya,Q47463494,Embakasi North,Q27963537,Jubilee Party
 "",Julius Musili Mawathe,Q47463492,Embakasi South,Q5251223,Wiper Democratic Movement - Kenya
 "",George Theuri,Q47463499,Embakasi West,Q27963537,Jubilee Party
@@ -74,7 +74,7 @@ Q4682154,Aden Duale,Q17085899,Garissa Township,Q27963537,Jubilee Party
 "",James Githua Kamau Wamacukuru,Q17088410,Kabete,Q27963537,Jubilee Party
 "",Eve Akinyi Obara,Q55615556,Kabondo Kasipul,Q1640905,Orange Democratic Movement
 "",James Lusweti Mukwe,Q47463464,Kabuchai,Q5473121,Forum for Restoration of Democracy - Kenya
-Q104857250,Mark Lomunokol,Q6344643,Kacheliba,Q7141057,PARTY FOR DEVELOPMENT AND REFORM
+Q47494339,Mark Lomunokol,Q6344643,Kacheliba,Q7141057,PARTY FOR DEVELOPMENT AND REFORM
 "",Joshua Kivinda Kimilu,Q6348628,Kaiti,Q5251223,Wiper Democratic Movement - Kenya
 "",Elijah Memusi Kanchory,Q6348981,Kajiado Central,Q1640905,Orange Democratic Movement
 "",Peris Pesi Tobiko,Q47463454,Kajiado East,Q27963537,Jubilee Party
@@ -208,7 +208,7 @@ Q47493930,Samuel Arama,Q47463451,Nakuru Town West,Q27963537,Jubilee Party
 "",Richard Moitalel KENTA,Q6966106,Narok North,Q1640905,Orange Democratic Movement
 "",Dr. Korei LEMEIN,Q6966109,Narok South,Q27963537,Jubilee Party
 "",Gabriel Koshal Tongoyo,Q47463453,Narok West,Q60776120,Chama Cha Mashinani
-Q104856808,Emmanuel Wangwe,Q47463460,Navakholo,Q27963537,Jubilee Party
+Q47494859,Emmanuel Wangwe,Q47463460,Navakholo,Q27963537,Jubilee Party
 "",Jeremiah Ng’ayu Kioni,Q6983699,Ndaragwa,Q27963537,Jubilee Party
 "",Martin Peters Owino,Q6983737,Ndhiwa,Q1640905,Orange Democratic Movement
 "",George Macharia Kariuki Gk,Q6983741,Ndia,Q27963537,Jubilee Party
@@ -292,11 +292,11 @@ Q16732461,Julius Kibiwott Melly,Q7808048,Tinderet,Q27963537,Jubilee Party
 "",Timothy Wanyonyi Wetangula,Q3955339,Westlands,Q1640905,Orange Democratic Movement
 "",Danson Mwashako Mwakuwona,Q8039242,Wundanyi,Q5251223,Wiper Democratic Movement - Kenya
 Q5079790,Charles Kilonzo,Q8050290,Yatta,Q327591,Independent
-Q100146462,Lilian Tomitom,Q590860,West Pokot,Q27963537,Jubilee Party
+Q47490080,Lilian Tomitom,Q590860,West Pokot,Q27963537,Jubilee Party
 "",Fatuma Gedi Ali,Q1852209,Wajir,Q7141057,Party of Development and Reforms
 Q47490079,Beatrice Adagala,Q1313202,Vihiga,Q47489380,Amani National Congress
 Q47490078,Gladys Boss Shollei,Q1121429,Uasin Gishu,Q27963537,Jubilee Party
-Q100146457,Joyce Emanikor,Q1633078,Turkana,Q27963537,Jubilee Party
+Q47490076,Joyce Emanikor,Q1633078,Turkana,Q27963537,Jubilee Party
 "",Janet Nangabo Wanyama,Q1278653,Trans Nzoia,Q27963537,Jubilee Party
 "",Beatrice Nkatha Nyaga,Q2189432,Tharaka–Nithi,Q27963537,Jubilee Party
 "",Rehema Hassan,Q383150,Tana River,Q47489396,Maendeleo Chap Chap Party
@@ -307,8 +307,8 @@ Q100146457,Joyce Emanikor,Q1633078,Turkana,Q27963537,Jubilee Party
 "",Faith Wairimu Gitau,Q1714352,Nyandarua,Q27963537,Jubilee Party
 "",Jerusha Mongina Momanyi,Q1569613,Nyamira,Q27963537,Jubilee Party
 "",Roselinda Soipan Tuya,Q1852220,Narok,Q27963537,Jubilee Party
-Q100146473,Tecla Tum,Q1964569,Nandi,Q27963537,Jubilee Party
-Q100146446,Chelule Liza,Q1852202,Nakuru,Q27963537,Jubilee Party
+Q47490062,Tecla Tum,Q1964569,Nandi,Q27963537,Jubilee Party
+Q47490061,Chelule Liza,Q1852202,Nakuru,Q27963537,Jubilee Party
 "",Esther Muthoni Rosanna Passaris,Q3335223,Nairobi City,Q1640905,Orange Democratic Movement
 Q16214164,Maitu Sabina Wanjiru Chege,Q1781723,Muranga,Q27963537,Jubilee Party
 "",Asha Hussein Mohamed,Q1112885,Mombasa,Q1640905,Orange Democratic Movement
@@ -326,7 +326,7 @@ Q16214164,Maitu Sabina Wanjiru Chege,Q1781723,Muranga,Q27963537,Jubilee Party
 "",Janet Ongera,Q1743730,Kisii,Q1640905,Orange Democratic Movement
 "",Purity Wangui Ngirici,Q2230311,Kirinyaga,Q27963537,Jubilee Party
 "",Gertrude Mbeyu Mwanyanje,Q1741307,Kilifi,Q1640905,Orange Democratic Movement
-Q96741824,Gathoni Wa Muchomba,Q2575594,Kiambu,Q27963537,Jubilee Party
+Q47490045,Gathoni Wa Muchomba,Q2575594,Kiambu,Q27963537,Jubilee Party
 "",Florence C.K. Bore,Q1739252,Kericho,Q27963537,Jubilee Party
 "",Elsie Busihile Muhanda,Q1721867,Kakamega,Q1640905,Orange Democratic Movement
 "",Janet Marania Teyiaa,Q285072,Kajiado,Q27963537,Jubilee Party
