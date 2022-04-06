@@ -1,48 +1,16 @@
-@@,county,countylabel,deputy,deputylabel,start
-->,Q952571,Kwale County->Kwale,Q111234280->NULL,Fatuma Mohamed Achani,2017-08-08
-->,Q891952,Bomet County->Bomet,Q111234302->NULL,David Shadrack Rotich,2017-08-08
-->,Q808201,Baringo County->Baringo,Q111234303->NULL,Jacob Kurui Chepkwony,2017-08-08
-->,Q749665,Nyeri County->Nyeri,Q111234305->NULL,Caroline Karugu,2017-08-08
-->,Q7193788,Taita–Taveta County->Taita-Taveta,Q111234306->NULL,Majala Mlagui Delina,2017-08-08
-->,Q590860,West Pokot County->West Pokot,Q111234307->NULL,Nicholas Atudonyang->Dr. Nicholas Atudonyang,2017-08-08
-->,Q473717,Makueni County->Makueni,Q111234308->NULL,Adelina Ndeto Mwau,2017-08-08
-->,Q429955,Migori County->Migori,Q111234309->NULL,Nelson Mahanga Mwita,2017-08-08
-->,Q383150,Tana River County->Tana River,Q111234310->NULL,Jire Siyat Mohamed,2017-08-08
-->,Q3482913,Siaya County->Siaya,Q111234311->NULL,Wilson Ouma Onyango,2017-08-08
-->,Q3335223,Nairobi County->Nairobi,,,NULL->2017-08-08
-->,Q2928204,Bungoma County->Bungoma,Q111234312->NULL,Charles Ngome Kibanani->Prof. Charles Ngome Kibanani,2017-08-08
-->,Q285072,Kajiado County->Kajiado,Q111234313->NULL,Martin Moshisho,2017-08-08
-->,Q2575594,Kiambu County->Kiambu,Q111234314->NULL,Joyce Ngugi,2017-08-08
-->,Q2230311,Kirinyaga County->Kirinyaga,Q111232175->NULL,Peter Ndambiri,2017-01-01->2017-08-08
-->,Q2189432,Tharaka Nithi County->Tharaka,Q111234315->NULL,Francis Nyamu Kagwima,2017-08-08
-->,Q2096419,Samburu County->Samburu,Q111234316->NULL,Julius Leseeto,2017-08-08
-->,Q1964569,Nandi County->Nandi,Q111234317->NULL,Yulita Jebotip Cheruiyot Mitei->Dr Yulita Jebotip Cheruiyot Mitei,2017-08-08
-->,Q1951652,Lamu County->Lamu,Q111234318->NULL,Abdulhakim Aboud Bwana,2017-08-08
-->,Q1882639,Machakos County->Machakos,Q111234319->NULL,Francis Maliti->Eng. Francis Maliti,2017-08-08
-->,Q1852220,Narok County->Narok,Q111234320->NULL,Aruasa Evalyn Chepkirui,2017-08-08
-->,Q1852209,Wajir County->Wajir,,,NULL->2017-08-08
-->,Q1852202,Nakuru County->Nakuru,Q111234323->NULL,Erick Korir,2017-08-08
-->,Q1800699,Laikipia County->Laikipia,Q111234324->NULL,John Mwaniki,2017-08-08
-->,Q1781723,Muranga County->Murang'a,Q111234326->NULL,Augustine J Gakure Monyo,2017-08-08
-->,Q1743809,Kisumu County->Kisumu,Q111234328->NULL,Mathews Owili,2017-08-08
-->,Q1743730,Kisii County->Kisii,Q111234329->NULL,Arthur Maangi Gongera,2017-08-08
-->,Q1741307,Kilifi County->Kilifi,Q111234330->NULL,Kenneth Mwakombo Kamto,2017-08-08
-->,Q1739252,Kericho County->Kericho,Q111234332->NULL,Susan Chepkoech Kikwai,2017-08-08
-->,Q1722597,Kitui County->Kitui,Q111234334->NULL,Wathe Nzau->Dr. Wathe Nzau,2017-08-08
-->,Q1721867,Kakamega County->Kakamega,Q111234335->NULL,Philip Museve Kutima,2017-08-08
-->,Q1714352,Nyandarua County->Nyandarua,Q111234336->NULL,Cecilia Wanjiru Mbuthia,2017-08-08
-->,Q1633078,Turkana County->Turkana,Q111234338->NULL,Peter Lotethiro Emuria,2017-08-08
-->,Q1625834,Homa Bay County->Homa Bay,Q111234339->NULL,Hamiliton Onyango Orata,2017-08-08
-->,Q1569613,Nyamira county->Nyamira,,,NULL->2017-08-08
-->,Q15216433,Elgeyo-Marakwet County->Elgeyo-Marakwet,Q111234340->NULL,Gabriel Lagat Kosgey,2017-08-08
-->,Q15045704,Meru County->Meru,Q111234341->NULL,Titus Ntuchiu,2017-08-08
-->,Q1499046,Isiolo County->Isiolo,Q111234343->NULL,Ibrahim Abdi Issa->Dr. Ibrahim Abdi Issa,2017-08-08
-->,Q1494292,Garissa County->Garissa,Q111234344->NULL,Dagame Abdi,2017-08-08
-->,Q1477874,Mandera County->Mandera,Q111234345->NULL,Mohamed Ahmed Arai,2017-08-08
-->,Q1335242,Embu County->Embu,Q111234347->NULL,David Kariuki Njeru,2017-08-08
-->,Q1323683,Marsabit County->Marsabit,Q111234348->NULL,Solomon Gubo Riwe,2017-08-08
-->,Q1313202,Vihiga County->Vihiga,Q111234349->NULL,Patrick Lumumba Saisi->Dr. Patrick Lumumba Saisi,2017-08-08
-->,Q1278653,Trans-Nzoia county->Trans-Nzoia,Q111234350->NULL,Stanley Kiptoo Kenei Tarus,2017-08-08
-->,Q1121429,Uasin Gishu County->Uasin Gishu,Q111234351->NULL,Daniel Kiplagat Kiprotich,2017-08-08
-->,Q1112885,Mombasa County->Mombasa,Q111234354->NULL,William Kingi->Dr. William Kingi,2017-08-08
-->,Q1017519,Busia County->Busia,Q111234355->NULL,Solomon Abwaku Akadake,2017-08-08
+@@,county,countylabel,deputy,deputylabel,start,psid
+->,Q7193788,Taita–Taveta->Taita-Taveta,Q111234306,Majala Mlagui Delina,2017-08-08,
+->,Q590860,West Pokot,Q111234307,Nicholas Atudonyang->Dr. Nicholas Atudonyang,2017-08-08,
+->,Q3335223,Nairobi,"","",NULL->2017-08-08,
+->,Q2928204,Bungoma,Q111234312,Charles Ngome Kibanani->Prof. Charles Ngome Kibanani,2017-08-08,
+->,Q2230311,Kirinyaga,Q111232175,Peter Ndambiri,2017-01-01->2017-08-08,
+->,Q2189432,Tharaka Nithi->Tharaka,Q111234315,Francis Nyamu Kagwima,2017-08-08,
+->,Q1964569,Nandi,Q111234317,Yulita Jebotip Cheruiyot Mitei->Dr Yulita Jebotip Cheruiyot Mitei,2017-08-08,
+->,Q1882639,Machakos,Q111234319,Francis Maliti->Eng. Francis Maliti,2017-08-08,
+->,Q1852209,Wajir,"","",NULL->2017-08-08,
+->,Q1781723,Muranga->Murang'a,Q111234326,Augustine J Gakure Monyo,2017-08-08,
+->,Q1722597,Kitui,Q111234334,Wathe Nzau->Dr. Wathe Nzau,2017-08-08,
+->,Q1569613,Nyamira,"","",NULL->2017-08-08,
+->,Q1499046,Isiolo,Q111234343,Ibrahim Abdi Issa->Dr. Ibrahim Abdi Issa,2017-08-08,
+->,Q1313202,Vihiga,Q111234349,Patrick Lumumba Saisi->Dr. Patrick Lumumba Saisi,2017-08-08,
+->,Q1112885,Mombasa,Q111234354,William Kingi->Dr. William Kingi,2017-08-08,
