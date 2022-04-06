@@ -1,4 +1,4 @@
-item,itemLabel,constituency,constituencyLabel,party,partyLabel
+item,name,constituency,constituencyLabel,party,partyLabel
 Q4897658,Beth Mugo,Q5208646,Dagoretti,Q2559675,PNU
 Q2662202,Mugabe Were,Q5369415,Embakasi,Q1640905,ODM
 Q5363291,Elizabeth Ongoro,Q6374034,Kasarani,Q1640905,ODM
@@ -11,7 +11,7 @@ Q7175166,Peter Kenneth,Q5526949,Gatanga,Q2559675,PNU
 Q5131357,Clement Kungu Waibara,Q5527547,Gatundu North,,PICK
 Q196070,Uhuru Kenyatta,Q5527549,Gatundu South,Q1422517,KANU
 Q3295164,Martha Karua,Q5559477,Gichugu,Q2559675,PNU
-Q7176115,Peter Njoroge Baiya,Q5565112,Githunguri,,SAFINA
+Q7176115,Peter Njoroge Baiya,Q5565112,Githunguri,Q7398791,SAFINA
 Q5545223,George Thuo,Q6305268,Juja,Q2559675,PNU
 Q6138825,James Maina Kamau,Q6361325,Kandara,Q2559675,PNU
 Q6248686,John Michuki,Q6362689,Kangema,Q2559675,PNU
@@ -27,8 +27,8 @@ Q6250396,John Ngata Kariuki,Q6415320,Kirinyaga Central,,FORD A
 "",Peter Mungai Mwathi,Q10978796,Limuru,,FORD P
 Q5360552,Peter Mbau Elias,Q6754641,Maragwa,Q2559675,PNU
 Q5131380,Clement Muchiri Wambugu,Q6787280,Mathioya,Q2559675,PNU
-Q5382308,Ephraim Mwangi Maina,Q6787283,Mathira,,SAFINA
-Q6343844,Kabando wa Kabando,Q6933680,Mukurweini,,SAFINA
+Q5382308,Ephraim Mwangi Maina,Q6787283,Mathira,Q7398791,SAFINA
+Q6343844,Kabando wa Kabando,Q6933680,Mukurweini,Q7398791,SAFINA
 Q7176118,Peter Njuguna Gitau,Q6944711,Mwea,Q2559675,PNU
 Q6180925,Jeremiah Ngayu Kioni,Q6983699,Ndaragwa,Q2559675,PNU
 Q7353047,Robinson Njeru Githae,Q6983741,Ndia,Q2559675,PNU
@@ -53,7 +53,7 @@ Q5081173,Charles Mutisya Nyamai,Q6418638,Kitui West,Q3130920,NARC
 Q16499778,Joseph Lekuton,Q6474135,Laisamis,Q1422517,KANU
 Q7926175,Victor Munyaka,Q13123147,Machakos Town,Q5251223,ODM K
 Q7175181,Peter Kiilu,Q6740441,Makueni,Q5251223,ODM K
-Q5371996,Emillio Kathuli,Q6753394,Manyatta,,DP
+Q5371996,Emillio Kathuli,Q6753394,Manyatta,Q3272441,DP
 Q16226678,Benson Mbai Itwiku,Q6783288,Masinga,Q5251223,ODM K
 Q15993157,Mutula Kilonzo,Q6799757,Mbooni,Q5251223,ODM K
 Q4725044,Ali Mohamud Mohamed,Q6927587,Moyale,Q1640905,ODM
@@ -66,7 +66,7 @@ Q5480460,Francis Chachu,Q7055666,North Horr,Q1640905,ODM
 Q7514201,Silas Muriuki,Q7055691,North Imenti,,Mazingira
 Q5056517,Cecily Mutitu Mbarire,Q7380154,Runyenjes,Q2559675,PNU
 Q7425832,Sasura Hussein Tarry,Q7403129,Saku,Q5251223,ODM K
-Q6418830,Kivuti Maxwell,Q14475849,Siakago,,SAFINA
+Q6418830,Kivuti Maxwell,Q14475849,Siakago,Q7398791,SAFINA
 Q6414781,Kiraitu Murungi,Q7567524,South Imenti,Q2559675,PNU
 Q4717538,Alex Muthengi Mwiru,Q7710732,Tharaka,Q2559675,PNU
 Q7175990,Peter Munya,Q7801321,Tigania East,Q2559675,PNU
@@ -83,7 +83,7 @@ Q5541326,George Haniri,Q5645412,Hamisi,Q1640905,ODM
 Q4942502,Bonny Khalwale,Q5996095,Ikolomani,,NEW FORD KENYA
 Q4723008,Alfred Khang'ati,Q6361679,Kanduyi,Q1640905,ODM
 Q5415878,Evans Akula,Q6403457,Khwisero,Q1640905,ODM
-Q5233422,David Eseli Simiyu,Q6410137,Kimilili,,FORD K
+Q5233422,David Eseli Simiyu,Q6410137,Kimilili,Q5473121,FORD K
 Q5201109,Cyrus Jirongo,Q6699735,Lugari,,KADDU
 Q4812751,Atanas Keya,Q6704894,Lurambi,Q1640905,ODM
 Q7555005,Soita Shitanda,Q6741420,Malava,,NEW FORD KENYA
@@ -108,9 +108,9 @@ Q6285990,Joseph Oyugi Magwanga,Q6374553,Kasipul Kabondo,Q1640905,ODM
 Q7172546,Peter Anyang' Nyong'o,Q13123146,Kisumu Rural,Q1640905,ODM
 Q4696013,Ahmed Shakeel Shabbir Ahmed,Q6417349,Kisumu Town East,Q1640905,ODM
 Q6251185,John Olago Aluoch,Q6417350,Kisumu Town West,Q1640905,ODM
-Q7327862,Richard Momoima,Q6418658,Kitutu Chache,,PDP
+Q7327862,Richard Momoima,Q6418658,Kitutu Chache,Q22666200,PDP
 "",Walter Enock Nyambati Osebe,Q6418659,Kitutu Masaba,,NLP
-Q8001838,Wilfred Gisuka Machage,Q6445965,Kuria,,DP
+Q8001838,Wilfred Gisuka Machage,Q6445965,Kuria,Q3272441,DP
 Q7108730,Gerald Otieno Kajwang,Q6799698,Mbita,Q1640905,ODM
 Q6252609,John Pesa Dache,Q6844281,Migori,Q1640905,ODM
 Q7146063,Patrick Ayiecho Olweny,Q13651057,Muhoroni,Q1640905,ODM
@@ -201,7 +201,7 @@ Q4682154,Aden Bare Duale,Q17085899,Dujis,Q1640905,ODM
 Q4682177,Aden Ahamed Sugow,Q5429344,Fafi,Q1422517,KANU
 Q1030776,Mohamed Yussuf Haji,Q5995093,Ijara,Q1422517,KANU
 Q5434731,Farah Maalim,Q11034978,Lagdera,Q1640905,ODM
-Q4664971,Abdikadir Hussein Mohamed,Q6747983,Mandera Central,,SAFINA
+Q4664971,Abdikadir Hussein Mohamed,Q6747983,Mandera Central,Q7398791,SAFINA
 Q6891252,Mohamed Hussein Ali,Q6747984,Mandera East,Q1640905,ODM
 Q6891343,Maalim Mahmud Mohamed,Q6747986,Mandera West,Q1640905,ODM
 Q6891260,Mohamed Ibrahim Elmi,Q7960716,Wajir East,Q1640905,ODM

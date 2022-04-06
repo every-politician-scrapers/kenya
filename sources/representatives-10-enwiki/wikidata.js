@@ -7,7 +7,7 @@ module.exports = function () {
   let until = meta.term.end ? `"${meta.term.end}T00:00:00Z"^^xsd:dateTime` : "NOW()"
 
   return `SELECT DISTINCT ?item ?name ?party ?partyLabel ?constituency ?constituencyLabel
-                 ?startDate ?endDate ?gender (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
+                 ?startDate ?endDate ?sourceDate (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
     WITH {
       SELECT DISTINCT ?item ?position ?startNode ?endNode ?ps
       WHERE {
@@ -62,8 +62,6 @@ module.exports = function () {
         ) AS ?endDate
       )
 
-      OPTIONAL { ?item wdt:P21/rdfs:label ?gender FILTER (LANG(?gender)="en") }
-
       OPTIONAL {
         ?ps pq:P4100 ?party .
         OPTIONAL { ?party wdt:P1813  ?partyShort FILTER (LANG(?partyShort)="en") }
@@ -80,10 +78,11 @@ module.exports = function () {
         ?ps prov:wasDerivedFrom ?ref .
         ?ref pr:P4656 ?source FILTER CONTAINS(STR(?source), '${meta.lang}.wikipedia.org') .
         OPTIONAL { ?ref pr:P1810 ?sourceName }
+        OPTIONAL { ?ref pr:P813  ?sourceDate }
       }
       OPTIONAL { ?item rdfs:label ?labelName FILTER(LANG(?labelName) = "${meta.lang}") }
       BIND(COALESCE(?sourceName, ?labelName) AS ?name)
     }
     # ${new Date().toISOString()}
-    ORDER BY ?start ?end ?item ?psid`
+    ORDER BY ?sourceDate ?start ?end ?item ?psid`
 }
