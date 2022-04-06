@@ -50,10 +50,6 @@ class Officeholder < Scraped::HTML
     tds[2].text.gsub('TBD', '').tidy
   end
 
-  field :start do
-    '2017-08-08'
-  end
-
   private
 
   def tds
