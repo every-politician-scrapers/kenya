@@ -1,7 +1,7 @@
-item,itemLabel,party,partyLabel,constituency,constituencyLabel
+item,name,party,partyLabel,constituency,constituencyLabel
 Q47514900,Mohamed Faki Mwinyihaji,Q30589468,NASA,Q1112885,Mombasa
 "",Boy Issa Juma,Q30589468,NASA,Q952571,Kwale
-Q96375428,Stewart Madzayo,Q30589468,NASA,Q1741307,Kilifi
+Q47514905,Stewart Madzayo,Q30589468,NASA,Q1741307,Kilifi
 Q47514830,Golich Juma Wario,Q27963537,Jubilee,Q383150,Tana-River
 Q47516266,Anuar Loitiptip,Q27963537,Jubilee,Q1951652,Lamu
 "",Johnes Mwashushe Mwaruma,Q30589468,NASA,Q7193788,Taita-Taveta
@@ -9,12 +9,12 @@ Q47516266,Anuar Loitiptip,Q27963537,Jubilee,Q1951652,Lamu
 "",Abdullahi Ibrahim Ali,Q27963537,Jubilee,Q1852209,Wajir
 "",Mohamed Maalim Mahamud,Q27963537,Jubilee,Q1477874,Mandera
 "",Godana Hargura,Q27963537,Jubilee,Q1323683,Marsabit
-Q95964226,Adan Dullo Fatuma,Q27963537,Jubilee,Q1499046,Isiolo
+Q47514853,Adan Dullo Fatuma,Q27963537,Jubilee,Q1499046,Isiolo
 "",Mithika Linturi,Q27963537,Jubilee,Q15045704,Meru
-Q96002114,Kithure A. Kindiki,Q27963537,Jubilee,Q2189432,Tharaka Nithi
+Q47514805,Kithure A. Kindiki,Q27963537,Jubilee,Q2189432,Tharaka Nithi
 "",Peter Ndwiga,Q27963537,Jubilee,Q1335242,Embu
 "",Enock Wambua,Q30589468,NASA,Q1722597,Kitui
-Q104144649,Boniface Mutinda Kabaka,Q30589468,NASA,Q1882639,Machakos
+Q47514903,Boniface Mutinda Kabaka,Q30589468,NASA,Q1882639,Machakos
 "","Mutula Kilonzo, Jr.",Q30589468,NASA,Q473717,Makueni
 "",Paul Githiomi Mwangi,Q27963537,Jubilee,Q1714352,Nyandarua
 Q5382308,Ephraim Maina,Q27963537,Jubilee,Q749665,Nyeri
@@ -27,15 +27,15 @@ Q16734594,Samuel Poghisio,Q27963537,Jubilee,Q590860,West-Pokot
 "",Michael Maling’a Mbito,Q27963537,Jubilee,Q1278653,Trans-Nzoia
 Q6759579,Margaret Kamar,Q27963537,Jubilee,Q1121429,Uasin-Gishu
 Q46556896,Kipchumba Murkomen,Q27963537,Jubilee,Q15216433,Elgeyo-Marakwet
-Q96378418,Samson Cherarkey,Q27963537,Jubilee,Q1964569,Nandi
+Q47514820,Samson Cherarkey,Q27963537,Jubilee,Q1964569,Nandi
 Q11249433,Gideon Moi,Q27963537,Jubilee,Q808201,Baringo
-Q96378499,John Nderitu,Q27963537,Jubilee,Q1800699,Laikipia
-Q55106268,Susan Kihika,Q27963537,Jubilee,Q1852202,Nakuru
+Q47514797,John Nderitu,Q27963537,Jubilee,Q1800699,Laikipia
+Q47514871,Susan Kihika,Q27963537,Jubilee,Q1852202,Nakuru
 Q7086213,Olekina Ledama,Q30589468,NASA,Q1852220,Narok
 "",Phillip Salau Mpaayei,Q27963537,Jubilee,Q285072,Kajiado
-Q96380745,Aaron Cheruiyot,Q27963537,Jubilee,Q1739252,Kericho
-Q96378535,Christopher Langat,Q27963537,Jubilee,Q891952,Bomet
-Q96376731,Cleophas Malala,Q30589468,NASA,Q1721867,Kakamega
+Q47514855,Aaron Cheruiyot,Q27963537,Jubilee,Q1739252,Kericho
+Q47514911,Christopher Langat,Q27963537,Jubilee,Q891952,Bomet
+Q47514910,Cleophas Malala,Q30589468,NASA,Q1721867,Kakamega
 Q5541326,George Khaniri,Q30589468,NASA,Q1313202,Vihiga
 Q58188,Moses Wetangula,Q30589468,NASA,Q2928204,Bungoma
 Q4747966,Amos Wako,Q30589468,NASA,Q1017519,Busia
