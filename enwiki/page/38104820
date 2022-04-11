@@ -307,25 +307,14 @@
       ],
       "templates": [
         {
+          "template": "official website"
+        },
+        {
           "template": "kenya government commissions"
         },
         {
           "template": "authority control"
         }
-      ],
-      "lists": [
-        [
-          {
-            "text": "'Official Site'",
-            "links": [
-              {
-                "text": "",
-                "type": "external",
-                "site": "http://www.kenao.go.ke"
-              }
-            ]
-          }
-        ]
       ]
     }
   ]
