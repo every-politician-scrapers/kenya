@@ -1,8 +1,6 @@
-@@,itemlabel,item,startdate,enddate
-->,Bruce Mackenzie->Bruce McKenzie,Q4977935,1959,1961
-->,Bruce Mackenzie->Bruce McKenzie,Q4977935,1963,1970
-->,William Ruto,Q195725,2008-04-17->2008,2010-04-21->2010
-->,Felix Koskei,Q16195636,2013-05-15->2013,2015-12
----,Willy Bett,Q28134571,2015-12,2018-01-26
----,Mwangi Kiunjuri,Q6944671,2018,2020-01-14
----,Peter Munya,Q7175990,2020-01-14,
+@@,item,itemlabel,startdate,enddate
+->,Q195725,William Ruto,2008-04-17->2008,2010-04-21->2010
+->,Q16195636,Felix Koskei,2013-05-15->2013,2015-12
+---,Q28134571,Willy Bett,2015-12,2018-01-26
+---,Q6944671,Mwangi Kiunjuri,2018,2020-01-14
+---,Q7175990,Peter Munya,2020-01-14,
