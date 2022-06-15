@@ -1,5 +1,2 @@
 @@,item,itemlabel,startdate,enddate
-->,Q111177826,John Ndirangu Kariuki->John Ndirangu,1999,2001
-->,Q3706976,Dick Wathika->Dickson Wathika,2004,2008
----,Q47494704,George Aladwa Omwera,2010,2012
-+++,,George Aladwa,2011,2013
+->,Q47494704,George Aladwa,2010->2011,2012->2013
