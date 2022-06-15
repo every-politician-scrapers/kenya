@@ -1,9 +1,5 @@
-@@,itemlabel,item,startdate,enddate
-+++,Steve Flavian Mwangi,,1993,1994
-+++,Dick Waweru,,1994,1996
-+++,John King'ori,,1996,1998
-+++,Sammy Mbugua,,1998,1999
-->,John Ndirangu Kariuki->John Ndirangu,Q111177826,1999,2001
-->,Dick Wathika->Dickson Wathika,Q3706976,2004,2008
----,George Aladwa Omwera,Q47494704,2010,2012
-+++,George Aladwa,,2011,2013
+@@,item,itemlabel,startdate,enddate
+->,Q111177826,John Ndirangu Kariuki->John Ndirangu,1999,2001
+->,Q3706976,Dick Wathika->Dickson Wathika,2004,2008
+---,Q47494704,George Aladwa Omwera,2010,2012
++++,,George Aladwa,2011,2013
