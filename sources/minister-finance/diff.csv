@@ -1,6 +1,6 @@
-@@,itemlabel,item,startdate,enddate
-->,George Saitoti,Q733817,1990->1986,2002->1992
-->,David Mwiraria->Daudi Mwiraria,Q5237864,2003-01,2006-02
-->,Uhuru Kenyatta,Q196070,2009-01-23->2009,2012-01-26->2011
-->,Henry Rotich,Q12012313,2013-05-15,2020-01-14->2019-07-22
-+++,Ukur Yatani Kanacho,Q48472383,2020-01-14,
+@@,item,itemlabel,startdate,enddate
+---,Q733817,George Saitoti,1990,2002
+->,Q5237864,David Mwiraria->Daudi Mwiraria,2003-01,2006-02
+->,Q196070,Uhuru Kenyatta,2009-01-23->2009,2012-01-26->2011
+->,Q12012313,Henry Rotich,2013-05-15,2020-01-14->2019-07-22
++++,Q48472383,Ukur Yatani Kanacho,2020-01-14,
