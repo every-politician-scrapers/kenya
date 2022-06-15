@@ -1,11 +1,6 @@
-@@,itemlabel,item,startdate,enddate
-+++,Bernard Mate,Q4893416,1961,1963
-+++,Njoroge Mungai,Q21151340,1963,
-+++,Samuel Ole Tipis,,1963,
-+++,Joseph David Otiende,,1965,
-+++,Mwai Kibaki,Q57291,1988,1991
-->,Charity Ngilu->Charity Kaluki Ngilu,Q539821,2003-01-03->2003,2007-10-06->2007
-->,Peter Anyang' Nyong'o->Peter Anyang Nyong'o,Q7172546,2008,2012
-->,Beth Wambui Mugo->Beth Mugo,Q4897658,2008,2012
-->,Sicily Kariuki,Q47513060,2018-01->2018,2020-01->2020
-->,Mutahi Kagwe,Q16192784,2020-02-28->2020,
+@@,item,itemlabel,startdate,enddate
+->,Q539821,Charity Ngilu->Charity Kaluki Ngilu,2003-01-03->2003,2007-10-06->2007
+->,Q7172546,Peter Anyang' Nyong'o->Peter Anyang Nyong'o,2008,2012
+->,Q4897658,Beth Wambui Mugo->Beth Mugo,2008,2012
+->,Q47513060,Sicily Kariuki,2018-01->2018,2020-01->2020
+->,Q16192784,Mutahi Kagwe,2020-02-28->2020,

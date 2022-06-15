@@ -6,38 +6,21 @@ require 'pry'
 
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
-  decorator UnspanAllTables
   decorator WikidataIdsDecorator::Links
 
-  # TODO: make this easier to override
   def holder_entries
     noko.xpath('.//h2[contains(.,"See also")]/following::*').remove
     noko.xpath('.//h2[contains(.,"list of ministers")]/following::ul//li[a]')
   end
 
-  class Officeholder < OfficeholderBase
-    def raw_combo_date
-      noko.text.scan(/\((.*?)\)/).flatten.last.gsub('?', '')
-    end
-
-    def combo_date?
-      true
-    end
-
-    def item
-      name_cell.attr('wikidata')
-    end
-
-    def name
-      nake_cell.text.tidy
-    end
-
-    def name_cell
+  class Officeholder < OfficeholderNonTableBase
+    def name_node
       noko.css('a').first
     end
 
-    def empty?
-      false
+    def raw_combo_date
+      years = noko.text.scan(/\((.*?)\)/).flatten.last.gsub('-?', '')
+      years =~ /^\d{4}$/ ? "#{years} - #{years}" : years
     end
   end
 end
