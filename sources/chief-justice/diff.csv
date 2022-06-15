@@ -1,12 +1,5 @@
-@@,itemlabel,item,startdate,enddate
-->,John Ainley->Sir John Ainley,Q21176542,1964,1968
-->,Kitili Maluki Mwendwa->Kitili Mwendwa,Q6418221,1968,1971
-->,James Wicks->Sir James Wicks,Q47506255,1971,1982
-->,Alfred Henry Simpson->Sir Alfred Simpson,Q47506786,1982,1985
-->,Cecil Henry Ethelwood Miller->Cecil Miller,Q5056117,1986,1989
-->,Fred Kwasi Apaloo->Fred Apaloo,Q374395,1993,1994
-->,Zacchaeus Chesoni->Zachaeus Chesoni,Q8063763,1997,1999
-->,Johnson Evans Gicheru->Johnson Gicheru,Q6268293,2003,2011
-->,Willy Munyoki Mutunga->Willy Mutunga,Q586134,2011-06-20->2011,2016-06-16->2016
-->,David Maraga,Q27825245,2016-10-19->2016,2021-01-12->2021
-->,Martha Koome,Q106641905,2021-05-21->2021,
+@@,item,itemlabel,startdate,enddate
+->,Q6268293,Johnson Evans Gicheru->Johnson Gicheru,2003,2011
+->,Q586134,Willy Munyoki Mutunga->Willy Mutunga,2011-06-20->2011,2016-06-16->2016
+->,Q27825245,David Maraga,2016-10-19->2016,2021-01-12->2021
+->,Q106641905,Martha Koome,2021-05-21->2021,
