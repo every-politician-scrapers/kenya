@@ -3,7 +3,7 @@
 
 require 'every_politician_scraper/comparison'
 
-class Comparison < EveryPoliticianScraper::NulllessComparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   def wikidata_csv_options
     { converters: [->(v) { v.to_s.gsub(/ Constituency/, '') }] }
   end
