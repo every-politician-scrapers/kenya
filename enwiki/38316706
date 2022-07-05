@@ -4,7 +4,12 @@
   "term_start": "2015",
   "term_end": "Present",
   "president": "Uhuru Kenyatta",
+  "birth_date": "January 01, 1968",
   "birth_place": "Limuru",
   "nationality": "Kenyan",
-  "alma_mater": "City University London. (Bsc.Economics & Computer Science) Lenana School"
+  "alma_mater": "City University London. (Bsc.Economics & Computer Science) Lenana School",
+  "website": "https://ict.go.ke",
+  "citizenship": "Kenyan",
+  "education": "Stanford University Graduate School of Business",
+  "awards": "Elder of the Order of the Golden Heart (EGH), The Moran of the Order of the Burning Spear (M.B.S)"
 }
