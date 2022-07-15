@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Kenya",
+      "id": "Q114"
+    },
+    "cabinet": {
+      "id": "Q17110765",
+      "start": "2013-04-09",
+      "parent": "Q5015528"
+    },
+    "source": {
+        "url":   "https://cabinetoffice.go.ke/current-cabinet/",
+        "title": "Current Cabinet &#8211; The Presidency and Cabinet Affairs Office",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/kenya-ministers"
+}
