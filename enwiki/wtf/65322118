@@ -1,0 +1,111 @@
+{
+  "title": "Simon Chelugui",
+  "pageID": 65322118,
+  "categories": [
+    "Kenyan politicians",
+    "Year of birth missing (living people)",
+    "Living people",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Simon Kiprono Chelugui is a Kenyan politician who is currently Cabinet Secretary for Labour.",
+              "links": [
+                {
+                  "text": "Kenyan",
+                  "type": "internal",
+                  "page": "Kenya"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Simon Kiprono Chelugui"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was previously Cabinet Secretary for Water, Sanitation & Irrigation during the Presidency of Uhuru Kenyatta.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Presidency of Uhuru Kenyatta"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://cabinetoffice.go.ke/current-cabinet/",
+          "title": "Current Cabinet",
+          "publisher": "Cabinet Office",
+          "access-date": "2020-09-15",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Politics of Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politics of Kenya"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "Biography",
+            "Kenya",
+            "Politics"
+          ],
+          "template": "portal bar"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "kenya-politician-stub"
+        }
+      ]
+    }
+  ]
+}

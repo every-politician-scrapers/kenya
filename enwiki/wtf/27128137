@@ -1,0 +1,225 @@
+{
+  "title": "Wilber Otichilo",
+  "pageID": 27128137,
+  "categories": [
+    "1952 births",
+    "Living people",
+    "Members of the National Assembly (Kenya)",
+    "Wageningen University and Research alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wilber Khasilwa Ottichilo (born September 23, 1952) is a Kenyan politician, and the current Governor of Vihiga County having trounced Hon Rev. Moses E. Akaranga of Progressive Party of Kenya ( PPK) in the 9/8/2017 General elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kenyan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vihiga County"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Wilber Khasilwa Ottichilo"
+                ]
+              }
+            },
+            {
+              "text": "He was elected Member of Parliament for Emuhaya Constituency in 2008, under Orange Democratic Party (ODM)."
+            },
+            {
+              "text": "He hails from Emanyinya village, Emusire, in Central Bunyore.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bunyore"
+                }
+              ]
+            },
+            {
+              "text": "On March 28, 2019, Governor Wilber Ottichilo laid a foundation for the governor’s official home which is worth Sh80 million in Endeli Village."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan politician",
+          "template": "short description"
+        },
+        {
+          "year": "1952",
+          "month": "09",
+          "day": "23",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Wilber Khasilwa Ottichilo"
+          },
+          "image": {
+            "text": "Portrait Image of Dr. Wilber Khasilwa Ottichilo - 2nd and Current Governor of Vihiga County.jpg"
+          },
+          "caption": {
+            "text": "Wilber Khasilwa Ottichilo in 2017"
+          },
+          "office": {
+            "text": "2nd Governor of Vihiga County",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vihiga"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Patrick Saisi Lumumba"
+          },
+          "term_start": {
+            "text": "21 August 2017"
+          },
+          "predecessor": {
+            "text": "Moses Akaranga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moses Akaranga"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 23, 1952"
+          },
+          "nationality": {
+            "text": "Kenyan",
+            "links": [
+              {
+                "text": "Kenyan",
+                "type": "internal",
+                "page": "Kenya"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.nation.co.ke/counties/vihiga/Vihiga-build-Sh80m-governor-house/3444884-5047804-29th6x/index.html",
+          "title": "Vihiga to build Sh80m governor’s house",
+          "website": "Daily Nation",
+          "language": "en",
+          "access-date": "2019-12-07",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wilber Ottichilo was born September 23, 1952 in Emanyinya village, Emusire sublocation, central Bunyore, Kenya.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bunyore"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kenya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ottichilo attended Makerere University from 1974 to 1977, the University of Nairobi from 1981 to 1983, as well as Colorado State University from 1984-1986.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Nairobi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Colorado State University"
+                }
+              ]
+            },
+            {
+              "text": "He obtained his doctorate in Natural Resource Management and Space Science from the University of Wageningen and International Institute for Earth Observation and Geoinformation, The Netherlands.",
+              "links": [
+                {
+                  "text": "doctorate",
+                  "type": "internal",
+                  "page": "doctorate"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Wageningen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to becoming the MP for Emuhaya, Ottichilo was the Director General for Regional Centre for Mapping of Resources for Development (RCMRD), an agency of United Nations Economic Commission for Africa (UNECA).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations Economic Commission for Africa"
+                }
+              ]
+            },
+            {
+              "text": "He was elected to parliament through a by election after the Emuhaya seat in parliament became vacant, following the election of Kenneth Marende as speaker of the National Assembly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kenneth Marende"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Footnotes",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "kenya-politician-stub"
+        }
+      ]
+    }
+  ]
+}

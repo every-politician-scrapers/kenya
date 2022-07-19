@@ -1,0 +1,244 @@
+{
+  "title": "Stephen Sang",
+  "pageID": 56515872,
+  "categories": [
+    "Members of the Senate of Kenya",
+    "County Governors of Kenya",
+    "Kenyan lawyers",
+    "University of Nairobi alumni",
+    "1985 births",
+    "Living people",
+    "Jubilee Party politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Stephen Sang is a Kenyan lawyer and politician who currently serves as the second Governor of Nandi County in Kenya.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of Nandi County"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kenya"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Stephen Sang"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as Senator for Nandi County from 2013 to 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nandi County"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1985",
+          "month": "01",
+          "day": "01",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Stephen Kipyego Sang"
+          },
+          "office": {
+            "text": "Governor of Nandi County"
+          },
+          "order": {
+            "text": "2nd"
+          },
+          "deputy": {
+            "text": "Yulita Cheruiyot",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yulita Cheruiyot"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Cleophas Lagat",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cleophas Lagat"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2017",
+            "number": 2017
+          },
+          "office2": {
+            "text": "Member of the Senate of Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Senate of Kenya"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "Nandi County",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nandi County"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Inaugural officeholder"
+          },
+          "successor2": {
+            "text": "Samson Cherargei",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Samson Cherargei"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2013",
+            "number": 2013
+          },
+          "term_end2": {
+            "text": "2017",
+            "number": 2017
+          },
+          "party": {
+            "text": "Jubilee Party of Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jubilee Party of Kenya"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Sheila Sang"
+          },
+          "birth_date": {
+            "text": "January 1, 1985"
+          },
+          "birth_place": {
+            "text": "Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kenya"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Stephen Kipyego Sang was born on 1 January 1985."
+            },
+            {
+              "text": "He attended Kapsabet High School in Nandi County, and the University of Nairobi, where he graduated with Bachelor of Laws in the year 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kapsabet High School"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Nairobi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Laws"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Stephen Sang - Kenyans247",
+          "url": "https://www.kenyans247.com/",
+          "last": "Kenyans247",
+          "website": "www.kenyans247.com",
+          "language": "en",
+          "access-date": "2020-05-28",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Electoral history",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On August 8, 2017 Sang was elected as the youngest Governor in Kenya at 32, since the adoption of the devolved system in 2010."
+            },
+            {
+              "text": "In 2013 he had also made history when he was elected the youngest Senator at 28 in Kenya's inaugural Senate."
+            },
+            {
+              "text": "Sang has recently been at the forefront in condemning drug trafficking in the country terming some politicians beneficiaries of the trade."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

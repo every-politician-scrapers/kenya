@@ -1,0 +1,662 @@
+{
+  "title": "Ukur Yatani Kanacho",
+  "pageID": 56514589,
+  "categories": [
+    "Kenyan politicians",
+    "People from Marsabit County",
+    "1967 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ukur Yatani Kanacho is a Kenyan politician and ambassador, and was appointed as Treasury Secretary on 14 January 2020.",
+              "formatting": {
+                "bold": [
+                  "Ukur Yatani Kanacho"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Yatani served as the First Governor of Marsabit County from 2013 to 2017, was the Permanent Representative to the United Nations in Vienna from 2009 to 2012, and served as the Member of Parliament for North Horr Constituency in 2006.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Marsabit County"
+                }
+              ]
+            },
+            {
+              "text": "In 2019 he served as the Cabinent Secretary for Labour and Social Protection."
+            },
+            {
+              "text": "In 2020 he was named Cabinent Secretary or the National Treasury."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan politician and ambassador",
+          "template": "short description"
+        },
+        {
+          "date": "September 2019",
+          "template": "engvarb"
+        },
+        {
+          "date": "April 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1967",
+          "month": "03",
+          "day": "12",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Ambassador"
+          },
+          "name": {
+            "text": "Ukur Yatani Kanacho"
+          },
+          "image": {
+            "text": "Ukur Yatani.jpg"
+          },
+          "office": {
+            "text": "Finance Cabinet Secretary"
+          },
+          "term_start": {
+            "text": "2020",
+            "number": 2020
+          },
+          "predecessor": {
+            "text": "Hon Henry Rotich"
+          },
+          "office2": {
+            "text": "Labour and Social Protection Cabinent Secretary"
+          },
+          "term_start2": {
+            "text": "2019",
+            "number": 2019
+          },
+          "term_end2": {
+            "text": "2020",
+            "number": 2020
+          },
+          "predecessor2": {
+            "text": "Phyllis Kandie"
+          },
+          "office3": {
+            "text": "Governor of Marsabit County"
+          },
+          "term_start3": {
+            "text": "2013",
+            "number": 2013
+          },
+          "term_end3": {
+            "text": "2017",
+            "number": 2017
+          },
+          "predecessor3": {
+            "text": "Inaugural officeholder"
+          },
+          "office4": {
+            "text": "Permanent Representative to the United Nations, Vienna"
+          },
+          "term_start4": {
+            "text": "2009",
+            "number": 2009
+          },
+          "term_end4": {
+            "text": "2012",
+            "number": 2012
+          },
+          "office5": {
+            "text": "Member of the Kenyan Parliament, North Horr Constituency"
+          },
+          "term_start5": {
+            "text": "2006",
+            "number": 2006
+          },
+          "term_end5": {
+            "text": "2007",
+            "number": 2007
+          },
+          "constituency5": {
+            "text": "North"
+          },
+          "birthname": {
+            "text": "Ukur Yatani Kanacho"
+          },
+          "birth_date": {
+            "text": "March 12, 1967"
+          },
+          "birth_place": {
+            "text": "Marsabit",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marsabit"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Kenyan",
+            "links": [
+              {
+                "text": "Kenyan",
+                "type": "internal",
+                "page": "Kenya"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Dr. Gumato Yatani"
+          },
+          "alma_mater": {
+            "text": "Egerton University University of York",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Egerton University"
+              },
+              {
+                "type": "internal",
+                "page": "University of York"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Public Servant"
+          },
+          "website": {
+            "text": "www.ukurkanacho.com"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.unis.unvienna.org/unis/en/pressrels/2009/unisbio893.html",
+          "title": "New Permanent Representative of the Republic of Kenya Presents Credentials",
+          "last": "angelika.engl",
+          "website": "www.unis.unvienna.org",
+          "language": "en",
+          "access-date": "6 February 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nation.co.ke/news/politics/High-stakes-in-contest-for-governor-seat-/1064-1458624-i8ysshz/index.html",
+          "title": "High stakes in contest for governor seat",
+          "work": "Daily Nation",
+          "access-date": "6 February 2018",
+          "language": "en-UK",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.capitalfm.co.ke/news/2020/01/yatani-confirmed-national-treasury-cs-as-president-kenyatta-realigns-cabinet/",
+          "title": "Yatani confirmed National Treasury CS as President Kenyatta realigns cabinet » Capital News",
+          "date": "14 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Kenya's New Treasury Chief Pledges to Tighten Purse Strings",
+          "date": "15 January 2020",
+          "first": "David",
+          "last": "Herbling",
+          "publisher": "Bloomberg News",
+          "url": "https://www.bloomberg.com/news/articles/2020-01-15/kenya-s-new-treasury-chief-pledges-to-tighten-purse-strings",
+          "archive-url": "https://archive.today/20200116215745/https://www.bloomberg.com/news/articles/2020-01-15/kenya-s-new-treasury-chief-pledges-to-tighten-purse-strings",
+          "archive-date": "16 January 2020",
+          "access-date": "16 January 2020",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yatani was born in 1967 in Forole of North Horr sub-county to Yatani Kanacho, a prominent Gabra elder."
+            },
+            {
+              "text": "In 1975, he started school in Maikona, and was then transferred to North Horr Primary school in 1978."
+            },
+            {
+              "text": "Yatani sat for his Certificate of Primary Education (CPE) IN 1981 and emerged the top student in the then Marsabit District."
+            },
+            {
+              "text": "He was given a scholarship by Jomo Kenyatta Foundation and he joined Garbatulla High school where he equally performed well and later joined Kabarnet High school for his A-levels between 1986 and 1987."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Yatani received his Bachelor of Arts in Economics and Sociology from Egerton University in 1991."
+            },
+            {
+              "text": "In 2005, he joined the University of York in the UK and studied a Master of Public Administration and Public Policy."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://ukurkanacho.com/",
+          "title": "Ukur Kanacho {{!}} Governor, Marsabit County",
+          "website": "ukurkanacho.com",
+          "language": "en-US",
+          "access-date": "6 February 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yatani became a District Officer for the Government of Kenya."
+            },
+            {
+              "text": "Yatani quickly rose through the ranks from District Officer Cadet to a Senior District Officer and then promoted to a District Commissioner in July 2002."
+            },
+            {
+              "text": "In this position he successfully coordinated state business, managed government resources, maintained law and order, directed disaster relief operations, and implemented long term strategic plans that improved government services and the lives of local residents."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Yatani was then called home by his constituents and elected as the Member of Parliament for North Horr constituency in 2006."
+            },
+            {
+              "text": "During this time the Marsabit North District was created and M.P. Yatani spearheaded the formation of several administrative units across the constituency, leading to more independence and general improvement of service delivery."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Yatani was then appointed as the Assistant Minister, Ministry of Science and Technology."
+            },
+            {
+              "text": "In this position he offered policy direction to the ministry, represented the government in local and international talks and negotiations, and assisted the Minister in performing of all ministerial and government functions."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2009, Yatani began a multi-year mission to advance the interests of Kenya on the international stage."
+            },
+            {
+              "text": "He was named Ambassador to Austria in the Ministry of Foreign Affairs, and Kenya's Permanent Representative to the United Nations, Vienna."
+            },
+            {
+              "text": "As the Ambassador to Austria, with accreditation to Hungary and Slovakia, he provided support and consular services to Kenyans living abroad and promoted trade and economic cooperation with a variety of European nations and thereby contributed to the realization of Kenya's Vision 2030."
+            },
+            {
+              "text": "Amb."
+            },
+            {
+              "text": "Yatani also served as the Board of Governors of the International Atomic Energy Agency for the International Atomic Energy Agency (IAEA), which works to promote the peaceful use of nuclear energy around the world.",
+              "links": [
+                {
+                  "text": "Board of Governors of the International Atomic Energy Agency",
+                  "type": "internal",
+                  "page": "Board of Governors"
+                },
+                {
+                  "type": "internal",
+                  "page": "International Atomic Energy Agency"
+                }
+              ]
+            },
+            {
+              "text": "Among the many accomplishments of the IAEA during Yatani's tenure, was the strategic use of strength and diplomacy to deescalate and safeguard Iran's nuclear capacity."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In addition to this, Yatani held senior leadership positions at various diplomatic and international agencies at the United Nations and also chaired the African Group of Ambassadors."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2013 Marsabit local elections Yatani was elected to pioneer the devolved County Government becoming the leader of the largest county in the nation.",
+              "links": [
+                {
+                  "text": "2013 Marsabit local elections",
+                  "type": "internal",
+                  "page": "2013 Marsabit local elections"
+                }
+              ]
+            },
+            {
+              "text": "As the Marsabit County Governor he was tasked with building the newly formed county from scratch, and as the chief executive he brought peace, development and economic prosperity to the region.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Marsabit County"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During his time as Governor, Yatani provided strategic leadership, guidance and oversight in setting up devolved governance structures, competent financial and human resource infrastructure and shaped the development agenda of Marsabit County."
+            },
+            {
+              "text": "Throughout his term he promoted harmonious coexistence and cohesion among the fifteen indigenous ethnic communities and made Marsabit County one of the most peaceful in the country."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Yatani set out on an ambitious development journey and steered the roll-out of the County Integrated Development Plan (hailed as the best in the country by the UN) which included a variety of major initiatives, including the construction of new county offices, a four-storey modern market, a modern stadium, over a dozen health centers, and new tourist resort facility and 200 ECD classrooms."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The Yatani Government upgraded 5,000 kilometers of gravel roads, tarmacked Marsabit town roads, and drilling & operationalizing over fifty boreholes."
+            },
+            {
+              "text": "During his tenure he established two referral hospitals, and purchased two dozen ambulances."
+            },
+            {
+              "text": "He oversaw the installation of solar-based street lighting and drainage systems and stimulated an economic revival through investments in agriculture and livestock."
+            },
+            {
+              "text": "Throughout his term he heavily supported cultural festivals and the Lake Turkana Cultural Festival was nominated for India's prestigious Tagore Award.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tagore Award"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Yatani created strategic partnerships with the national government and major investors to bring two new roads to the county, as well as the largest wind power plant in Africa."
+            },
+            {
+              "text": "In addition, he spearheaded a UNDP funded unique cross border program bringing jobs and billions of shillings of investment to the region."
+            },
+            {
+              "text": "He also gained major external funding from the African Development Bank to create a livestock quarantine zone, modern abattoir and to develop international export markets for Marsabit's livestock products."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 16 February 2018, Yatani was sworn in by the President of the Republic of Kenya, Uhuru Kenyatta for Cabinet Secretary of the Ministry of Labour and Social Protection."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 24 July 2019 President Uhuru Kenyatta appointed Yatani as the Cabinet Secretary for Treasury on Acting capacity following the sacking of Henry Rotich."
+            },
+            {
+              "text": "He was confirmed as the Cabinet Secretary on 24 January 2020."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Marsabit-County-Headquarters.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Marsabit-County-Headquarters.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Marsabit-County-Headquarters.jpg",
+          "caption": "The Marsabit County Headquarters built by Gov. Ukur Yatani Kanacho",
+          "links": []
+        },
+        {
+          "file": "File:Ukur-Yatani-Kanacho-at-Lake-Turkana-Festival.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Ukur-Yatani-Kanacho-at-Lake-Turkana-Festival.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Ukur-Yatani-Kanacho-at-Lake-Turkana-Festival.jpg",
+          "caption": "Ukur Yatani Kanacho dancing at the Lake Turkana Cultural Festival",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "https://softkenya.com/kenya/ukur-yattani/",
+          "title": "Ukur Yattani Biography and Contacts - Softkenya.com",
+          "date": "14 December 2015",
+          "work": "Softkenya.com",
+          "access-date": "6 February 2018",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.kenya-today.com/news/didnt-know-cs-ukur-yatani-appointed-uhuru-head-labour-docket",
+          "title": "What Didn't Know About CS Ukur Yatani Appointed By Uhuru To Head Labour Docket",
+          "date": "26 January 2018",
+          "work": "Kenya Today",
+          "access-date": "6 February 2018",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.iaea.org/newscenter/focus/iran",
+          "title": "Verification and Monitoring in Iran",
+          "date": "14 May 2014",
+          "website": "www.iaea.org",
+          "language": "en",
+          "access-date": "6 February 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.pulselive.co.ke/bio/marsabit-county-ukur-yattani-kanacho-profile-id6872064.html",
+          "title": "Marsabit County: Ukur Yattani Kanacho profile",
+          "last": "Kenya",
+          "first": "P Live",
+          "access-date": "6 February 2018",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Marsabit County Government",
+          "title": "Introduction",
+          "date": "2 August 2017",
+          "url": "https://www.youtube.com/watch?v=Ph-4PR6WX_M&list=PLaz7RpHdyt2zvT_OcYQkn_d-cLIk-319-",
+          "accessdate": "6 February 2018",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "last": "Marsabit County Government",
+          "title": "Building a Peaceful Foundation",
+          "date": "1 August 2017",
+          "url": "https://www.youtube.com/watch?v=iJpzMR2rtSs&list=PLaz7RpHdyt2zvT_OcYQkn_d-cLIk-319-",
+          "accessdate": "6 February 2018",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "last": "Marsabit County Government",
+          "title": "Education Is The Future",
+          "date": "3 August 2017",
+          "url": "https://www.youtube.com/watch?v=40Au4bgH5S4&list=PLaz7RpHdyt2zvT_OcYQkn_d-cLIk-319-",
+          "accessdate": "6 February 2018",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "last": "Marsabit County Government",
+          "title": "Improving Health Care For All",
+          "date": "3 August 2017",
+          "url": "https://www.youtube.com/watch?v=x-6hHvyd8mU&list=PLaz7RpHdyt2zvT_OcYQkn_d-cLIk-319-",
+          "accessdate": "6 February 2018",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "title": "Welcoming Tourism",
+          "url": "https://www.youtube.com/watch?v=OZK0WcGv0Xw&list=PLaz7RpHdyt2zvT_OcYQkn_d-cLIk-319-",
+          "language": "en",
+          "accessdate": "6 February 2018",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "url": "https://www.the-star.co.ke/news/2017/03/01/marsabit-one-stop-border-point-to-start-operations-this-month_c1514002",
+          "title": "Marsabit one-stop border point to start operations this month",
+          "work": "The Star, Kenya",
+          "access-date": "6 February 2018",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.nation.co.ke/video/1951480-2990464-i87mr8z/index.html",
+          "title": "Marsabit governor supports education by offering scholarship",
+          "work": "Daily Nation",
+          "access-date": "6 February 2018",
+          "language": "en-UK",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Other activities",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "African Development Bank (AfDB), Ex-Officio Member of the Board of Governors (since 2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "African Development Bank"
+              }
+            ]
+          },
+          {
+            "text": "East African Development Bank (EADB), Ex-Officio Member of the Governing Council (since 2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "East African Development Bank"
+              }
+            ]
+          },
+          {
+            "text": "International Monetary Fund (IMF), Ex-Officio Member of the Board of Governors (since 2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "International Monetary Fund"
+              }
+            ]
+          },
+          {
+            "text": "P4G – Partnering for Green Growth and the Global Goals 2030, Member of the Board of Directors (since 2019)"
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

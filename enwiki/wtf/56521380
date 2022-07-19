@@ -1,0 +1,174 @@
+{
+  "title": "Jackson Mandago",
+  "pageID": 56521380,
+  "categories": [
+    "1974 births",
+    "Living people",
+    "County Governors of Kenya",
+    "Jubilee Party politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jackson Kiplagat Arap Mandago is a Kenyan politician who currently serves as the first Governor of Uasin Gishu County in Kenya.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Uasin Gishu County"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kenya"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jackson Kiplagat Arap Mandago"
+                ]
+              }
+            },
+            {
+              "text": "He was first elected Governor in 2013 and re-elected in 2017 for his second and final term."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan politician",
+          "template": "short description"
+        },
+        {
+          "year": "1974",
+          "month": "05",
+          "day": "05",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jackson Mandago"
+          },
+          "office": {
+            "text": "Governor of Uasin Gishu County",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Uasin Gishu County"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Daniel Chemno"
+          },
+          "predecessor": {
+            "text": "Inaugural Holder"
+          },
+          "term_start": {
+            "text": "2013",
+            "number": 2013
+          },
+          "party": {
+            "text": "Jubilee Party of Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jubilee Party of Kenya"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Lucy Mandago"
+          },
+          "birth_date": {
+            "text": "May 5, 1974"
+          },
+          "birth_place": {
+            "text": "Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kenya"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.uasingishu.go.ke/office-of-the-governor-2/",
+          "title": "Office of the Governor – Uasin Gishu County",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.standardmedia.co.ke/article/2001251450/uasin-gishu-governor-jackson-mandago-says-nasa-helped-him-get-re-elected",
+          "title": "Uasin Gishu Governor Jackson Mandago says NASA helped him get re-elected",
+          "last": "Koskei",
+          "first": "Silah",
+          "work": "The Standard",
+          "access-date": "2018-02-07",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mandago joined Kenyatta University and pursued a bachelor's degree in biochemistry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kenyatta University"
+                }
+              ]
+            },
+            {
+              "text": "He later joined the Catholic University of Eastern Africa (CUEA) to pursue procurement and strategic planning.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Catholic University of Eastern Africa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "kenya-politician-stub"
+        }
+      ]
+    }
+  ]
+}
