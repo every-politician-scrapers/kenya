@@ -1627,7 +1627,7 @@
       ]
     },
     {
-      "title": "19th April 2013",
+      "title": "International Criminal Court Charges",
       "depth": 1,
       "paragraphs": [
         {
@@ -3749,6 +3749,9 @@
       "depth": 0,
       "paragraphs": [
         {
+          "sentences": []
+        },
+        {
           "sentences": [
             {
               "text": "In November 2020, it was noted that he was the most traveled Kenyan president compared to his predecessors."
@@ -3766,6 +3769,15 @@
               "text": "The president's strategic communications unit came out in defense of these trips stating that these trips had yielded more than what it cost the taxpayers to finance them."
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Map_showing_countries_President_Uhuru_Kenyatta_of_Kenya_has_visited.svg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Map_showing_countries_President_Uhuru_Kenyatta_of_Kenya_has_visited.svg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Map_showing_countries_President_Uhuru_Kenyatta_of_Kenya_has_visited.svg",
+          "caption": "Map highlighting countries where Kenyatta made official visits while president",
+          "links": []
         }
       ],
       "templates": [
