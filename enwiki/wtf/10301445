@@ -95,10 +95,10 @@
             ]
           },
           "office1": {
-            "text": "former Senator for Nyeri County",
+            "text": "Senator for Nyeri County",
             "links": [
               {
-                "text": "former Senator",
+                "text": " Senator",
                 "type": "internal",
                 "page": "Senate of Kenya"
               },
@@ -111,7 +111,7 @@
           "term_start1": {
             "text": "28 March 2013"
           },
-          "term_end": {
+          "term_end1": {
             "text": "7 August 2017"
           },
           "president1": {

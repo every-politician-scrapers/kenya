@@ -36,32 +36,33 @@
       ],
       "templates": [
         {
-          "description": "Kenyan politician",
+          "description": "Governor of Nakuru County",
           "template": "short description"
+        },
+        {
+          "date": "July 2022",
+          "template": "use dmy"
+        },
+        {
+          "birth_year": "1972",
+          "template": "birth year and age"
         }
       ],
       "infoboxes": [
         {
           "name": {
-            "text": "Lee Maiyani Kinyanjui"
+            "text": "Lee Kinyanjui"
           },
-          "office": {
-            "text": "Governor Nakuru County",
+          "office1": {
+            "text": "Governor of Nakuru County",
             "links": [
-              {
-                "type": "internal",
-                "page": "Governor"
-              },
               {
                 "type": "internal",
                 "page": "Nakuru County"
               }
             ]
           },
-          "deputy": {
-            "text": "Erick Korir"
-          },
-          "predecessor": {
+          "predecessor1": {
             "text": "Kinuthia Mbugua",
             "links": [
               {
@@ -70,7 +71,7 @@
               }
             ]
           },
-          "president": {
+          "president1": {
             "text": "Uhuru Kenyatta",
             "links": [
               {
@@ -79,24 +80,11 @@
               }
             ]
           },
-          "successor": {
-            "text": "Incumbent"
+          "termstart1": {
+            "text": "21 August 2017"
           },
           "office2": {
-            "text": "Nakuru Town East Constituency Member of Parliament",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nakuru"
-              },
-              {
-                "type": "internal",
-                "page": "Parliament"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "David Gikaria"
+            "text": "Assistant Minister of Roads"
           },
           "president2": {
             "text": "Mwai Kibaki",
@@ -107,6 +95,63 @@
               }
             ]
           },
+          "primeminister2": {
+            "text": "Raila Odinga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raila Odinga"
+              }
+            ]
+          },
+          "termstart2": {
+            "text": "2008",
+            "number": 2008
+          },
+          "termend2": {
+            "text": "2013",
+            "number": 2013
+          },
+          "office3": {
+            "text": "The Nakuru Town Constituency Member of Parliament",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nakuru Town Constituency"
+              },
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "National Assembly (Kenya)"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "William Kariuki Mirugi"
+          },
+          "successor3": {
+            "text": "Constituency abolished",
+            "formatting": {
+              "italic": [
+                "Constituency abolished"
+              ]
+            }
+          },
+          "president3": {
+            "text": "Mwai Kibaki",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mwai Kibaki"
+              }
+            ]
+          },
+          "termstart3": {
+            "text": "15 January 2008"
+          },
+          "termend3": {
+            "text": "28 March 2013"
+          },
           "party": {
             "text": "Jubilee Party of Kenya",
             "links": [
@@ -116,19 +161,31 @@
               }
             ]
           },
-          "office1": {
-            "text": "NTSA Chairman"
+          "birth_name": {
+            "text": "Lee Maiyani Kinyanjui"
           },
           "birth_date": {
-            "text": "1972",
-            "number": 1972
+            "text": "1972 (age 50)"
+          },
+          "birth_place": {
+            "text": "Nakuru, Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nakuru"
+              }
+            ]
           },
           "alma_mater": {
-            "text": "Kenyatta University",
+            "text": "Kenyatta University\n\nUniversity of Nairobi",
             "links": [
               {
                 "type": "internal",
                 "page": "Kenyatta University"
+              },
+              {
+                "type": "internal",
+                "page": "University of Nairobi"
               }
             ]
           }
