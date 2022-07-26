@@ -317,6 +317,9 @@
         {
           "title": "Kenya",
           "url": "https://www.cia.gov/library/publications/world-leaders-1/KE.html",
+          "archive-url": "https://web.archive.org/web/20131005001620/https://www.cia.gov/library/publications/world-leaders-1/KE.html",
+          "url-status": "dead",
+          "archive-date": "October 5, 2013",
           "access-date": "13 February 2017",
           "website": "Central Intelligence Agency",
           "template": "citation",

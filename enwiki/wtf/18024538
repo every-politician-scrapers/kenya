@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Wycliffe Ambetsa Oparanyais A key member of Kenya Kwisha Alliance Kenyan politician serving as the incumbent governor of Kakamega County and Council of Governors chairperson.",
+              "text": "Wycliffe Ambetsa Oparanya (born 25 March 1956) is a Kenyan politician serving as the incumbent governor of Kakamega County and Council of Governors chairperson.",
               "links": [
                 {
                   "type": "internal",
@@ -56,11 +56,12 @@
               ]
             },
             {
-              "text": "Wycliffe Oparanya is also the current FORD KENYA PARTY Deputy party leader.",
+              "text": "Wycliffe Oparanya is also the current Ford Kenya Party deputy party leader.",
               "links": [
                 {
+                  "text": "Ford Kenya Party",
                   "type": "internal",
-                  "page": "FORD KENYA PARTY"
+                  "page": "Forum for the Restoration of Democracy – Kenya"
                 }
               ]
             }
@@ -79,6 +80,15 @@
         {
           "date": "July 2015",
           "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "1956",
+            "3",
+            "25"
+          ],
+          "df": "y",
+          "template": "birthdate and age"
         }
       ],
       "infoboxes": [
@@ -107,16 +117,36 @@
           "deputy": {
             "text": "Professor Phillip Kutima"
           },
-          "constituency": {
-            "text": "Butere",
+          "office2": {
+            "text": "Minister of State for Planning, National Development and Vision 2030"
+          },
+          "term_start2": {
+            "text": "2008",
+            "number": 2008
+          },
+          "term_end2": {
+            "text": "2013",
+            "number": 2013
+          },
+          "president2": {
+            "text": "Mwai Kibaki",
             "links": [
               {
                 "type": "internal",
-                "page": "Butere"
+                "page": "Mwai Kibaki"
               }
             ]
           },
-          "office2": {
+          "primeminister2": {
+            "text": "Raila Odinga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raila Odinga"
+              }
+            ]
+          },
+          "office3": {
             "text": "Member of the Kenyan Parliament",
             "links": [
               {
@@ -125,15 +155,15 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "2002",
             "number": 2002
           },
-          "term_end2": {
+          "term_end3": {
             "text": "2013",
             "number": 2013
           },
-          "constituency2": {
+          "constituency3": {
             "text": "Butere",
             "links": [
               {
@@ -143,15 +173,24 @@
               }
             ]
           },
-          "nationality": {
-            "text": "Kenyan",
+          "birth_place": {
+            "text": "Butere, Kenya Colony",
             "links": [
               {
-                "text": "Kenyan",
                 "type": "internal",
-                "page": "Kenya"
+                "page": "Butere"
+              },
+              {
+                "type": "internal",
+                "page": "Kenya Colony"
               }
             ]
+          },
+          "birthname": {
+            "text": "Wycliffe Ambetsa Oparanya"
+          },
+          "nationality": {
+            "text": "Kenyan"
           },
           "party": {
             "text": "ODM",
@@ -162,9 +201,6 @@
                 "page": "Orange Democratic Movement"
               }
             ]
-          },
-          "children": {
-            "text": "Ian Oparanya Doreen Ambetsa"
           },
           "alma_mater": {
             "text": "University of Nairobi (BCom), (MBA)",

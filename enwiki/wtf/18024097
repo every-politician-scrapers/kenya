@@ -71,15 +71,6 @@
               }
             ]
           },
-          "president1": {
-            "text": "Uhuru Kenyatta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Uhuru Kenyatta"
-              }
-            ]
-          },
           "termstart1": {
             "text": "21 August 2017"
           },
