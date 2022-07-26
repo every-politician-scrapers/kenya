@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Court of Appeal of Kenya"
+      ],
+      "stated_as": "Court of Appeal President"
+    },
+    "P580": "2012",
+    "P582": "2018",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "William Ouko"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney General of Kenya"
+      ],
+      "stated_as": "Attorney General of Kenya"
+    },
+    "P580": "2018-02-13",
+    "P1365": {
+      "links": [
+        "Githu Muigai"
+      ],
+      "stated_as": "Githu Muigai"
+    }
+  }
+]

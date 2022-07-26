@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Kisauni Constituency"
+      ],
+      "stated_as": "Member of Parliament for Kisauni Constituency"
+    },
+    "P580": "2008",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ananiah Mwasambu Mwaboza"
+    },
+    "P582": "2013",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Rashid Bedzimba"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mombasa"
+      ],
+      "stated_as": "1st Governor of Mombasa County"
+    },
+    "P580": "2013-03-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  }
+]

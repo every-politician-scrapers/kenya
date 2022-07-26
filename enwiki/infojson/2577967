@@ -1,0 +1,99 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "1997",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Reuben Chesire"
+    },
+    "P582": "2013",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Home Affairs"
+    },
+    "P580": "2002-08-30",
+    "P1365": {
+      "links": [
+        "George Saitoti"
+      ],
+      "stated_as": "George Saitoti"
+    },
+    "P582": "2002-12",
+    "P1366": {
+      "links": [
+        "Moody Awori"
+      ],
+      "stated_as": "Moody Awori"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Agriculture (Kenya)"
+      ],
+      "stated_as": "Minister of Agriculture"
+    },
+    "P580": "2008-04-17",
+    "P1365": {
+      "links": [
+        "Kipruto Rono Arap Kirwa"
+      ],
+      "stated_as": "Kipruto Rono Arap Kirwa"
+    },
+    "P582": "2010-04-21",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Margret Nyambura"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Higher Education"
+    },
+    "P580": "2010-04-21",
+    "P582": "2010-10-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Hellen Jepkemoi Sambili (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy President of Kenya"
+      ],
+      "stated_as": "11th Deputy President of Kenya"
+    },
+    "P580": "2013-04-09",
+    "P1365": {
+      "links": [
+        "Kalonzo Musyoka"
+      ],
+      "stated_as": "Kalonzo Musyoka (Vice President)"
+    }
+  }
+]

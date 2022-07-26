@@ -1,0 +1,77 @@
+[
+  {
+    "office": {
+      "links": [
+        "Principal Secretary for Foreign Affairs"
+      ],
+      "stated_as": "Principal Secretary for Foreign Affairs"
+    },
+    "P580": "2016-05-02",
+    "P582": "2018-02-05",
+    "P1366": {
+      "links": [
+        "Macharia Kamau"
+      ],
+      "stated_as": "Macharia Kamau"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Foreign Affairs (Kenya)"
+      ],
+      "stated_as": "Cabinet Secretary for Foreign Affairs"
+    },
+    "P580": "2018-02-05",
+    "P1365": {
+      "links": [
+        "Amina Mohamed"
+      ],
+      "stated_as": "Amina Mohamed"
+    },
+    "P582": "2020-01-14",
+    "P1366": {
+      "links": [
+        "Raychelle Omamo"
+      ],
+      "stated_as": "Raychelle Omamo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Defence (Kenya)"
+      ],
+      "stated_as": "Cabinet Secretary for Defence"
+    },
+    "P580": "2020-01-14",
+    "P1365": {
+      "links": [
+        "Raychelle Omamo"
+      ],
+      "stated_as": "Raychelle Omamo"
+    },
+    "P582": "2021-09-30",
+    "P1366": {
+      "links": [
+        "Eugene Wamalwa"
+      ],
+      "stated_as": "Eugene Wamalwa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Energy and Petroleum (Kenya)"
+      ],
+      "stated_as": "Cabinet Secretary for Energy and Petroleum"
+    },
+    "P580": "2021-09-30",
+    "P1365": {
+      "links": [
+        "Charles Keter"
+      ],
+      "stated_as": "Charles Keter"
+    }
+  }
+]

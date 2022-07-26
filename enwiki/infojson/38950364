@@ -1,0 +1,72 @@
+[
+  {
+    "office": {
+      "links": [
+        "Siakago Constituency"
+      ],
+      "stated_as": "Member of Parliament for Siakago Constituency"
+    },
+    "P580": "1999-10-05",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Silas Ita"
+    },
+    "P582": "2007-10-22",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Lenny Kivuti"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chairman of the Public Investments Committee"
+    },
+    "P580": "2003-02-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Wafula Wamunyinyi"
+    },
+    "P582": "2007-10-22",
+    "P1366": {
+      "links": [
+        "Franklin Linturi"
+      ],
+      "stated_as": "Franklin Mithika Linturi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Opposition Chief Whip"
+    },
+    "P580": "2003-02-18",
+    "P582": "2007-10-22"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Speaker of the National Assembly of Kenya"
+    },
+    "P1545": "7",
+    "P580": "2013-03-28",
+    "P1365": {
+      "links": [
+        "Kenneth Marende"
+      ],
+      "stated_as": "Kenneth Marende"
+    }
+  }
+]

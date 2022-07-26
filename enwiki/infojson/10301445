@@ -1,0 +1,38 @@
+[
+  {
+    "office": {
+      "links": [
+        "Mukurweini"
+      ],
+      "stated_as": "MP for Mukurweini"
+    },
+    "P580": "2002",
+    "P582": "2007-10-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Senate of Kenya",
+        "Nyeri"
+      ],
+      "stated_as": "Senator for Nyeri County"
+    },
+    "P580": "2013-03-28",
+    "P582": "2017-08-07"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health (Kenya)"
+      ],
+      "stated_as": "Cabinet Secretary for Health"
+    },
+    "P580": "2020-02-28",
+    "P1365": {
+      "links": [
+        "Sicily Kariuki"
+      ],
+      "stated_as": "Sicily Kariuki"
+    }
+  }
+]

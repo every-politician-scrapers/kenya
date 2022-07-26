@@ -1,0 +1,31 @@
+[
+  {
+    "office": {
+      "links": [
+        "Kenyan Parliament"
+      ],
+      "stated_as": "Member of the Kenyan Parliament"
+    },
+    "P580": "2002",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of State for Planning, National Development and Vision 2030"
+    },
+    "P580": "2008",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+        "Kakamega"
+      ],
+      "stated_as": "1st Governor of Kakamega County"
+    },
+    "P580": "2013-03-27"
+  }
+]

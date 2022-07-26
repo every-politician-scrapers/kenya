@@ -1,0 +1,94 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Leader of the Opposition"
+    },
+    "P580": "2003-01-01",
+    "P1365": {
+      "links": [
+        "Mwai Kibaki"
+      ],
+      "stated_as": "Mwai Kibaki"
+    },
+    "P582": "2013-04-09",
+    "P1366": {
+      "links": [
+        "Raila Odinga"
+      ],
+      "stated_as": "Raila Odinga"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly (Kenya)",
+        "Gatundu South Constituency"
+      ],
+      "stated_as": "Member of Parliament\nfor Gatundu South"
+    },
+    "P580": "2003-01-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Moses Mwihia"
+    },
+    "P582": "2013-03-28",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jossy Ngugi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Kenya"
+      ],
+      "stated_as": "Deputy Prime Minister of Kenya"
+    },
+    "P580": "2008-04-13",
+    "P582": "2013-04-09"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Finance (Kenya)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2009-01-23",
+    "P1365": {
+      "links": [
+        "John Michuki"
+      ],
+      "stated_as": "John Michuki"
+    },
+    "P582": "2012-01-26",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Robinson Michael Githae"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Kenya"
+      ],
+      "stated_as": "4th President of Kenya"
+    },
+    "P580": "2013-04-09",
+    "P1365": {
+      "links": [
+        "Mwai Kibaki"
+      ],
+      "stated_as": "Mwai Kibaki"
+    }
+  }
+]

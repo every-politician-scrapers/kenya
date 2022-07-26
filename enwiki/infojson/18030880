@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+        "Kenyan Parliament"
+      ],
+      "stated_as": "Member of the Kenyan Parliament"
+    },
+    "P580": "2003",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Medical Services"
+    },
+    "P580": "2008",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+        "Senate of Kenya",
+        "Kisumu County"
+      ],
+      "stated_as": "1st Senator of Kisumu County"
+    },
+    "P580": "2013-03-28",
+    "P582": "2017-08-08",
+    "P1366": {
+      "links": [
+        "Frederick Outa Otieno"
+      ],
+      "stated_as": "Frederick Outa Otieno"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Kisumu County"
+      ],
+      "stated_as": "Governor of Kisumu County"
+    },
+    "P580": "2017-08-22"
+  }
+]

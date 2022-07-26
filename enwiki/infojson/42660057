@@ -1,0 +1,34 @@
+[
+  {
+    "office": {
+      "links": [
+        "Bungoma County"
+      ],
+      "stated_as": "Governor of Bungoma County"
+    },
+    "P580": "2013-03-04",
+    "P582": "2017-08-08",
+    "P1366": {
+      "links": [
+        "Wycliffe Wangamati"
+      ],
+      "stated_as": "Wycliffe Wangamati"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Speaker of the Kenyan Senate"
+    },
+    "P1545": "2",
+    "P580": "2017-08-31",
+    "P1365": {
+      "links": [
+        "Ekwee Ethuro"
+      ],
+      "stated_as": "Ekwee Ethuro"
+    }
+  }
+]

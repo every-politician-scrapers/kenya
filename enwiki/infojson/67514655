@@ -1,0 +1,37 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chairperson, Kenya Magistrates and Judges Association."
+    },
+    "P580": "2012-01",
+    "P582": "2016-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Court of Appeal"
+      ],
+      "stated_as": "Judge, Court of Appeal"
+    },
+    "P580": "2012-01",
+    "P582": "2021-05-19"
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Justice of Kenya"
+      ],
+      "stated_as": "Chief Justice of Kenya"
+    },
+    "P580": "2021-05-21",
+    "P1365": {
+      "links": [
+        "David Maraga"
+      ],
+      "stated_as": "David Maraga"
+    }
+  }
+]

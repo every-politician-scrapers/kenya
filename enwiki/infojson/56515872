@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Senate of Kenya"
+      ],
+      "stated_as": "Member of the Senate of Kenya"
+    },
+    "P580": "2013",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Inaugural officeholder"
+    },
+    "P582": "2017",
+    "P1366": {
+      "links": [
+        "Samson Cherargei"
+      ],
+      "stated_as": "Samson Cherargei"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Nandi County"
+    },
+    "P1545": "2",
+    "P580": "2017",
+    "P1365": {
+      "links": [
+        "Cleophas Lagat"
+      ],
+      "stated_as": "Cleophas Lagat"
+    }
+  }
+]

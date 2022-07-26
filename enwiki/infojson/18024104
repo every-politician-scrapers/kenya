@@ -1,0 +1,72 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (Kenya)",
+        "Saboti Constituency"
+      ],
+      "stated_as": "Member of Parliament\nfor Saboti"
+    },
+    "P580": "2007-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Davis Wafula Nakitare"
+    },
+    "P582": "2013-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "David Wafula Wekesa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Justice (Kenya)"
+      ],
+      "stated_as": "Minister of Justice, National Cohesion and Constitutional Affairs"
+    },
+    "P580": "2011-05",
+    "P1365": {
+      "links": [
+        "Mutula Kilonzo"
+      ],
+      "stated_as": "Mutula Kilonzo"
+    },
+    "P582": "2013-04"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Cabinet Secretary for Water and Irrigation"
+    },
+    "P580": "2015-07-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mwangi Festus Kiunjuri"
+    },
+    "P582": "2018-01-26"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Cabinet Secretary for Defense"
+    },
+    "P580": "2021-09-29",
+    "P1365": {
+      "links": [
+        "Monica Juma"
+      ],
+      "stated_as": "Monica Juma"
+    }
+  }
+]

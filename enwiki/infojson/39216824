@@ -1,0 +1,37 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Cabinet Secretary for Education"
+    },
+    "P580": "2013-04-25",
+    "P582": "2015-11-22"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Cabinet Secretary for Land, Housing and Urban Development"
+    },
+    "P580": "2015-11-23",
+    "P582": "2018-01-14"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Kenyan ambassador to Belgium"
+    },
+    "P580": "2018-07-10",
+    "P1365": {
+      "links": [
+        "Margaret Kamar"
+      ],
+      "stated_as": "Margaret Kamar"
+    }
+  }
+]
