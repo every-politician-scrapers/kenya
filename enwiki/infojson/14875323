@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Mvita Constituency"
+      ],
+      "stated_as": "Member of Parliament for Mvita Constituency"
+    },
+    "P580": "2003",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Shariff Nassir"
+    },
+    "P582": "2013",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Abdulswamad Nassir"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Tourism"
+    },
+    "P580": "2008",
+    "P582": "2012-03",
+    "P1366": {
+      "links": [
+        "Danson Mwazo Mwakulegwa"
+      ],
+      "stated_as": "Danson Mwazo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Cabinet Secretary for Tourism"
+    },
+    "P580": "2013-05-15"
+  }
+]

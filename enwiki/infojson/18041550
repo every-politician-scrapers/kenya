@@ -1,0 +1,22 @@
+[
+  {
+    "office": {
+      "links": [
+        "Kenyan Parliament"
+      ],
+      "stated_as": "Member of the Kenyan Parliament"
+    },
+    "P580": "2008",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+        "Kilifi"
+      ],
+      "stated_as": "1st Governor of Kilifi County"
+    },
+    "P580": "2013-03-27",
+    "P582": "Present"
+  }
+]

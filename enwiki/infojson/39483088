@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Interior Cabinent Secretary"
+    },
+    "P580": "2013-05",
+    "P582": "2014-12",
+    "P1366": {
+      "links": [
+        "Joseph Ole Nkaissery"
+      ],
+      "stated_as": "Joseph Ole Nkaissery"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Kajiado County"
+      ],
+      "stated_as": "Governor Kajiado County"
+    },
+    "P580": "2017-09-28",
+    "P1365": {
+      "links": [
+        "David ole Nkedianye"
+      ],
+      "stated_as": "David ole Nkedianye"
+    }
+  }
+]

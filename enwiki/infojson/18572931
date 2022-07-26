@@ -1,0 +1,47 @@
+[
+  {
+    "office": {
+      "links": [
+        "Kenyan Parliament"
+      ],
+      "stated_as": "Member of the Kenyan Parliament"
+    },
+    "P580": "2002",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Livestock Development"
+    },
+    "P580": "2008",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Senator (Isiolo County)"
+    },
+    "P580": "2013",
+    "P582": "2017"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor (Isiolo County)"
+    },
+    "P580": "2017-08-23",
+    "P1365": {
+      "links": [
+        "Godana Doyo"
+      ],
+      "stated_as": "Godana Doyo"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "office": {
+      "links": [
+        "Kisii County"
+      ],
+      "stated_as": "Governor of Kisii County"
+    },
+    "P580": "2013-03-27",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Incumbent"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Kisii County"
+      ],
+      "stated_as": "Governor of Kisii County"
+    },
+    "P580": "2013-03-27",
+    "P582": "2017-08-08"
+  },
+  {
+    "office": {
+      "links": [
+        "Kisii County"
+      ],
+      "stated_as": "Governor of Kisii County"
+    },
+    "P580": "2017-08-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Inaugural officeholder"
+    }
+  }
+]

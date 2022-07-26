@@ -1,0 +1,50 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Assistant Minister of Roads"
+    },
+    "P580": "2008",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+        "Nakuru Town Constituency",
+        "National Assembly (Kenya)"
+      ],
+      "stated_as": "The Nakuru Town Constituency Member of Parliament"
+    },
+    "P580": "2008-01-15",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "William Kariuki Mirugi"
+    },
+    "P582": "2013-03-28",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Nakuru County"
+      ],
+      "stated_as": "Governor of Nakuru County"
+    },
+    "P580": "2017-08-21",
+    "P1365": {
+      "links": [
+        "Kinuthia Mbugua"
+      ],
+      "stated_as": "Kinuthia Mbugua"
+    }
+  }
+]

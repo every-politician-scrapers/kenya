@@ -1,0 +1,58 @@
+[
+  {
+    "office": {
+      "links": [
+        "Kitui Central Constituency"
+      ],
+      "stated_as": "Member of Parliament\nfor Kitui Central"
+    },
+    "P580": "1992-12-29",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Health"
+    },
+    "P580": "2003-01-03",
+    "P582": "2007-10-06"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Water and Irrigation"
+    },
+    "P580": "2008-04-17",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Cabinet Secretary for Land, Housing and Urban Development"
+    },
+    "P580": "2013-05-15",
+    "P582": "2015-03-29"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "County Governor of Kitui"
+    },
+    "P1545": "2",
+    "P580": "2017-08-22",
+    "P1365": {
+      "links": [
+        "Julius Malombe"
+      ],
+      "stated_as": "Julius Malombe"
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Lamu West Constituency",
+        "NARC-Kenya"
+      ],
+      "stated_as": "Member of Parliament, Lamu West Constituency with NARC-Kenya"
+    },
+    "P580": "1997"
+  },
+  {
+    "office": {
+      "links": [
+        "Lamu County"
+      ],
+      "stated_as": "Governor of Lamu County"
+    },
+    "P580": "2017-08-22",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Issa Timamy"
+    }
+  }
+]

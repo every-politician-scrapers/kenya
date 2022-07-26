@@ -1,76 +1,76 @@
-pageid,title
-575041,Uhuru Kenyatta
-2577967,William Ruto
-3365292,Raphael Tuju
-4014359,Kiraitu Murungi
-6977589,Charity Ngilu
-10301445,Mutahi Kagwe
-14875323,Najib Balala
-18023173,Peter Munya
-18024071,Ndiritu Muriithi
-18024097,Lee Kinyanjui
-18024104,Eugene Wamalwa
-18024123,John Munyes
-18024155,Ali Mohamud Mohamed
-18024173,Sospeter Ojaamong
-18024538,Wycliffe Oparanya
-18030880,Peter Anyang' Nyong'o
-18041532,Godhana Dhadho Gaddae
-18041539,Hassan Joho
-18041550,Amason Kingi
-18041862,Charles Keter
-18572888,Fahim Yasin Twaha
-18572931,Mohammed Kuti
-25336948,Adan Mohammed
-27128137,Wilber Otichilo
-35081263,Amina Mohamed
-38002395,Francis Kimemia
-38037790,Keriako Tobiko
-38126908,Kivutha Kibwana
-38316706,Joseph Mucheru
-38670178,Alfred Mutua
-38805911,Margaret Kenyatta
-38950364,Justin Muturi
-39199969,Fred Matiang'i
-39199994,James Wainaina Macharia
-39216647,Anne Waiguru
-39216677,Raychelle Omamo
-39216824,Jacob Kaimenyi
-39217174,Phyllis Kandie
-39483088,Joseph Ole Lenku
-41948263,Martin Wambora
-41948600,Salim Mvurya
-41949670,Mwangi wa Iria
-41967335,Moses Kasaine
-42659979,Josphat Nanok
-42660057,Kenneth Lusaka
-45693763,Cornel Rasanga Amoth
-47020047,Patrick Ngugi Njoroge
-53898365,Ali Roba
-55908725,Muthomi Njuki
-56132334,George Magoha
-56436578,Sicily Kariuki
-56470651,Monica Juma
-56479926,Margaret Kobia
-56507369,Farida Karoney
-56514589,Ukur Yatani Kanacho
-56515872,Stephen Sang
-56521380,Jackson Mandago
-56522484,Alex Tolgos
-56534587,John Krop Lonyangapuo
-56578276,Paul Kihara Kariuki
-59251520,Cyprian Awiti
-59267597,Patrick Khaemba
-59269682,Paul Chepkwony
-59280563,Granton Samboja
-59630403,James Ongwae
-62987760,James Nyoro
-64322465,Wycliffe Wangamati
-65322118,Simon Chelugui
-65324837,Betty Maina
-65904713,Robert Kariuki Kibochi
-67514655,Martha Koome
-68191203,Noordin Haji
-68236023,Ali Korane
-68721306,Nancy Gathungu
-70137342,Martin Kimani
+pageid,title,wikidata,label
+575041,Uhuru Kenyatta,Q196070,Uhuru Kenyatta
+2577967,William Ruto,Q195725,William Ruto
+3365292,Raphael Tuju,Q2189073,Raphael Tuju
+4014359,Kiraitu Murungi,Q6414781,Kiraitu Murungi
+6977589,Charity Ngilu,Q539821,Charity Ngilu
+10301445,Mutahi Kagwe,Q16192784,Mutahi Kagwe
+14875323,Najib Balala,Q12053090,Najib Balala
+18023173,Peter Munya,Q7175990,Peter Munya
+18024071,Ndiritu Muriithi,Q6983763,Ndiritu Muriithi
+18024097,Lee Kinyanjui,Q6514327,Lee Kinyanjui
+18024104,Eugene Wamalwa,Q5407838,Eugene Wamalwa
+18024123,John Munyes,Q6249843,John Munyes
+18024155,Ali Mohamud Mohamed,Q4725044,Ali Mohamud Mohamed
+18024173,Sospeter Ojaamong,Q7563913,Sospeter Ojaamong
+18024538,Wycliffe Oparanya,Q8039607,Wycliffe Oparanya
+18030880,Peter Anyang' Nyong'o,Q7172546,Peter Anyang' Nyong'o
+18041532,Godhana Dhadho Gaddae,Q16213140,Godhana Dhadho Gaddae
+18041539,Hassan Joho,Q5679565,Hassan Ali Joho
+18041550,Amason Kingi,Q16730244,Amason Kingi
+18041862,Charles Keter,Q5076212,Charles Keter
+18572888,Fahim Yasin Twaha,Q5429550,Fahim Yasin Twaha
+18572931,Mohammed Kuti,Q6893179,Mohammed Kuti
+25336948,Adan Mohammed,Q4682172,Aden Mohammed
+27128137,Wilber Otichilo,Q8000077,Wilber Otichilo
+35081263,Amina Mohamed,Q4746345,Amina Mohamed
+38002395,Francis Kimemia,Q5481626,Francis Kimemia
+38037790,Keriako Tobiko,Q6393880,Keriako Tobiko
+38126908,Kivutha Kibwana,Q6418829,Kivutha Kibwana
+38316706,Joseph Mucheru,Q6285671,Joseph Mucheru
+38670178,Alfred Mutua,Q16212421,Alfred Nganga Mutua
+38805911,Margaret Kenyatta,Q16866530,Margaret Gakuo Kenyatta
+38950364,Justin Muturi,Q16187229,Justin Muturi
+39199969,Fred Matiang'i,Q16866738,Fred Matiangi
+39199994,James Wainaina Macharia,Q16193227,James Wainaina Macharia
+39216647,Anne Waiguru,Q16886393,Anne Waiguru
+39216677,Raychelle Omamo,Q12170059,Raychelle Omamo
+39216824,Jacob Kaimenyi,Q16151791,Jacob Kaimenyi
+39217174,Phyllis Kandie,Q16734504,Phyllis Kandie
+39483088,Joseph Ole Lenku,Q16733690,Joseph Ole Lenku
+41948263,Martin Wambora,Q16150817,Martin Nyaga Wambora
+41948600,Salim Mvurya,Q16212428,Salim Mvurya
+41949670,Mwangi wa Iria,Q16730058,Mwangi wa Iria
+41967335,Moses Kasaine,Q16215853,Moses Lenolkula Kasaine
+42659979,Josphat Nanok,Q16846944,Josphat Nanok
+42660057,Kenneth Lusaka,Q16845849,Ken Lusaka
+45693763,Cornel Rasanga Amoth,Q19938253,Cornel Rasanga Amoth
+47020047,Patrick Ngugi Njoroge,Q20657447,Patrick Ngugi Njoroge
+53898365,Ali Roba,Q30636922,Ali Roba
+55908725,Muthomi Njuki,Q43927930,Muthomi Njuki
+56132334,George Magoha,Q46835085,George Magoha
+56436578,Sicily Kariuki,Q47513060,Sicily Kariuki
+56470651,Monica Juma,Q47531099,Monica Juma
+56479926,Margaret Kobia,Q47539824,Margaret Kobia
+56507369,Farida Karoney,Q47823441,Farida Karoney
+56514589,Ukur Yatani Kanacho,Q48472383,Ukur Yatani Kanacho
+56515872,Stephen Sang,Q48472394,Stephen Sang
+56521380,Jackson Mandago,Q48009463,Jackson Mandago
+56522484,Alex Tolgos,Q48472534,Alex Tolgos
+56534587,John Krop Lonyangapuo,Q48123493,John Krop Lonyangapuo
+56578276,Paul Kihara Kariuki,Q48818015,Paul Kihara Kariuki
+59251520,Cyprian Awiti,Q59656082,Cyprian Awiti
+59267597,Patrick Khaemba,Q105972509,Patrick Khaemba
+59269682,Paul Chepkwony,Q59660303,Paul Chepkwony
+59280563,Granton Samboja,Q59660333,Granton Samboja
+59630403,James Ongwae,Q60544883,James Ongwae
+62987760,James Nyoro,Q84081333,James Nyoro
+64322465,Wycliffe Wangamati,Q96627361,Wycliffe Wangamati
+65322118,Simon Chelugui,Q100146396,Simon Chelugui
+65324837,Betty Maina,Q100146351,Betty Maina
+65904713,Robert Kariuki Kibochi,Q102290636,Robert Kariuki Kibochi
+67514655,Martha Koome,Q106641905,Martha Koome
+68191203,Noordin Haji,Q107465958,Noordin Haji
+68236023,Ali Korane,Q107529095,Ali Korane
+68721306,Nancy Gathungu,Q108739372,Nancy Gathungu
+70137342,Martin Kimani,Q110996829,Martin Kimani

@@ -1,0 +1,77 @@
+[
+  {
+    "office": {
+      "links": [
+        "United Nations Environment Programme"
+      ],
+      "stated_as": "Deputy Executive Director of the United Nations Environment Programme"
+    },
+    "P580": "2011-05-13",
+    "P1365": {
+      "links": [
+        "Angela Cropper"
+      ],
+      "stated_as": "Angela Cropper"
+    },
+    "P582": "2013-05-20"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Foreign Affairs (Kenya)"
+      ],
+      "stated_as": "Cabinet Secretary for Foreign Affairs"
+    },
+    "P580": "2013-05-20",
+    "P1365": {
+      "links": [
+        "Sam Ongeri"
+      ],
+      "stated_as": "Sam Ongeri"
+    },
+    "P582": "2018-02-05",
+    "P1366": {
+      "links": [
+        "Monica Juma"
+      ],
+      "stated_as": "Monica Juma"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Education"
+      ],
+      "stated_as": "Cabinet Secretary for Education"
+    },
+    "P580": "2018-02-05",
+    "P1365": {
+      "links": [
+        "Fred Matiang'i"
+      ],
+      "stated_as": "Fred Matiang'i"
+    },
+    "P582": "2019-03-02",
+    "P1366": {
+      "links": [
+        "George Magoha"
+      ],
+      "stated_as": "George Magoha"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Sports, Heritage and Culture"
+      ],
+      "stated_as": "Cabinet Secretary for Sports, Culture and Heritage"
+    },
+    "P580": "2019-03-02",
+    "P1365": {
+      "links": [
+        "Rashid Echesa"
+      ],
+      "stated_as": "Rashid Echesa"
+    }
+  }
+]
