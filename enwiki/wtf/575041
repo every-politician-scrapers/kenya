@@ -146,7 +146,13 @@
               ]
             },
             {
-              "text": "The win was formally declared on national television by the Chairperson of the Independent Electoral and Boundaries Commission (IEBC), Mr. Wafula Chebukati."
+              "text": "The win was formally declared on national television by the Chairperson of the Independent Electoral and Boundaries Commission (IEBC), Wafula Chebukati.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Wafula Chebukati"
+                }
+              ]
             },
             {
               "text": "However, Uhuru's election was challenged in the Supreme Court of Kenya by his main competitor, Raila Odinga.",
