@@ -510,9 +510,6 @@
           "sentences": [
             {
               "text": "Ruto owns a considerable chicken farm in his home village of Sugoi, which was originally inspired from his stint as a live chicken hawker on the Nairobi-Eldoret highway."
-            },
-            {
-              "text": "He's the fifth president of Kenya."
             }
           ]
         }
@@ -1143,6 +1140,12 @@
                   "page": "United Democratic Alliance (Kenya)"
                 }
               ]
+            },
+            {
+              "text": "</ref"
+            },
+            {
+              "text": "He is the only 2022 presidential candidate who attended the 2022 presidential debate|url=https://www.citizentv.co.ke/politicss2022/presidential debate|website=the citizen TV|language=en }}</ref"
             }
           ]
         }
@@ -1167,7 +1170,7 @@
           "website": "The Standard",
           "language": "en",
           "template": "citation",
-          "type": "web"
+          "type": "cite web"
         }
       ]
     },
