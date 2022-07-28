@@ -8,13 +8,16 @@
       "start": "2013-04-09",
       "parent": "Q5015528"
     },
-    "source": {
-        "url":   "https://cabinetoffice.go.ke/current-cabinet/",
-        "title": "Current Cabinet &#8211; The Presidency and Cabinet Affairs Office",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "https://cabinetoffice.go.ke/current-cabinet/",
+        "P1476": {
+            "text": "Current Cabinet &#8211; The Presidency and Cabinet Affairs Office",
+            "language": "en"
         }
     },
-    "agent": "every-politican-scrapers/kenya-ministers"
+    "current_only": "true",
+    "lang": "en",
+    "person_description": {
+        "en": "Kenyan politician"
+    }
 }
