@@ -1020,7 +1020,7 @@
           "title": "How Ruto rose to be influential personality in Kenyan politics",
           "first": "-Beauttah",
           "last": "Omanga",
-          "website": "The Standard",
+          "website": "The Standard (Kenya)",
           "template": "citation",
           "type": "web"
         },
@@ -1110,7 +1110,7 @@
       "references": [
         {
           "title": "The day William Ruto was president for 48 hours",
-          "work": "The Standard Kenya",
+          "work": "The Standard (Kenya)",
           "url": "https://www.standardmedia.co.ke/entertainment/local-news/2001258073/asante-kwa-kuchunga-kiti-the-day-william-ruto-was-president-for-48-hours?amp=1",
           "template": "citation",
           "type": "news"
@@ -1142,10 +1142,7 @@
               ]
             },
             {
-              "text": "</ref"
-            },
-            {
-              "text": "He is the only 2022 presidential candidate who attended the 2022 presidential debate|url=https://www.citizentv.co.ke/politicss2022/presidential debate|website=the citizen TV|language=en }}</ref"
+              "text": "He is the only 2022 presidential candidate who attended the 2022 presidential debate."
             }
           ]
         }
@@ -1167,10 +1164,22 @@
           "title": "Rift MPs: Ruto will use UDA to contest for presidency in 2022",
           "url": "https://www.standardmedia.co.ke/politics/article/2001399585/rift-mps-ruto-will-use-uda-to-contest-for-presidency-in-2022",
           "access-date": "2021-11-12",
-          "website": "The Standard",
+          "website": "The Standard (Kenya)",
           "language": "en",
           "template": "citation",
-          "type": "cite web"
+          "type": "web"
+        },
+        {
+          "author1": "Winfrey Owino",
+          "author2": "Betty Njeru",
+          "url": "https://www.standardmedia.co.ke/article/2001451703/moderators-place-ruto-between-a-rock-and-a-hard-place-during-debate",
+          "title": "Moderators place DP William Ruto between a rock and a hard place during debate",
+          "website": "The Standard (Kenya)",
+          "language": "en",
+          "access-date": "28 July 2022",
+          "quote": "United Democratic Alliance presidential candidate William Ruto was the only candidate who took part in the second tier of the debate, after his main rival, Raila Odinga, of the Azimio la Umoja-One Kenya coalition skipped.",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -1228,7 +1237,7 @@
           "first1": "Moses",
           "title": "Kalonzo labels Ruto chief land grabber as he fights off accusation",
           "url": "https://www.standardmedia.co.ke/politics/article/2001400521/kalonzo-labels-ruto-chief-land-grabber-as-he-fights-off-accusation",
-          "work": "The Standard",
+          "work": "The Standard (Kenya)",
           "date": "18 Jan 2021",
           "language": "en",
           "template": "citation",
@@ -1514,7 +1523,7 @@
           "title": "Not even family or close allies will be spared in graft war, warns Uhuru",
           "first": "Saturday Standard",
           "last": "Team",
-          "website": "The Standard",
+          "website": "The Standard (Kenya)",
           "template": "citation",
           "type": "web"
         },
@@ -1523,7 +1532,7 @@
           "title": "DCI reopens Ruto land fraud case nine years after acquittal",
           "first": "Cyrus Ombati and Roselyn",
           "last": "Obala",
-          "website": "The Standard",
+          "website": "The Standard (Kenya)",
           "template": "citation",
           "type": "web"
         },
@@ -2001,11 +2010,9 @@
           "type": "news"
         },
         {
-          "last1": "News",
-          "first1": "Standard Digital, KTN",
-          "title": "Khalwale's Allegation: Jacob Juma said that DP Ruto is obsessed with killing him : KTN Home",
+          "title": "Khalwale's Allegation: Jacob Juma said that DP Ruto is obsessed with killing him",
           "url": "https://www.standardmedia.co.ke/ktnhome/video/watch/2000107878/khalwales-allegation-jacob-juma-said-that-dp-ruto-is-obsessed-with-killing-him",
-          "work": "KTN News",
+          "work": "Standard Digital, KTN News Video",
           "date": "13 May 2016",
           "language": "en",
           "template": "citation",
@@ -2044,7 +2051,7 @@
           "first1": "Paul",
           "title": "Ruto-Jacob Juma fallout linked to Sh210b mineral find in Mrima Hills",
           "url": "https://www.standardmedia.co.ke/kenya/article/2000206157/ruto-jacob-juma-fallout-linked-to-sh210b-mineral-find-in-mrima-hills",
-          "work": "The Standard",
+          "work": "The Standard (Kenya)",
           "date": "22 June 2016",
           "language": "en",
           "template": "citation",
@@ -2066,7 +2073,7 @@
           "first1": "Fred",
           "title": "I work in DP Ruto's office, claims suspect in Jacob Juma murder case",
           "url": "https://www.standardmedia.co.ke/kenya/article/2000225468/i-work-in-dp-rutos-office-claims-suspect-in-jacob-juma-murder-case",
-          "work": "The Standard",
+          "work": "The Standard (Kenya)",
           "date": "2 December 2016",
           "language": "en",
           "template": "citation",
