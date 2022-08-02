@@ -25,16 +25,12 @@
         {
           "sentences": [
             {
-              "text": "William Samoei Arap Ruto (born 21 December 1966) is a Kenyan politician currently serving as Deputy President of Kenya since April 2013.",
+              "text": "William Samoei Arap Ruto (born 21 December 1966) is a Kenyan politician currently serving as the Deputy President of Kenya since April 2013.",
               "links": [
                 {
                   "text": "politician",
                   "type": "internal",
                   "page": "politician"
-                },
-                {
-                  "type": "internal",
-                  "page": "Deputy President of Kenya"
                 }
               ],
               "formatting": {
@@ -44,7 +40,7 @@
               }
             },
             {
-              "text": "On 15 March 2022, Ruto was endorsed by UDA as the party's presidential candidate for Kenya's presidential election set for August 2022.",
+              "text": "On 15 March 2022, Ruto was endorsed by UDA as the party's presidential candidate for Kenya's presidential election held on August 9, 2022, which he lost to Raila Odinga.",
               "links": [
                 {
                   "text": "UDA",
