@@ -1,5 +1,5 @@
 ordinal,item,itemLabel,start,end,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
 9,Q4646589,9th Kenyan Parliament,2003-02-18,2007-10-22,2003-02-18,11,,,2007-10-22,11,,,,,Q4547082,10th Kenyan Parliament,,,,
 10,Q4547082,10th Kenyan Parliament,2008-01-15,2013-03-01,2008-01-15,11,,,2013-03-01,10,,,Q4646589,9th Kenyan Parliament,Q17007305,11th Kenyan Parliament,,,,
-11,Q17007305,11th Kenyan Parliament,2013-03-28,2017-08-01,2013-03-28,11,2013-03-28,11,2017-08-01,10,,,Q4547082,10th Kenyan Parliament,Q47486410,12th Kenyan Parliament,,,,
+11,Q17007305,11th Kenyan Parliament,2013-03-28,2017-08-07,2013-03-28,11,2013-03-28,11,2017-08-07,11,,,Q4547082,10th Kenyan Parliament,Q47486410,12th Kenyan Parliament,,,,
 12,Q47486410,12th Kenyan Parliament,2017-08-31,,2017-08-31,11,,,,,,,Q17007305,11th Kenyan Parliament,,,,,,
