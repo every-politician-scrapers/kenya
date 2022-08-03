@@ -1,0 +1,134 @@
+{
+  "title": "Keriako Tobiko",
+  "pageID": 38037790,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "21st-century Kenyan lawyers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Keriako Tobiko is a Kenyan Cabinet Secretary for Environment.",
+              "formatting": {
+                "bold": [
+                  "Keriako Tobiko"
+                ]
+              }
+            },
+            {
+              "text": "As a lawyer by profession, he previously served as the Director of Public Prosecutions of Kenya.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Director of Public Prosecutions of Kenya"
+                }
+              ]
+            },
+            {
+              "text": ", he is a Cabinet Secretary of Environment."
+            },
+            {
+              "text": "He previously served as a commissioner on the Constitution of Kenya Review Commission, where his differences with its then chair Yash Pal Ghai would later come back to haunt him, as Ghai made presentations against his confirmation as DPP over alleged involvement in a land grabbing cover up.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yash Pal Ghai"
+                },
+                {
+                  "text": "land grabbing",
+                  "type": "internal",
+                  "page": "land grabbing"
+                }
+              ]
+            },
+            {
+              "text": "Ghai also alleged that Tobiko's initial appointment to the office of Director of Public Prosecution was politically motivated."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan Cabinet Secretary for Environment",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "2019"
+          ],
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Keriako Tobiko"
+          },
+          "image": {
+            "text": "Keriako Tobiko.png"
+          },
+          "alt": {
+            "text": "Keriako Tobiko holding a microphone and talking"
+          },
+          "caption": {
+            "text": "Keriako Tobiko during a conference in 2019"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.nation.co.ke/News/politics/MPs-clear-Tobiko-of-integrity-questions/-/1064/1181662/-/9t6osz/-/index.html",
+          "title": "MPS clear Tobiko of integrity questions",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Director of Public Prosecutions of Kenya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Director of Public Prosecutions of Kenya"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "kenya-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

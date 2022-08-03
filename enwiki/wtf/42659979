@@ -1,0 +1,112 @@
+{
+  "title": "Josphat Nanok",
+  "pageID": 42659979,
+  "categories": [
+    "Living people",
+    "County Governors of Kenya",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Josphat Nanok is a Kenyan politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kenyan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Josphat Nanok"
+                ]
+              }
+            },
+            {
+              "text": "He is the current governor of Turkana County.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Turkana County"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan politician",
+          "template": "short description"
+        },
+        {
+          "date": "July 2015",
+          "template": "engvarb"
+        },
+        {
+          "date": "July 2015",
+          "template": "use dmy dates"
+        }
+      ]
+    },
+    {
+      "title": "Political life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Josphat Koli Nanok is the first Governor of Turkana County, Kenya, serving his second term following his re-election in August 2017."
+            },
+            {
+              "text": "Nanok was first elected Governor in 2013, and has led the economic transformation of Turkana County by laying a strong infrastructural foundation in early childhood education, basic healthcare, trade, transport and food security sectors."
+            },
+            {
+              "text": "Before serving as Governor, Nanok was first elected as Member of Parliament for Turkana South constituency in 2007, under the Orange Democratic Movement (ODM) party."
+            },
+            {
+              "text": "The constituency covered the current Turkana South and Turkana East constituencies."
+            },
+            {
+              "text": "After the formation of the Government of National Accord with President Mwai Kibaki and Raila Odinga as Prime Minister, Nanok was appointed Assistant Minister for Forestry and Wildlife where he served until 2013."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Born in 1969, the Governor holds a Bachelor of Arts Degree in Political Science and History from the University of Nairobi and Master of Business Administration from Strathmore University."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to joining Politics, Governor Nanok held senior positions including top consultancies with the United Nations (UN) agency https://www.turkana.go.ke/index.php/governor/WFP in Kenya, South Sudan and Eritrea after working with Oxfam GB in Kenya, Uganda and South Sudan in similar capacities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "county governors of kenya"
+        },
+        {
+          "template": "kenya-politician-stub"
+        }
+      ]
+    }
+  ]
+}

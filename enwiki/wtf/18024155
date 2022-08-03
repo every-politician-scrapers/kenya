@@ -1,0 +1,100 @@
+{
+  "title": "Ali Mohamud Mohamed",
+  "pageID": 18024155,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Orange Democratic Movement politicians",
+    "Members of the National Assembly (Kenya)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ali Mohamud Mohamed is a Kenyan politician.",
+              "links": [
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ali Mohamud Mohamed"
+                ]
+              }
+            },
+            {
+              "text": "He was part of the Orange Democratic Movement and was elected to represent the Moyale Constituency in the National Assembly of Kenya since the 2007 Kenyan parliamentary .He was elected as the second governor of Marsabit county in the [2017 general elections].",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Orange Democratic Movement"
+                },
+                {
+                  "type": "internal",
+                  "page": "Moyale Constituency"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Kenya"
+                },
+                {
+                  "text": "2007 Kenyan parliamentary .He was elected as the second governor of Marsabit county in the [2017 general elections",
+                  "type": "internal",
+                  "page": "2007 Kenyan parliamentary .He was elected as the second governor of Marsabit county in the [2017 general elections"
+                }
+              ]
+            },
+            {
+              "text": "He is the second Governor for Marsabit County, elected on jubilee ticket in 2017."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "2. https://www.google.com/search?q=marsabit+governor+favours+his+clan&oq=marsabit+governor+favours+his+clan&aqs=chrome..69i57j33i160.12961j0j9&client=ms-android-transsion-tecno-rev1&sourceid=chrome-mobile&ie=UTF-8#"
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "current kenyan mps"
+        },
+        {
+          "template": "kenya-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "title": "John Munyes",
+  "pageID": 18024123,
+  "categories": [
+    "Living people",
+    "Members of the Senate of Kenya",
+    "Year of birth missing (living people)",
+    "Party of National Unity (Kenya) politicians",
+    "Members of the National Assembly (Kenya)",
+    "Turkana people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "John Kiyonga Munyes is a Kenyan politician born in 1966 in the latter day Turkana County.",
+              "formatting": {
+                "bold": [
+                  "John Kiyonga Munyes"
+                ]
+              }
+            },
+            {
+              "text": "He attended Lokitaung Primary School for his primary education and he later attended Lodwar High School for his ‘O Level’ and ‘A Level’."
+            },
+            {
+              "text": "He later attended St Francis University for his undergraduate studies.",
+              "links": [
+                {
+                  "text": "St Francis University",
+                  "type": "internal",
+                  "page": "Saint Francis University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He belonged to the Jubilee party and was elected to represent the Turkana North Constituency in the National Assembly of Kenya in the 2007 Kenyan parliamentary election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Turkana North Constituency"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Kenya"
+                },
+                {
+                  "text": "2007 Kenyan parliamentary election",
+                  "type": "internal",
+                  "page": "2007 Kenyan parliamentary election"
+                }
+              ]
+            },
+            {
+              "text": "He later represented Turkana county as a Senator in the Senate of Kenya as elected in the 2013 Kenya Senate elections and is a member of the Jubilee Party of Kenya political party.",
+              "links": [
+                {
+                  "text": "Turkana",
+                  "type": "internal",
+                  "page": "Turkana District"
+                },
+                {
+                  "type": "internal",
+                  "page": "Senate of Kenya"
+                },
+                {
+                  "text": "2013 Kenya Senate elections",
+                  "type": "internal",
+                  "page": "2013 Kenya Senate elections"
+                },
+                {
+                  "text": "Jubilee Party of Kenya",
+                  "type": "internal",
+                  "page": "Jubilee"
+                }
+              ]
+            },
+            {
+              "text": "He also held the seat of Labour Minister as appointed by President Mwai Kibaki.",
+              "links": [
+                {
+                  "text": "Labour Minister",
+                  "type": "internal",
+                  "page": "List of Ministers of Kenya",
+                  "anchor": "Ministry of Labour and Human Resource Development"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mwai Kibaki"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2018, President Uhuru Kenyatta nominated him to serve as Kenya's Cabinet Secretary in charge of Petroleum and Mining, a post he held until February 8th 2022.",
+              "links": [
+                {
+                  "text": "Cabinet Secretary in charge of Petroleum and Mining",
+                  "type": "external",
+                  "site": "https://www.the-star.co.ke/news/2018/01/05/munyes-thanks-uhuru-for-cabinet-job-as-nakuru-celebrates-kinuthia_c1693916"
+                }
+              ]
+            },
+            {
+              "text": "He later on resigned from the position to pursue political interests ahead of the August 2022 General Election.",
+              "links": [
+                {
+                  "text": "resigned",
+                  "type": "external",
+                  "site": "https://nation.africa/kenya/news/politics/keter-munyes-resign-from-cabinet-to-join-active-politics-3708982"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kenyan politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "John Munyes"
+          },
+          "office": {
+            "text": "Member of the Kenyan Senate",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kenyan Senate"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 March 2013"
+          },
+          "county": {
+            "text": "Turkana County",
+            "links": [
+              {
+                "text": "Turkana",
+                "type": "internal",
+                "page": "Turkana District"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Kenyan",
+            "links": [
+              {
+                "text": "Kenyan",
+                "type": "internal",
+                "page": "Kenya"
+              }
+            ]
+          },
+          "party": {
+            "text": "Jubilee Party of Kenya",
+            "links": [
+              {
+                "text": "Jubilee Party of Kenya",
+                "type": "internal",
+                "page": "Jubilee"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Maryanne Munyes"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "kenyan senators"
+        },
+        {
+          "template": "kenya-politician-stub"
+        }
+      ]
+    }
+  ]
+}
